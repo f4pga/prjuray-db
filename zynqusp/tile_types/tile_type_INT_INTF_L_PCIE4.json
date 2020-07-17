@@ -1,0 +1,1686 @@
+{
+    "pips": {
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE->IMUXOUT0": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_1->IMUXOUT10": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_1"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_2->IMUXOUT11": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_2"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_3->IMUXOUT12": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_3"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_4->IMUXOUT13": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_4"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_5->IMUXOUT14": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_5"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_6->IMUXOUT15": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_6"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_7->IMUXOUT16": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_7"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_8->IMUXOUT17": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_8"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_9->IMUXOUT18": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_9"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_10->IMUXOUT19": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_10"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_11->IMUXOUT1": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_11"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_12->IMUXOUT20": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_12"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_13->IMUXOUT21": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_13"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_14->IMUXOUT22": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_14"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_15->IMUXOUT23": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_15"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_16->IMUXOUT24": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_16"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_17->IMUXOUT25": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_17"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_18->IMUXOUT26": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_18"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_19->IMUXOUT27": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_19"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_20->IMUXOUT28": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_20"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_21->IMUXOUT29": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_21"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_22->IMUXOUT2": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_22"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_23->IMUXOUT30": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_23"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_24->IMUXOUT31": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_24"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_25->IMUXOUT32": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_25"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_26->IMUXOUT33": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_26"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_27->IMUXOUT34": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_27"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_28->IMUXOUT35": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_28"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_29->IMUXOUT36": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_29"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_30->IMUXOUT37": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_30"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_31->IMUXOUT38": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_31"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_32->IMUXOUT39": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_32"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_33->IMUXOUT3": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_33"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_34->IMUXOUT40": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_34"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_35->IMUXOUT41": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_35"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_36->IMUXOUT42": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_36"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_37->IMUXOUT43": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_37"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_38->IMUXOUT44": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_38"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_39->IMUXOUT45": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_39"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_40->IMUXOUT46": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_40"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_41->IMUXOUT47": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_41"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_42->IMUXOUT4": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_42"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_43->IMUXOUT5": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_43"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_44->IMUXOUT6": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_44"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_45->IMUXOUT7": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_45"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_46->IMUXOUT8": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_46"
+        },
+        "INT_INTF_L_PCIE4.DELAYWIRE_PCIE_47->IMUXOUT9": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_PCIE_47"
+        },
+        "INT_INTF_L_PCIE4.IMUX0->>DELAYWIRE_PCIE": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX0"
+        },
+        "INT_INTF_L_PCIE4.IMUX0->>IMUXOUT0": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX0"
+        },
+        "INT_INTF_L_PCIE4.IMUX1->>DELAYWIRE_PCIE_11": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX1"
+        },
+        "INT_INTF_L_PCIE4.IMUX1->>IMUXOUT1": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX1"
+        },
+        "INT_INTF_L_PCIE4.IMUX2->>DELAYWIRE_PCIE_22": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX2"
+        },
+        "INT_INTF_L_PCIE4.IMUX2->>IMUXOUT2": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX2"
+        },
+        "INT_INTF_L_PCIE4.IMUX3->>DELAYWIRE_PCIE_33": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX3"
+        },
+        "INT_INTF_L_PCIE4.IMUX3->>IMUXOUT3": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX3"
+        },
+        "INT_INTF_L_PCIE4.IMUX4->>DELAYWIRE_PCIE_42": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX4"
+        },
+        "INT_INTF_L_PCIE4.IMUX4->>IMUXOUT4": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX4"
+        },
+        "INT_INTF_L_PCIE4.IMUX5->>DELAYWIRE_PCIE_43": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX5"
+        },
+        "INT_INTF_L_PCIE4.IMUX5->>IMUXOUT5": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX5"
+        },
+        "INT_INTF_L_PCIE4.IMUX6->>DELAYWIRE_PCIE_44": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX6"
+        },
+        "INT_INTF_L_PCIE4.IMUX6->>IMUXOUT6": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX6"
+        },
+        "INT_INTF_L_PCIE4.IMUX7->>DELAYWIRE_PCIE_45": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX7"
+        },
+        "INT_INTF_L_PCIE4.IMUX7->>IMUXOUT7": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX7"
+        },
+        "INT_INTF_L_PCIE4.IMUX8->>DELAYWIRE_PCIE_46": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX8"
+        },
+        "INT_INTF_L_PCIE4.IMUX8->>IMUXOUT8": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX8"
+        },
+        "INT_INTF_L_PCIE4.IMUX9->>DELAYWIRE_PCIE_47": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX9"
+        },
+        "INT_INTF_L_PCIE4.IMUX9->>IMUXOUT9": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX9"
+        },
+        "INT_INTF_L_PCIE4.IMUX10->>DELAYWIRE_PCIE_1": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX10"
+        },
+        "INT_INTF_L_PCIE4.IMUX10->>IMUXOUT10": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX10"
+        },
+        "INT_INTF_L_PCIE4.IMUX11->>DELAYWIRE_PCIE_2": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX11"
+        },
+        "INT_INTF_L_PCIE4.IMUX11->>IMUXOUT11": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX11"
+        },
+        "INT_INTF_L_PCIE4.IMUX12->>DELAYWIRE_PCIE_3": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX12"
+        },
+        "INT_INTF_L_PCIE4.IMUX12->>IMUXOUT12": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX12"
+        },
+        "INT_INTF_L_PCIE4.IMUX13->>DELAYWIRE_PCIE_4": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX13"
+        },
+        "INT_INTF_L_PCIE4.IMUX13->>IMUXOUT13": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX13"
+        },
+        "INT_INTF_L_PCIE4.IMUX14->>DELAYWIRE_PCIE_5": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX14"
+        },
+        "INT_INTF_L_PCIE4.IMUX14->>IMUXOUT14": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX14"
+        },
+        "INT_INTF_L_PCIE4.IMUX15->>DELAYWIRE_PCIE_6": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX15"
+        },
+        "INT_INTF_L_PCIE4.IMUX15->>IMUXOUT15": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX15"
+        },
+        "INT_INTF_L_PCIE4.IMUX16->>DELAYWIRE_PCIE_7": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX16"
+        },
+        "INT_INTF_L_PCIE4.IMUX16->>IMUXOUT16": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX16"
+        },
+        "INT_INTF_L_PCIE4.IMUX17->>DELAYWIRE_PCIE_8": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX17"
+        },
+        "INT_INTF_L_PCIE4.IMUX17->>IMUXOUT17": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX17"
+        },
+        "INT_INTF_L_PCIE4.IMUX18->>DELAYWIRE_PCIE_9": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX18"
+        },
+        "INT_INTF_L_PCIE4.IMUX18->>IMUXOUT18": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX18"
+        },
+        "INT_INTF_L_PCIE4.IMUX19->>DELAYWIRE_PCIE_10": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX19"
+        },
+        "INT_INTF_L_PCIE4.IMUX19->>IMUXOUT19": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX19"
+        },
+        "INT_INTF_L_PCIE4.IMUX20->>DELAYWIRE_PCIE_12": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX20"
+        },
+        "INT_INTF_L_PCIE4.IMUX20->>IMUXOUT20": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX20"
+        },
+        "INT_INTF_L_PCIE4.IMUX21->>DELAYWIRE_PCIE_13": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX21"
+        },
+        "INT_INTF_L_PCIE4.IMUX21->>IMUXOUT21": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX21"
+        },
+        "INT_INTF_L_PCIE4.IMUX22->>DELAYWIRE_PCIE_14": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX22"
+        },
+        "INT_INTF_L_PCIE4.IMUX22->>IMUXOUT22": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX22"
+        },
+        "INT_INTF_L_PCIE4.IMUX23->>DELAYWIRE_PCIE_15": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX23"
+        },
+        "INT_INTF_L_PCIE4.IMUX23->>IMUXOUT23": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX23"
+        },
+        "INT_INTF_L_PCIE4.IMUX24->>DELAYWIRE_PCIE_16": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX24"
+        },
+        "INT_INTF_L_PCIE4.IMUX24->>IMUXOUT24": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX24"
+        },
+        "INT_INTF_L_PCIE4.IMUX25->>DELAYWIRE_PCIE_17": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX25"
+        },
+        "INT_INTF_L_PCIE4.IMUX25->>IMUXOUT25": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX25"
+        },
+        "INT_INTF_L_PCIE4.IMUX26->>DELAYWIRE_PCIE_18": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX26"
+        },
+        "INT_INTF_L_PCIE4.IMUX26->>IMUXOUT26": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX26"
+        },
+        "INT_INTF_L_PCIE4.IMUX27->>DELAYWIRE_PCIE_19": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX27"
+        },
+        "INT_INTF_L_PCIE4.IMUX27->>IMUXOUT27": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX27"
+        },
+        "INT_INTF_L_PCIE4.IMUX28->>DELAYWIRE_PCIE_20": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX28"
+        },
+        "INT_INTF_L_PCIE4.IMUX28->>IMUXOUT28": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX28"
+        },
+        "INT_INTF_L_PCIE4.IMUX29->>DELAYWIRE_PCIE_21": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX29"
+        },
+        "INT_INTF_L_PCIE4.IMUX29->>IMUXOUT29": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX29"
+        },
+        "INT_INTF_L_PCIE4.IMUX30->>DELAYWIRE_PCIE_23": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX30"
+        },
+        "INT_INTF_L_PCIE4.IMUX30->>IMUXOUT30": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX30"
+        },
+        "INT_INTF_L_PCIE4.IMUX31->>DELAYWIRE_PCIE_24": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX31"
+        },
+        "INT_INTF_L_PCIE4.IMUX31->>IMUXOUT31": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX31"
+        },
+        "INT_INTF_L_PCIE4.IMUX32->>DELAYWIRE_PCIE_25": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX32"
+        },
+        "INT_INTF_L_PCIE4.IMUX32->>IMUXOUT32": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX32"
+        },
+        "INT_INTF_L_PCIE4.IMUX33->>DELAYWIRE_PCIE_26": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX33"
+        },
+        "INT_INTF_L_PCIE4.IMUX33->>IMUXOUT33": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX33"
+        },
+        "INT_INTF_L_PCIE4.IMUX34->>DELAYWIRE_PCIE_27": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX34"
+        },
+        "INT_INTF_L_PCIE4.IMUX34->>IMUXOUT34": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX34"
+        },
+        "INT_INTF_L_PCIE4.IMUX35->>DELAYWIRE_PCIE_28": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX35"
+        },
+        "INT_INTF_L_PCIE4.IMUX35->>IMUXOUT35": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX35"
+        },
+        "INT_INTF_L_PCIE4.IMUX36->>DELAYWIRE_PCIE_29": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX36"
+        },
+        "INT_INTF_L_PCIE4.IMUX36->>IMUXOUT36": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX36"
+        },
+        "INT_INTF_L_PCIE4.IMUX37->>DELAYWIRE_PCIE_30": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX37"
+        },
+        "INT_INTF_L_PCIE4.IMUX37->>IMUXOUT37": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX37"
+        },
+        "INT_INTF_L_PCIE4.IMUX38->>DELAYWIRE_PCIE_31": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX38"
+        },
+        "INT_INTF_L_PCIE4.IMUX38->>IMUXOUT38": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX38"
+        },
+        "INT_INTF_L_PCIE4.IMUX39->>DELAYWIRE_PCIE_32": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX39"
+        },
+        "INT_INTF_L_PCIE4.IMUX39->>IMUXOUT39": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX39"
+        },
+        "INT_INTF_L_PCIE4.IMUX40->>DELAYWIRE_PCIE_34": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX40"
+        },
+        "INT_INTF_L_PCIE4.IMUX40->>IMUXOUT40": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX40"
+        },
+        "INT_INTF_L_PCIE4.IMUX41->>DELAYWIRE_PCIE_35": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX41"
+        },
+        "INT_INTF_L_PCIE4.IMUX41->>IMUXOUT41": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX41"
+        },
+        "INT_INTF_L_PCIE4.IMUX42->>DELAYWIRE_PCIE_36": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX42"
+        },
+        "INT_INTF_L_PCIE4.IMUX42->>IMUXOUT42": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX42"
+        },
+        "INT_INTF_L_PCIE4.IMUX43->>DELAYWIRE_PCIE_37": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX43"
+        },
+        "INT_INTF_L_PCIE4.IMUX43->>IMUXOUT43": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX43"
+        },
+        "INT_INTF_L_PCIE4.IMUX44->>DELAYWIRE_PCIE_38": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX44"
+        },
+        "INT_INTF_L_PCIE4.IMUX44->>IMUXOUT44": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX44"
+        },
+        "INT_INTF_L_PCIE4.IMUX45->>DELAYWIRE_PCIE_39": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX45"
+        },
+        "INT_INTF_L_PCIE4.IMUX45->>IMUXOUT45": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX45"
+        },
+        "INT_INTF_L_PCIE4.IMUX46->>DELAYWIRE_PCIE_40": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX46"
+        },
+        "INT_INTF_L_PCIE4.IMUX46->>IMUXOUT46": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX46"
+        },
+        "INT_INTF_L_PCIE4.IMUX47->>DELAYWIRE_PCIE_41": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_PCIE_41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX47"
+        },
+        "INT_INTF_L_PCIE4.IMUX47->>IMUXOUT47": {
+            "can_invert": "0",
+            "dst_wire": "IMUXOUT47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX47"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L0->>LOGIC_OUTS_R0": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L0"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L1->>LOGIC_OUTS_R1": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L1"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L2->>LOGIC_OUTS_R2": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L2"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L3->>LOGIC_OUTS_R3": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L3"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L4->>LOGIC_OUTS_R4": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L4"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L5->>LOGIC_OUTS_R5": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L5"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L6->>LOGIC_OUTS_R6": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L6"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L7->>LOGIC_OUTS_R7": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L7"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L8->>LOGIC_OUTS_R8": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L8"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L9->>LOGIC_OUTS_R9": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L9"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L10->>LOGIC_OUTS_R10": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L10"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L11->>LOGIC_OUTS_R11": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L11"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L12->>LOGIC_OUTS_R12": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L12"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L13->>LOGIC_OUTS_R13": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L13"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L14->>LOGIC_OUTS_R14": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L14"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L15->>LOGIC_OUTS_R15": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L15"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L16->>LOGIC_OUTS_R16": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L16"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L17->>LOGIC_OUTS_R17": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L17"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L18->>LOGIC_OUTS_R18": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L18"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L19->>LOGIC_OUTS_R19": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L19"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L20->>LOGIC_OUTS_R20": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L20"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L21->>LOGIC_OUTS_R21": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L21"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L22->>LOGIC_OUTS_R22": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L22"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L23->>LOGIC_OUTS_R23": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L23"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L24->>LOGIC_OUTS_R24": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L24"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L25->>LOGIC_OUTS_R25": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L25"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L26->>LOGIC_OUTS_R26": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L26"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L27->>LOGIC_OUTS_R27": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L27"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L28->>LOGIC_OUTS_R28": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L28"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L29->>LOGIC_OUTS_R29": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L29"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L30->>LOGIC_OUTS_R30": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L30"
+        },
+        "INT_INTF_L_PCIE4.LOGIC_OUTS_L31->>LOGIC_OUTS_R31": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L31"
+        }
+    },
+    "sites": [],
+    "tile_type": "INT_INTF_L_PCIE4",
+    "wires": {
+        "BYPASS_R0": null,
+        "BYPASS_R1": null,
+        "BYPASS_R2": null,
+        "BYPASS_R3": null,
+        "BYPASS_R4": null,
+        "BYPASS_R5": null,
+        "BYPASS_R6": null,
+        "BYPASS_R7": null,
+        "BYPASS_R8": null,
+        "BYPASS_R9": null,
+        "BYPASS_R10": null,
+        "BYPASS_R11": null,
+        "BYPASS_R12": null,
+        "BYPASS_R13": null,
+        "BYPASS_R14": null,
+        "BYPASS_R15": null,
+        "CTRL_R0": null,
+        "CTRL_R1": null,
+        "CTRL_R2": null,
+        "CTRL_R3": null,
+        "CTRL_R4": null,
+        "CTRL_R5": null,
+        "CTRL_R6": null,
+        "CTRL_R7": null,
+        "DELAYWIRE_PCIE": null,
+        "DELAYWIRE_PCIE_1": null,
+        "DELAYWIRE_PCIE_2": null,
+        "DELAYWIRE_PCIE_3": null,
+        "DELAYWIRE_PCIE_4": null,
+        "DELAYWIRE_PCIE_5": null,
+        "DELAYWIRE_PCIE_6": null,
+        "DELAYWIRE_PCIE_7": null,
+        "DELAYWIRE_PCIE_8": null,
+        "DELAYWIRE_PCIE_9": null,
+        "DELAYWIRE_PCIE_10": null,
+        "DELAYWIRE_PCIE_11": null,
+        "DELAYWIRE_PCIE_12": null,
+        "DELAYWIRE_PCIE_13": null,
+        "DELAYWIRE_PCIE_14": null,
+        "DELAYWIRE_PCIE_15": null,
+        "DELAYWIRE_PCIE_16": null,
+        "DELAYWIRE_PCIE_17": null,
+        "DELAYWIRE_PCIE_18": null,
+        "DELAYWIRE_PCIE_19": null,
+        "DELAYWIRE_PCIE_20": null,
+        "DELAYWIRE_PCIE_21": null,
+        "DELAYWIRE_PCIE_22": null,
+        "DELAYWIRE_PCIE_23": null,
+        "DELAYWIRE_PCIE_24": null,
+        "DELAYWIRE_PCIE_25": null,
+        "DELAYWIRE_PCIE_26": null,
+        "DELAYWIRE_PCIE_27": null,
+        "DELAYWIRE_PCIE_28": null,
+        "DELAYWIRE_PCIE_29": null,
+        "DELAYWIRE_PCIE_30": null,
+        "DELAYWIRE_PCIE_31": null,
+        "DELAYWIRE_PCIE_32": null,
+        "DELAYWIRE_PCIE_33": null,
+        "DELAYWIRE_PCIE_34": null,
+        "DELAYWIRE_PCIE_35": null,
+        "DELAYWIRE_PCIE_36": null,
+        "DELAYWIRE_PCIE_37": null,
+        "DELAYWIRE_PCIE_38": null,
+        "DELAYWIRE_PCIE_39": null,
+        "DELAYWIRE_PCIE_40": null,
+        "DELAYWIRE_PCIE_41": null,
+        "DELAYWIRE_PCIE_42": null,
+        "DELAYWIRE_PCIE_43": null,
+        "DELAYWIRE_PCIE_44": null,
+        "DELAYWIRE_PCIE_45": null,
+        "DELAYWIRE_PCIE_46": null,
+        "DELAYWIRE_PCIE_47": null,
+        "EASTBUSIN_FT0_0": null,
+        "EASTBUSIN_FT0_1": null,
+        "EASTBUSIN_FT0_2": null,
+        "EASTBUSIN_FT0_3": null,
+        "EASTBUSIN_FT0_4": null,
+        "EASTBUSIN_FT0_5": null,
+        "EASTBUSIN_FT0_6": null,
+        "EASTBUSIN_FT0_7": null,
+        "EASTBUSIN_FT0_8": null,
+        "EASTBUSIN_FT0_9": null,
+        "EASTBUSIN_FT0_10": null,
+        "EASTBUSIN_FT0_11": null,
+        "EASTBUSIN_FT0_12": null,
+        "EASTBUSIN_FT0_13": null,
+        "EASTBUSIN_FT0_14": null,
+        "EASTBUSIN_FT0_15": null,
+        "EASTBUSIN_FT0_16": null,
+        "EASTBUSIN_FT0_17": null,
+        "EASTBUSIN_FT0_18": null,
+        "EASTBUSIN_FT0_19": null,
+        "EASTBUSIN_FT0_20": null,
+        "EASTBUSIN_FT0_21": null,
+        "EASTBUSIN_FT0_22": null,
+        "EASTBUSIN_FT0_23": null,
+        "EASTBUSIN_FT0_24": null,
+        "EASTBUSIN_FT0_25": null,
+        "EASTBUSIN_FT0_26": null,
+        "EASTBUSIN_FT0_27": null,
+        "EASTBUSIN_FT0_28": null,
+        "EASTBUSIN_FT0_29": null,
+        "EASTBUSIN_FT0_30": null,
+        "EASTBUSIN_FT0_31": null,
+        "EASTBUSIN_FT0_32": null,
+        "EASTBUSIN_FT0_33": null,
+        "EASTBUSIN_FT0_34": null,
+        "EASTBUSIN_FT0_35": null,
+        "EASTBUSIN_FT0_36": null,
+        "EASTBUSIN_FT0_37": null,
+        "EASTBUSIN_FT0_38": null,
+        "EASTBUSIN_FT0_39": null,
+        "EASTBUSIN_FT0_40": null,
+        "EASTBUSIN_FT0_41": null,
+        "EASTBUSIN_FT0_42": null,
+        "EASTBUSIN_FT0_43": null,
+        "EASTBUSIN_FT0_44": null,
+        "EASTBUSIN_FT0_45": null,
+        "EASTBUSIN_FT0_46": null,
+        "EASTBUSIN_FT0_47": null,
+        "EASTBUSIN_FT0_48": null,
+        "EASTBUSIN_FT0_49": null,
+        "EASTBUSIN_FT0_50": null,
+        "EASTBUSIN_FT0_51": null,
+        "EASTBUSIN_FT0_52": null,
+        "EASTBUSIN_FT0_53": null,
+        "EASTBUSIN_FT0_54": null,
+        "EASTBUSIN_FT0_55": null,
+        "EASTBUSIN_FT0_56": null,
+        "EASTBUSIN_FT0_57": null,
+        "EASTBUSIN_FT0_58": null,
+        "EASTBUSIN_FT0_59": null,
+        "EASTBUSIN_FT0_60": null,
+        "EASTBUSIN_FT0_61": null,
+        "EASTBUSIN_FT0_62": null,
+        "EASTBUSIN_FT0_63": null,
+        "EASTBUSIN_FT0_64": null,
+        "EASTBUSIN_FT0_65": null,
+        "EASTBUSIN_FT0_66": null,
+        "EASTBUSIN_FT0_67": null,
+        "EASTBUSIN_FT0_68": null,
+        "EASTBUSIN_FT0_69": null,
+        "EASTBUSIN_FT0_70": null,
+        "EASTBUSIN_FT0_71": null,
+        "EASTBUSIN_FT0_72": null,
+        "EASTBUSIN_FT0_73": null,
+        "EASTBUSIN_FT0_74": null,
+        "EASTBUSIN_FT0_75": null,
+        "EASTBUSIN_FT0_76": null,
+        "EASTBUSIN_FT0_77": null,
+        "EASTBUSIN_FT0_78": null,
+        "EASTBUSIN_FT0_79": null,
+        "EASTBUSIN_FT0_80": null,
+        "EASTBUSIN_FT0_81": null,
+        "EASTBUSIN_FT0_82": null,
+        "EASTBUSIN_FT0_83": null,
+        "EASTBUSIN_FT0_84": null,
+        "EASTBUSIN_FT0_85": null,
+        "EASTBUSIN_FT0_86": null,
+        "EASTBUSIN_FT0_87": null,
+        "EASTBUSIN_FT0_88": null,
+        "EASTBUSIN_FT0_89": null,
+        "EASTBUSIN_FT0_90": null,
+        "EASTBUSIN_FT0_91": null,
+        "EASTBUSIN_FT0_92": null,
+        "EASTBUSIN_FT0_93": null,
+        "EASTBUSIN_FT0_94": null,
+        "EASTBUSIN_FT0_95": null,
+        "EASTBUSIN_FT0_96": null,
+        "EASTBUSIN_FT0_97": null,
+        "EASTBUSIN_FT0_98": null,
+        "EASTBUSIN_FT0_99": null,
+        "EASTBUSIN_FT0_100": null,
+        "EASTBUSIN_FT0_101": null,
+        "EASTBUSIN_FT0_102": null,
+        "EASTBUSIN_FT0_103": null,
+        "EASTBUSOUT_FT1_0": null,
+        "EASTBUSOUT_FT1_1": null,
+        "EASTBUSOUT_FT1_2": null,
+        "EASTBUSOUT_FT1_3": null,
+        "EASTBUSOUT_FT1_4": null,
+        "EASTBUSOUT_FT1_5": null,
+        "EASTBUSOUT_FT1_6": null,
+        "EASTBUSOUT_FT1_7": null,
+        "EASTBUSOUT_FT1_8": null,
+        "EASTBUSOUT_FT1_9": null,
+        "EASTBUSOUT_FT1_10": null,
+        "EASTBUSOUT_FT1_11": null,
+        "EASTBUSOUT_FT1_12": null,
+        "EASTBUSOUT_FT1_13": null,
+        "EASTBUSOUT_FT1_14": null,
+        "EASTBUSOUT_FT1_15": null,
+        "EASTBUSOUT_FT1_16": null,
+        "EASTBUSOUT_FT1_17": null,
+        "EASTBUSOUT_FT1_18": null,
+        "EASTBUSOUT_FT1_19": null,
+        "EASTBUSOUT_FT1_20": null,
+        "EASTBUSOUT_FT1_21": null,
+        "EASTBUSOUT_FT1_22": null,
+        "EASTBUSOUT_FT1_23": null,
+        "EASTBUSOUT_FT1_24": null,
+        "EASTBUSOUT_FT1_25": null,
+        "EASTBUSOUT_FT1_26": null,
+        "EASTBUSOUT_FT1_27": null,
+        "EASTBUSOUT_FT1_28": null,
+        "EASTBUSOUT_FT1_29": null,
+        "EASTBUSOUT_FT1_30": null,
+        "EASTBUSOUT_FT1_31": null,
+        "EASTBUSOUT_FT1_32": null,
+        "EASTBUSOUT_FT1_33": null,
+        "EASTBUSOUT_FT1_34": null,
+        "EASTBUSOUT_FT1_35": null,
+        "EASTBUSOUT_FT1_36": null,
+        "EASTBUSOUT_FT1_37": null,
+        "EASTBUSOUT_FT1_38": null,
+        "EASTBUSOUT_FT1_39": null,
+        "EASTBUSOUT_FT1_40": null,
+        "EASTBUSOUT_FT1_41": null,
+        "EASTBUSOUT_FT1_42": null,
+        "EASTBUSOUT_FT1_43": null,
+        "EASTBUSOUT_FT1_44": null,
+        "EASTBUSOUT_FT1_45": null,
+        "EASTBUSOUT_FT1_46": null,
+        "EASTBUSOUT_FT1_47": null,
+        "EASTBUSOUT_FT1_48": null,
+        "EASTBUSOUT_FT1_49": null,
+        "EASTBUSOUT_FT1_50": null,
+        "EASTBUSOUT_FT1_51": null,
+        "EASTBUSOUT_FT1_52": null,
+        "EASTBUSOUT_FT1_53": null,
+        "EASTBUSOUT_FT1_54": null,
+        "EASTBUSOUT_FT1_55": null,
+        "EASTBUSOUT_FT1_56": null,
+        "EASTBUSOUT_FT1_57": null,
+        "EASTBUSOUT_FT1_58": null,
+        "EASTBUSOUT_FT1_59": null,
+        "EASTBUSOUT_FT1_60": null,
+        "EASTBUSOUT_FT1_61": null,
+        "EASTBUSOUT_FT1_62": null,
+        "EASTBUSOUT_FT1_63": null,
+        "EASTBUSOUT_FT1_64": null,
+        "EASTBUSOUT_FT1_65": null,
+        "EASTBUSOUT_FT1_66": null,
+        "EASTBUSOUT_FT1_67": null,
+        "EASTBUSOUT_FT1_68": null,
+        "EASTBUSOUT_FT1_69": null,
+        "EASTBUSOUT_FT1_70": null,
+        "EASTBUSOUT_FT1_71": null,
+        "EASTBUSOUT_FT1_72": null,
+        "EASTBUSOUT_FT1_73": null,
+        "EASTBUSOUT_FT1_74": null,
+        "EASTBUSOUT_FT1_75": null,
+        "EASTBUSOUT_FT1_76": null,
+        "EASTBUSOUT_FT1_77": null,
+        "EASTBUSOUT_FT1_78": null,
+        "EASTBUSOUT_FT1_79": null,
+        "EASTBUSOUT_FT1_80": null,
+        "EASTBUSOUT_FT1_81": null,
+        "EASTBUSOUT_FT1_82": null,
+        "EASTBUSOUT_FT1_83": null,
+        "EASTBUSOUT_FT1_84": null,
+        "EASTBUSOUT_FT1_85": null,
+        "EASTBUSOUT_FT1_86": null,
+        "EASTBUSOUT_FT1_87": null,
+        "EASTBUSOUT_FT1_88": null,
+        "EASTBUSOUT_FT1_89": null,
+        "EASTBUSOUT_FT1_90": null,
+        "EASTBUSOUT_FT1_91": null,
+        "EASTBUSOUT_FT1_92": null,
+        "EASTBUSOUT_FT1_93": null,
+        "EASTBUSOUT_FT1_94": null,
+        "EASTBUSOUT_FT1_95": null,
+        "EASTBUSOUT_FT1_96": null,
+        "EASTBUSOUT_FT1_97": null,
+        "EASTBUSOUT_FT1_98": null,
+        "EASTBUSOUT_FT1_99": null,
+        "EASTBUSOUT_FT1_100": null,
+        "EASTBUSOUT_FT1_101": null,
+        "EASTBUSOUT_FT1_102": null,
+        "EASTBUSOUT_FT1_103": null,
+        "IMUX0": null,
+        "IMUX1": null,
+        "IMUX2": null,
+        "IMUX3": null,
+        "IMUX4": null,
+        "IMUX5": null,
+        "IMUX6": null,
+        "IMUX7": null,
+        "IMUX8": null,
+        "IMUX9": null,
+        "IMUX10": null,
+        "IMUX11": null,
+        "IMUX12": null,
+        "IMUX13": null,
+        "IMUX14": null,
+        "IMUX15": null,
+        "IMUX16": null,
+        "IMUX17": null,
+        "IMUX18": null,
+        "IMUX19": null,
+        "IMUX20": null,
+        "IMUX21": null,
+        "IMUX22": null,
+        "IMUX23": null,
+        "IMUX24": null,
+        "IMUX25": null,
+        "IMUX26": null,
+        "IMUX27": null,
+        "IMUX28": null,
+        "IMUX29": null,
+        "IMUX30": null,
+        "IMUX31": null,
+        "IMUX32": null,
+        "IMUX33": null,
+        "IMUX34": null,
+        "IMUX35": null,
+        "IMUX36": null,
+        "IMUX37": null,
+        "IMUX38": null,
+        "IMUX39": null,
+        "IMUX40": null,
+        "IMUX41": null,
+        "IMUX42": null,
+        "IMUX43": null,
+        "IMUX44": null,
+        "IMUX45": null,
+        "IMUX46": null,
+        "IMUX47": null,
+        "IMUXOUT0": null,
+        "IMUXOUT1": null,
+        "IMUXOUT2": null,
+        "IMUXOUT3": null,
+        "IMUXOUT4": null,
+        "IMUXOUT5": null,
+        "IMUXOUT6": null,
+        "IMUXOUT7": null,
+        "IMUXOUT8": null,
+        "IMUXOUT9": null,
+        "IMUXOUT10": null,
+        "IMUXOUT11": null,
+        "IMUXOUT12": null,
+        "IMUXOUT13": null,
+        "IMUXOUT14": null,
+        "IMUXOUT15": null,
+        "IMUXOUT16": null,
+        "IMUXOUT17": null,
+        "IMUXOUT18": null,
+        "IMUXOUT19": null,
+        "IMUXOUT20": null,
+        "IMUXOUT21": null,
+        "IMUXOUT22": null,
+        "IMUXOUT23": null,
+        "IMUXOUT24": null,
+        "IMUXOUT25": null,
+        "IMUXOUT26": null,
+        "IMUXOUT27": null,
+        "IMUXOUT28": null,
+        "IMUXOUT29": null,
+        "IMUXOUT30": null,
+        "IMUXOUT31": null,
+        "IMUXOUT32": null,
+        "IMUXOUT33": null,
+        "IMUXOUT34": null,
+        "IMUXOUT35": null,
+        "IMUXOUT36": null,
+        "IMUXOUT37": null,
+        "IMUXOUT38": null,
+        "IMUXOUT39": null,
+        "IMUXOUT40": null,
+        "IMUXOUT41": null,
+        "IMUXOUT42": null,
+        "IMUXOUT43": null,
+        "IMUXOUT44": null,
+        "IMUXOUT45": null,
+        "IMUXOUT46": null,
+        "IMUXOUT47": null,
+        "IO_TO_CTR_FT0_0": null,
+        "IO_TO_CTR_FT0_1": null,
+        "IO_TO_CTR_FT0_2": null,
+        "IO_TO_CTR_FT0_3": null,
+        "LOGIC_OUTS_L0": null,
+        "LOGIC_OUTS_L1": null,
+        "LOGIC_OUTS_L2": null,
+        "LOGIC_OUTS_L3": null,
+        "LOGIC_OUTS_L4": null,
+        "LOGIC_OUTS_L5": null,
+        "LOGIC_OUTS_L6": null,
+        "LOGIC_OUTS_L7": null,
+        "LOGIC_OUTS_L8": null,
+        "LOGIC_OUTS_L9": null,
+        "LOGIC_OUTS_L10": null,
+        "LOGIC_OUTS_L11": null,
+        "LOGIC_OUTS_L12": null,
+        "LOGIC_OUTS_L13": null,
+        "LOGIC_OUTS_L14": null,
+        "LOGIC_OUTS_L15": null,
+        "LOGIC_OUTS_L16": null,
+        "LOGIC_OUTS_L17": null,
+        "LOGIC_OUTS_L18": null,
+        "LOGIC_OUTS_L19": null,
+        "LOGIC_OUTS_L20": null,
+        "LOGIC_OUTS_L21": null,
+        "LOGIC_OUTS_L22": null,
+        "LOGIC_OUTS_L23": null,
+        "LOGIC_OUTS_L24": null,
+        "LOGIC_OUTS_L25": null,
+        "LOGIC_OUTS_L26": null,
+        "LOGIC_OUTS_L27": null,
+        "LOGIC_OUTS_L28": null,
+        "LOGIC_OUTS_L29": null,
+        "LOGIC_OUTS_L30": null,
+        "LOGIC_OUTS_L31": null,
+        "LOGIC_OUTS_R0": null,
+        "LOGIC_OUTS_R1": null,
+        "LOGIC_OUTS_R2": null,
+        "LOGIC_OUTS_R3": null,
+        "LOGIC_OUTS_R4": null,
+        "LOGIC_OUTS_R5": null,
+        "LOGIC_OUTS_R6": null,
+        "LOGIC_OUTS_R7": null,
+        "LOGIC_OUTS_R8": null,
+        "LOGIC_OUTS_R9": null,
+        "LOGIC_OUTS_R10": null,
+        "LOGIC_OUTS_R11": null,
+        "LOGIC_OUTS_R12": null,
+        "LOGIC_OUTS_R13": null,
+        "LOGIC_OUTS_R14": null,
+        "LOGIC_OUTS_R15": null,
+        "LOGIC_OUTS_R16": null,
+        "LOGIC_OUTS_R17": null,
+        "LOGIC_OUTS_R18": null,
+        "LOGIC_OUTS_R19": null,
+        "LOGIC_OUTS_R20": null,
+        "LOGIC_OUTS_R21": null,
+        "LOGIC_OUTS_R22": null,
+        "LOGIC_OUTS_R23": null,
+        "LOGIC_OUTS_R24": null,
+        "LOGIC_OUTS_R25": null,
+        "LOGIC_OUTS_R26": null,
+        "LOGIC_OUTS_R27": null,
+        "LOGIC_OUTS_R28": null,
+        "LOGIC_OUTS_R29": null,
+        "LOGIC_OUTS_R30": null,
+        "LOGIC_OUTS_R31": null,
+        "XIL_UCONN_IN0": null,
+        "XIL_UCONN_IN1": null
+    }
+}

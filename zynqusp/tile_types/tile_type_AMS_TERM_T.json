@@ -1,0 +1,13 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "AMS_TERM_T",
+    "wires": {
+        "GND_WIRE0": null,
+        "GND_WIRE1": null,
+        "GND_WIRE2": null,
+        "GND_WIRE3": null,
+        "VCC_WIRE0": null,
+        "VCC_WIRE1": null
+    }
+}

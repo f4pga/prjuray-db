@@ -1,0 +1,1334 @@
+{
+    "pips": {
+        "CLEL_R.CLE_CLE_L_SITE_0_A1->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A1->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A2->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A2->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A3->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A3->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A4->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A4->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A5->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A5->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A6->>CLE_CLE_L_SITE_0_AMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_AMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_A6->>CLE_CLE_L_SITE_0_A_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_A_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_A6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B1->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B1->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B2->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B2->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B3->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B3->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B4->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B4->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B5->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B5->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B6->>CLE_CLE_L_SITE_0_BMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_BMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_B6->>CLE_CLE_L_SITE_0_B_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_B_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_B6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C1->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C1->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C2->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C2->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C3->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C3->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C4->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C4->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C5->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C5->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C6->>CLE_CLE_L_SITE_0_CMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_C6->>CLE_CLE_L_SITE_0_C_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_C_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_C6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_CIN->CLE_CLE_L_SITE_0_CIN_PIN": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_CIN_PIN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLE_CLE_L_SITE_0_CIN"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D1->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D1->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D2->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D2->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D3->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D3->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D4->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D4->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D5->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D5->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D6->>CLE_CLE_L_SITE_0_DMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_DMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_D6->>CLE_CLE_L_SITE_0_D_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_D_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_D6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E1->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E1->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E2->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E2->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E3->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E3->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E4->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E4->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E5->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E5->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E6->>CLE_CLE_L_SITE_0_EMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_EMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_E6->>CLE_CLE_L_SITE_0_E_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_E_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_E6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F1->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F1->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F2->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F2->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F3->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F3->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F4->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F4->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F5->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F5->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F6->>CLE_CLE_L_SITE_0_FMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_FMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_F6->>CLE_CLE_L_SITE_0_F_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_F_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_F6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G1->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G1->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G2->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G2->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G3->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G3->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G4->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G4->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G5->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G5->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G6->>CLE_CLE_L_SITE_0_GMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_GMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_G6->>CLE_CLE_L_SITE_0_G_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_G_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_G6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H1->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H1->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H1"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H2->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H2->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H2"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H3->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H3->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H3"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H4->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H4->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H4"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H5->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H5->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H5"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H6->>CLE_CLE_L_SITE_0_HMUX": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_HMUX",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H6"
+        },
+        "CLEL_R.CLE_CLE_L_SITE_0_H6->>CLE_CLE_L_SITE_0_H_O": {
+            "can_invert": "0",
+            "dst_wire": "CLE_CLE_L_SITE_0_H_O",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLE_CLE_L_SITE_0_H6"
+        }
+    },
+    "sites": [
+        {
+            "name": "X0Y0",
+            "prefix": "SLICE",
+            "site_pins": {
+                "A1": {
+                    "wire": "CLE_CLE_L_SITE_0_A1"
+                },
+                "A2": {
+                    "wire": "CLE_CLE_L_SITE_0_A2"
+                },
+                "A3": {
+                    "wire": "CLE_CLE_L_SITE_0_A3"
+                },
+                "A4": {
+                    "wire": "CLE_CLE_L_SITE_0_A4"
+                },
+                "A5": {
+                    "wire": "CLE_CLE_L_SITE_0_A5"
+                },
+                "A6": {
+                    "wire": "CLE_CLE_L_SITE_0_A6"
+                },
+                "AMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_AMUX"
+                },
+                "AQ": {
+                    "wire": "CLE_CLE_L_SITE_0_AQ"
+                },
+                "AQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_AQ2"
+                },
+                "AX": {
+                    "wire": "CLE_CLE_L_SITE_0_AX"
+                },
+                "A_I": {
+                    "wire": "CLE_CLE_L_SITE_0_A_I"
+                },
+                "A_O": {
+                    "wire": "CLE_CLE_L_SITE_0_A_O"
+                },
+                "B1": {
+                    "wire": "CLE_CLE_L_SITE_0_B1"
+                },
+                "B2": {
+                    "wire": "CLE_CLE_L_SITE_0_B2"
+                },
+                "B3": {
+                    "wire": "CLE_CLE_L_SITE_0_B3"
+                },
+                "B4": {
+                    "wire": "CLE_CLE_L_SITE_0_B4"
+                },
+                "B5": {
+                    "wire": "CLE_CLE_L_SITE_0_B5"
+                },
+                "B6": {
+                    "wire": "CLE_CLE_L_SITE_0_B6"
+                },
+                "BMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_BMUX"
+                },
+                "BQ": {
+                    "wire": "CLE_CLE_L_SITE_0_BQ"
+                },
+                "BQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_BQ2"
+                },
+                "BX": {
+                    "wire": "CLE_CLE_L_SITE_0_BX"
+                },
+                "B_I": {
+                    "wire": "CLE_CLE_L_SITE_0_B_I"
+                },
+                "B_O": {
+                    "wire": "CLE_CLE_L_SITE_0_B_O"
+                },
+                "C1": {
+                    "wire": "CLE_CLE_L_SITE_0_C1"
+                },
+                "C2": {
+                    "wire": "CLE_CLE_L_SITE_0_C2"
+                },
+                "C3": {
+                    "wire": "CLE_CLE_L_SITE_0_C3"
+                },
+                "C4": {
+                    "wire": "CLE_CLE_L_SITE_0_C4"
+                },
+                "C5": {
+                    "wire": "CLE_CLE_L_SITE_0_C5"
+                },
+                "C6": {
+                    "wire": "CLE_CLE_L_SITE_0_C6"
+                },
+                "CIN": {
+                    "wire": "CLE_CLE_L_SITE_0_CIN_PIN"
+                },
+                "CKEN1": {
+                    "wire": "CLE_CLE_L_SITE_0_CKEN1"
+                },
+                "CKEN2": {
+                    "wire": "CLE_CLE_L_SITE_0_CKEN2"
+                },
+                "CKEN3": {
+                    "wire": "CLE_CLE_L_SITE_0_CKEN3"
+                },
+                "CKEN4": {
+                    "wire": "CLE_CLE_L_SITE_0_CKEN4"
+                },
+                "CLK1": {
+                    "wire": "CLE_CLE_L_SITE_0_CLK1"
+                },
+                "CLK2": {
+                    "wire": "CLE_CLE_L_SITE_0_CLK2"
+                },
+                "CMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_CMUX"
+                },
+                "COUT": {
+                    "wire": "CLE_CLE_L_SITE_0_COUT"
+                },
+                "CQ": {
+                    "wire": "CLE_CLE_L_SITE_0_CQ"
+                },
+                "CQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_CQ2"
+                },
+                "CX": {
+                    "wire": "CLE_CLE_L_SITE_0_CX"
+                },
+                "C_I": {
+                    "wire": "CLE_CLE_L_SITE_0_C_I"
+                },
+                "C_O": {
+                    "wire": "CLE_CLE_L_SITE_0_C_O"
+                },
+                "D1": {
+                    "wire": "CLE_CLE_L_SITE_0_D1"
+                },
+                "D2": {
+                    "wire": "CLE_CLE_L_SITE_0_D2"
+                },
+                "D3": {
+                    "wire": "CLE_CLE_L_SITE_0_D3"
+                },
+                "D4": {
+                    "wire": "CLE_CLE_L_SITE_0_D4"
+                },
+                "D5": {
+                    "wire": "CLE_CLE_L_SITE_0_D5"
+                },
+                "D6": {
+                    "wire": "CLE_CLE_L_SITE_0_D6"
+                },
+                "DMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_DMUX"
+                },
+                "DQ": {
+                    "wire": "CLE_CLE_L_SITE_0_DQ"
+                },
+                "DQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_DQ2"
+                },
+                "DX": {
+                    "wire": "CLE_CLE_L_SITE_0_DX"
+                },
+                "D_I": {
+                    "wire": "CLE_CLE_L_SITE_0_D_I"
+                },
+                "D_O": {
+                    "wire": "CLE_CLE_L_SITE_0_D_O"
+                },
+                "E1": {
+                    "wire": "CLE_CLE_L_SITE_0_E1"
+                },
+                "E2": {
+                    "wire": "CLE_CLE_L_SITE_0_E2"
+                },
+                "E3": {
+                    "wire": "CLE_CLE_L_SITE_0_E3"
+                },
+                "E4": {
+                    "wire": "CLE_CLE_L_SITE_0_E4"
+                },
+                "E5": {
+                    "wire": "CLE_CLE_L_SITE_0_E5"
+                },
+                "E6": {
+                    "wire": "CLE_CLE_L_SITE_0_E6"
+                },
+                "EMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_EMUX"
+                },
+                "EQ": {
+                    "wire": "CLE_CLE_L_SITE_0_EQ"
+                },
+                "EQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_EQ2"
+                },
+                "EX": {
+                    "wire": "CLE_CLE_L_SITE_0_EX"
+                },
+                "E_I": {
+                    "wire": "CLE_CLE_L_SITE_0_E_I"
+                },
+                "E_O": {
+                    "wire": "CLE_CLE_L_SITE_0_E_O"
+                },
+                "F1": {
+                    "wire": "CLE_CLE_L_SITE_0_F1"
+                },
+                "F2": {
+                    "wire": "CLE_CLE_L_SITE_0_F2"
+                },
+                "F3": {
+                    "wire": "CLE_CLE_L_SITE_0_F3"
+                },
+                "F4": {
+                    "wire": "CLE_CLE_L_SITE_0_F4"
+                },
+                "F5": {
+                    "wire": "CLE_CLE_L_SITE_0_F5"
+                },
+                "F6": {
+                    "wire": "CLE_CLE_L_SITE_0_F6"
+                },
+                "FMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_FMUX"
+                },
+                "FQ": {
+                    "wire": "CLE_CLE_L_SITE_0_FQ"
+                },
+                "FQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_FQ2"
+                },
+                "FX": {
+                    "wire": "CLE_CLE_L_SITE_0_FX"
+                },
+                "F_I": {
+                    "wire": "CLE_CLE_L_SITE_0_F_I"
+                },
+                "F_O": {
+                    "wire": "CLE_CLE_L_SITE_0_F_O"
+                },
+                "G1": {
+                    "wire": "CLE_CLE_L_SITE_0_G1"
+                },
+                "G2": {
+                    "wire": "CLE_CLE_L_SITE_0_G2"
+                },
+                "G3": {
+                    "wire": "CLE_CLE_L_SITE_0_G3"
+                },
+                "G4": {
+                    "wire": "CLE_CLE_L_SITE_0_G4"
+                },
+                "G5": {
+                    "wire": "CLE_CLE_L_SITE_0_G5"
+                },
+                "G6": {
+                    "wire": "CLE_CLE_L_SITE_0_G6"
+                },
+                "GMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_GMUX"
+                },
+                "GQ": {
+                    "wire": "CLE_CLE_L_SITE_0_GQ"
+                },
+                "GQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_GQ2"
+                },
+                "GX": {
+                    "wire": "CLE_CLE_L_SITE_0_GX"
+                },
+                "G_I": {
+                    "wire": "CLE_CLE_L_SITE_0_G_I"
+                },
+                "G_O": {
+                    "wire": "CLE_CLE_L_SITE_0_G_O"
+                },
+                "H1": {
+                    "wire": "CLE_CLE_L_SITE_0_H1"
+                },
+                "H2": {
+                    "wire": "CLE_CLE_L_SITE_0_H2"
+                },
+                "H3": {
+                    "wire": "CLE_CLE_L_SITE_0_H3"
+                },
+                "H4": {
+                    "wire": "CLE_CLE_L_SITE_0_H4"
+                },
+                "H5": {
+                    "wire": "CLE_CLE_L_SITE_0_H5"
+                },
+                "H6": {
+                    "wire": "CLE_CLE_L_SITE_0_H6"
+                },
+                "HMUX": {
+                    "wire": "CLE_CLE_L_SITE_0_HMUX"
+                },
+                "HQ": {
+                    "wire": "CLE_CLE_L_SITE_0_HQ"
+                },
+                "HQ2": {
+                    "wire": "CLE_CLE_L_SITE_0_HQ2"
+                },
+                "HX": {
+                    "wire": "CLE_CLE_L_SITE_0_HX"
+                },
+                "H_I": {
+                    "wire": "CLE_CLE_L_SITE_0_H_I"
+                },
+                "H_O": {
+                    "wire": "CLE_CLE_L_SITE_0_H_O"
+                },
+                "SRST1": {
+                    "wire": "CLE_CLE_L_SITE_0_SRST1"
+                },
+                "SRST2": {
+                    "wire": "CLE_CLE_L_SITE_0_SRST2"
+                }
+            },
+            "type": "SLICEL",
+            "x_coord": 0,
+            "y_coord": 0
+        }
+    ],
+    "tile_type": "CLEL_R",
+    "wires": {
+        "CLE_CLE_L_SITE_0_A1": null,
+        "CLE_CLE_L_SITE_0_A2": null,
+        "CLE_CLE_L_SITE_0_A3": null,
+        "CLE_CLE_L_SITE_0_A4": null,
+        "CLE_CLE_L_SITE_0_A5": null,
+        "CLE_CLE_L_SITE_0_A6": null,
+        "CLE_CLE_L_SITE_0_AMUX": null,
+        "CLE_CLE_L_SITE_0_AQ": null,
+        "CLE_CLE_L_SITE_0_AQ2": null,
+        "CLE_CLE_L_SITE_0_AX": null,
+        "CLE_CLE_L_SITE_0_A_I": null,
+        "CLE_CLE_L_SITE_0_A_O": null,
+        "CLE_CLE_L_SITE_0_B1": null,
+        "CLE_CLE_L_SITE_0_B2": null,
+        "CLE_CLE_L_SITE_0_B3": null,
+        "CLE_CLE_L_SITE_0_B4": null,
+        "CLE_CLE_L_SITE_0_B5": null,
+        "CLE_CLE_L_SITE_0_B6": null,
+        "CLE_CLE_L_SITE_0_BMUX": null,
+        "CLE_CLE_L_SITE_0_BQ": null,
+        "CLE_CLE_L_SITE_0_BQ2": null,
+        "CLE_CLE_L_SITE_0_BX": null,
+        "CLE_CLE_L_SITE_0_B_I": null,
+        "CLE_CLE_L_SITE_0_B_O": null,
+        "CLE_CLE_L_SITE_0_C1": null,
+        "CLE_CLE_L_SITE_0_C2": null,
+        "CLE_CLE_L_SITE_0_C3": null,
+        "CLE_CLE_L_SITE_0_C4": null,
+        "CLE_CLE_L_SITE_0_C5": null,
+        "CLE_CLE_L_SITE_0_C6": null,
+        "CLE_CLE_L_SITE_0_CIN": null,
+        "CLE_CLE_L_SITE_0_CIN_PIN": null,
+        "CLE_CLE_L_SITE_0_CKEN1": null,
+        "CLE_CLE_L_SITE_0_CKEN2": null,
+        "CLE_CLE_L_SITE_0_CKEN3": null,
+        "CLE_CLE_L_SITE_0_CKEN4": null,
+        "CLE_CLE_L_SITE_0_CLK1": null,
+        "CLE_CLE_L_SITE_0_CLK2": null,
+        "CLE_CLE_L_SITE_0_CMUX": null,
+        "CLE_CLE_L_SITE_0_COUT": null,
+        "CLE_CLE_L_SITE_0_CQ": null,
+        "CLE_CLE_L_SITE_0_CQ2": null,
+        "CLE_CLE_L_SITE_0_CX": null,
+        "CLE_CLE_L_SITE_0_C_I": null,
+        "CLE_CLE_L_SITE_0_C_O": null,
+        "CLE_CLE_L_SITE_0_D1": null,
+        "CLE_CLE_L_SITE_0_D2": null,
+        "CLE_CLE_L_SITE_0_D3": null,
+        "CLE_CLE_L_SITE_0_D4": null,
+        "CLE_CLE_L_SITE_0_D5": null,
+        "CLE_CLE_L_SITE_0_D6": null,
+        "CLE_CLE_L_SITE_0_DMUX": null,
+        "CLE_CLE_L_SITE_0_DQ": null,
+        "CLE_CLE_L_SITE_0_DQ2": null,
+        "CLE_CLE_L_SITE_0_DX": null,
+        "CLE_CLE_L_SITE_0_D_I": null,
+        "CLE_CLE_L_SITE_0_D_O": null,
+        "CLE_CLE_L_SITE_0_E1": null,
+        "CLE_CLE_L_SITE_0_E2": null,
+        "CLE_CLE_L_SITE_0_E3": null,
+        "CLE_CLE_L_SITE_0_E4": null,
+        "CLE_CLE_L_SITE_0_E5": null,
+        "CLE_CLE_L_SITE_0_E6": null,
+        "CLE_CLE_L_SITE_0_EMUX": null,
+        "CLE_CLE_L_SITE_0_EQ": null,
+        "CLE_CLE_L_SITE_0_EQ2": null,
+        "CLE_CLE_L_SITE_0_EX": null,
+        "CLE_CLE_L_SITE_0_E_I": null,
+        "CLE_CLE_L_SITE_0_E_O": null,
+        "CLE_CLE_L_SITE_0_F1": null,
+        "CLE_CLE_L_SITE_0_F2": null,
+        "CLE_CLE_L_SITE_0_F3": null,
+        "CLE_CLE_L_SITE_0_F4": null,
+        "CLE_CLE_L_SITE_0_F5": null,
+        "CLE_CLE_L_SITE_0_F6": null,
+        "CLE_CLE_L_SITE_0_FMUX": null,
+        "CLE_CLE_L_SITE_0_FQ": null,
+        "CLE_CLE_L_SITE_0_FQ2": null,
+        "CLE_CLE_L_SITE_0_FX": null,
+        "CLE_CLE_L_SITE_0_F_I": null,
+        "CLE_CLE_L_SITE_0_F_O": null,
+        "CLE_CLE_L_SITE_0_G1": null,
+        "CLE_CLE_L_SITE_0_G2": null,
+        "CLE_CLE_L_SITE_0_G3": null,
+        "CLE_CLE_L_SITE_0_G4": null,
+        "CLE_CLE_L_SITE_0_G5": null,
+        "CLE_CLE_L_SITE_0_G6": null,
+        "CLE_CLE_L_SITE_0_GMUX": null,
+        "CLE_CLE_L_SITE_0_GQ": null,
+        "CLE_CLE_L_SITE_0_GQ2": null,
+        "CLE_CLE_L_SITE_0_GX": null,
+        "CLE_CLE_L_SITE_0_G_I": null,
+        "CLE_CLE_L_SITE_0_G_O": null,
+        "CLE_CLE_L_SITE_0_H1": null,
+        "CLE_CLE_L_SITE_0_H2": null,
+        "CLE_CLE_L_SITE_0_H3": null,
+        "CLE_CLE_L_SITE_0_H4": null,
+        "CLE_CLE_L_SITE_0_H5": null,
+        "CLE_CLE_L_SITE_0_H6": null,
+        "CLE_CLE_L_SITE_0_HMUX": null,
+        "CLE_CLE_L_SITE_0_HQ": null,
+        "CLE_CLE_L_SITE_0_HQ2": null,
+        "CLE_CLE_L_SITE_0_HX": null,
+        "CLE_CLE_L_SITE_0_H_I": null,
+        "CLE_CLE_L_SITE_0_H_O": null,
+        "CLE_CLE_L_SITE_0_SRST1": null,
+        "CLE_CLE_L_SITE_0_SRST2": null,
+        "EASTBUSIN_FT0_0": null,
+        "EASTBUSIN_FT0_1": null,
+        "EASTBUSIN_FT0_2": null,
+        "EASTBUSIN_FT0_3": null,
+        "EASTBUSIN_FT0_4": null,
+        "EASTBUSIN_FT0_5": null,
+        "EASTBUSIN_FT0_6": null,
+        "EASTBUSIN_FT0_7": null,
+        "EASTBUSIN_FT0_8": null,
+        "EASTBUSIN_FT0_9": null,
+        "EASTBUSIN_FT0_10": null,
+        "EASTBUSIN_FT0_11": null,
+        "EASTBUSIN_FT0_12": null,
+        "EASTBUSIN_FT0_13": null,
+        "EASTBUSIN_FT0_14": null,
+        "EASTBUSIN_FT0_15": null,
+        "EASTBUSIN_FT0_16": null,
+        "EASTBUSIN_FT0_17": null,
+        "EASTBUSIN_FT0_18": null,
+        "EASTBUSIN_FT0_19": null,
+        "EASTBUSIN_FT0_20": null,
+        "EASTBUSIN_FT0_21": null,
+        "EASTBUSIN_FT0_22": null,
+        "EASTBUSIN_FT0_23": null,
+        "EASTBUSIN_FT0_24": null,
+        "EASTBUSIN_FT0_25": null,
+        "EASTBUSIN_FT0_26": null,
+        "EASTBUSIN_FT0_27": null,
+        "EASTBUSIN_FT0_28": null,
+        "EASTBUSIN_FT0_29": null,
+        "EASTBUSIN_FT0_30": null,
+        "EASTBUSIN_FT0_31": null,
+        "EASTBUSIN_FT0_32": null,
+        "EASTBUSIN_FT0_33": null,
+        "EASTBUSIN_FT0_34": null,
+        "EASTBUSIN_FT0_35": null,
+        "EASTBUSIN_FT0_36": null,
+        "EASTBUSIN_FT0_37": null,
+        "EASTBUSIN_FT0_38": null,
+        "EASTBUSIN_FT0_39": null,
+        "EASTBUSIN_FT0_40": null,
+        "EASTBUSIN_FT0_41": null,
+        "EASTBUSIN_FT0_42": null,
+        "EASTBUSIN_FT0_43": null,
+        "EASTBUSIN_FT0_44": null,
+        "EASTBUSIN_FT0_45": null,
+        "EASTBUSIN_FT0_46": null,
+        "EASTBUSIN_FT0_47": null,
+        "EASTBUSIN_FT0_48": null,
+        "EASTBUSIN_FT0_49": null,
+        "EASTBUSIN_FT0_50": null,
+        "EASTBUSIN_FT0_51": null,
+        "EASTBUSIN_FT0_52": null,
+        "EASTBUSIN_FT0_53": null,
+        "EASTBUSIN_FT0_54": null,
+        "EASTBUSIN_FT0_55": null,
+        "EASTBUSIN_FT0_56": null,
+        "EASTBUSIN_FT0_57": null,
+        "EASTBUSIN_FT0_58": null,
+        "EASTBUSIN_FT0_59": null,
+        "EASTBUSIN_FT0_60": null,
+        "EASTBUSIN_FT0_61": null,
+        "EASTBUSIN_FT0_62": null,
+        "EASTBUSIN_FT0_63": null,
+        "EASTBUSIN_FT0_64": null,
+        "EASTBUSIN_FT0_65": null,
+        "EASTBUSIN_FT0_66": null,
+        "EASTBUSIN_FT0_67": null,
+        "EASTBUSIN_FT0_68": null,
+        "EASTBUSIN_FT0_69": null,
+        "EASTBUSIN_FT0_70": null,
+        "EASTBUSIN_FT0_71": null,
+        "EASTBUSIN_FT0_72": null,
+        "EASTBUSIN_FT0_73": null,
+        "EASTBUSIN_FT0_74": null,
+        "EASTBUSIN_FT0_75": null,
+        "EASTBUSIN_FT0_76": null,
+        "EASTBUSIN_FT0_77": null,
+        "EASTBUSIN_FT0_78": null,
+        "EASTBUSIN_FT0_79": null,
+        "EASTBUSIN_FT0_80": null,
+        "EASTBUSIN_FT0_81": null,
+        "EASTBUSIN_FT0_82": null,
+        "EASTBUSIN_FT0_83": null,
+        "EASTBUSIN_FT0_84": null,
+        "EASTBUSIN_FT0_85": null,
+        "EASTBUSIN_FT0_86": null,
+        "EASTBUSIN_FT0_87": null,
+        "EASTBUSIN_FT0_88": null,
+        "EASTBUSIN_FT0_89": null,
+        "EASTBUSIN_FT0_90": null,
+        "EASTBUSIN_FT0_91": null,
+        "EASTBUSIN_FT0_92": null,
+        "EASTBUSIN_FT0_93": null,
+        "EASTBUSIN_FT0_94": null,
+        "EASTBUSIN_FT0_95": null,
+        "EASTBUSIN_FT0_96": null,
+        "EASTBUSIN_FT0_97": null,
+        "EASTBUSIN_FT0_98": null,
+        "EASTBUSIN_FT0_99": null,
+        "EASTBUSIN_FT0_100": null,
+        "EASTBUSIN_FT0_101": null,
+        "EASTBUSIN_FT0_102": null,
+        "EASTBUSIN_FT0_103": null,
+        "EASTBUSOUT_FT1_0": null,
+        "EASTBUSOUT_FT1_1": null,
+        "EASTBUSOUT_FT1_2": null,
+        "EASTBUSOUT_FT1_3": null,
+        "EASTBUSOUT_FT1_4": null,
+        "EASTBUSOUT_FT1_5": null,
+        "EASTBUSOUT_FT1_6": null,
+        "EASTBUSOUT_FT1_7": null,
+        "EASTBUSOUT_FT1_8": null,
+        "EASTBUSOUT_FT1_9": null,
+        "EASTBUSOUT_FT1_10": null,
+        "EASTBUSOUT_FT1_11": null,
+        "EASTBUSOUT_FT1_12": null,
+        "EASTBUSOUT_FT1_13": null,
+        "EASTBUSOUT_FT1_14": null,
+        "EASTBUSOUT_FT1_15": null,
+        "EASTBUSOUT_FT1_16": null,
+        "EASTBUSOUT_FT1_17": null,
+        "EASTBUSOUT_FT1_18": null,
+        "EASTBUSOUT_FT1_19": null,
+        "EASTBUSOUT_FT1_20": null,
+        "EASTBUSOUT_FT1_21": null,
+        "EASTBUSOUT_FT1_22": null,
+        "EASTBUSOUT_FT1_23": null,
+        "EASTBUSOUT_FT1_24": null,
+        "EASTBUSOUT_FT1_25": null,
+        "EASTBUSOUT_FT1_26": null,
+        "EASTBUSOUT_FT1_27": null,
+        "EASTBUSOUT_FT1_28": null,
+        "EASTBUSOUT_FT1_29": null,
+        "EASTBUSOUT_FT1_30": null,
+        "EASTBUSOUT_FT1_31": null,
+        "EASTBUSOUT_FT1_32": null,
+        "EASTBUSOUT_FT1_33": null,
+        "EASTBUSOUT_FT1_34": null,
+        "EASTBUSOUT_FT1_35": null,
+        "EASTBUSOUT_FT1_36": null,
+        "EASTBUSOUT_FT1_37": null,
+        "EASTBUSOUT_FT1_38": null,
+        "EASTBUSOUT_FT1_39": null,
+        "EASTBUSOUT_FT1_40": null,
+        "EASTBUSOUT_FT1_41": null,
+        "EASTBUSOUT_FT1_42": null,
+        "EASTBUSOUT_FT1_43": null,
+        "EASTBUSOUT_FT1_44": null,
+        "EASTBUSOUT_FT1_45": null,
+        "EASTBUSOUT_FT1_46": null,
+        "EASTBUSOUT_FT1_47": null,
+        "EASTBUSOUT_FT1_48": null,
+        "EASTBUSOUT_FT1_49": null,
+        "EASTBUSOUT_FT1_50": null,
+        "EASTBUSOUT_FT1_51": null,
+        "EASTBUSOUT_FT1_52": null,
+        "EASTBUSOUT_FT1_53": null,
+        "EASTBUSOUT_FT1_54": null,
+        "EASTBUSOUT_FT1_55": null,
+        "EASTBUSOUT_FT1_56": null,
+        "EASTBUSOUT_FT1_57": null,
+        "EASTBUSOUT_FT1_58": null,
+        "EASTBUSOUT_FT1_59": null,
+        "EASTBUSOUT_FT1_60": null,
+        "EASTBUSOUT_FT1_61": null,
+        "EASTBUSOUT_FT1_62": null,
+        "EASTBUSOUT_FT1_63": null,
+        "EASTBUSOUT_FT1_64": null,
+        "EASTBUSOUT_FT1_65": null,
+        "EASTBUSOUT_FT1_66": null,
+        "EASTBUSOUT_FT1_67": null,
+        "EASTBUSOUT_FT1_68": null,
+        "EASTBUSOUT_FT1_69": null,
+        "EASTBUSOUT_FT1_70": null,
+        "EASTBUSOUT_FT1_71": null,
+        "EASTBUSOUT_FT1_72": null,
+        "EASTBUSOUT_FT1_73": null,
+        "EASTBUSOUT_FT1_74": null,
+        "EASTBUSOUT_FT1_75": null,
+        "EASTBUSOUT_FT1_76": null,
+        "EASTBUSOUT_FT1_77": null,
+        "EASTBUSOUT_FT1_78": null,
+        "EASTBUSOUT_FT1_79": null,
+        "EASTBUSOUT_FT1_80": null,
+        "EASTBUSOUT_FT1_81": null,
+        "EASTBUSOUT_FT1_82": null,
+        "EASTBUSOUT_FT1_83": null,
+        "EASTBUSOUT_FT1_84": null,
+        "EASTBUSOUT_FT1_85": null,
+        "EASTBUSOUT_FT1_86": null,
+        "EASTBUSOUT_FT1_87": null,
+        "EASTBUSOUT_FT1_88": null,
+        "EASTBUSOUT_FT1_89": null,
+        "EASTBUSOUT_FT1_90": null,
+        "EASTBUSOUT_FT1_91": null,
+        "EASTBUSOUT_FT1_92": null,
+        "EASTBUSOUT_FT1_93": null,
+        "EASTBUSOUT_FT1_94": null,
+        "EASTBUSOUT_FT1_95": null,
+        "EASTBUSOUT_FT1_96": null,
+        "EASTBUSOUT_FT1_97": null,
+        "EASTBUSOUT_FT1_98": null,
+        "EASTBUSOUT_FT1_99": null,
+        "EASTBUSOUT_FT1_100": null,
+        "EASTBUSOUT_FT1_101": null,
+        "EASTBUSOUT_FT1_102": null,
+        "EASTBUSOUT_FT1_103": null,
+        "IO_TO_CTR_FT0_0": null,
+        "IO_TO_CTR_FT0_1": null,
+        "IO_TO_CTR_FT0_2": null,
+        "IO_TO_CTR_FT0_3": null
+    }
+}

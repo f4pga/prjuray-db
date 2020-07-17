@@ -1,0 +1,32 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "HDIO_RIGHT_TERM_B",
+    "wires": {
+        "AMS_IO_BUS0": null,
+        "AMS_IO_BUS1": null,
+        "AMS_IO_BUS2": null,
+        "AMS_IO_BUS3": null,
+        "AMS_IO_BUS4": null,
+        "AMS_IO_BUS5": null,
+        "AMS_IO_BUS6": null,
+        "AMS_IO_BUS7": null,
+        "AMS_IO_BUS8": null,
+        "AMS_IO_BUS9": null,
+        "AMS_IO_BUS10": null,
+        "AMS_IO_BUS11": null,
+        "AMS_IO_BUS12": null,
+        "AMS_IO_BUS13": null,
+        "AMS_IO_BUS14": null,
+        "AMS_IO_BUS15": null,
+        "CCIO_IO2RCLK0": null,
+        "CCIO_IO2RCLK1": null,
+        "GND_WIRE0": null,
+        "GND_WIRE1": null,
+        "GND_WIRE2": null,
+        "VCC_WIRE0": null,
+        "VCC_WIRE1": null,
+        "VCC_WIRE2": null,
+        "VCC_WIRE3": null
+    }
+}

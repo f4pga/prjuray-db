@@ -1,0 +1,2778 @@
+{
+    "site_pins": {
+        "BS2CTL_RIU_BS_DQS_EN0": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN1": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN2": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN3": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN4": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN5": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_BS_DQS_EN6": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE0": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE1": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE2": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE3": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE4": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE5": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE6": {
+            "direction": "IN"
+        },
+        "BS2CTL_RIU_TX_DATA_PHASE7": {
+            "direction": "IN"
+        },
+        "BS_RESET_TRI": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_CTRL_RST": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS0_0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS0_1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS0_2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS0_3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS1_0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS1_1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS1_2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDCS1_3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDEN0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDEN1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDEN2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_RDEN3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_T_B0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_T_B1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_T_B2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_T_B3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS0_0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS0_1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS0_2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS0_3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS1_0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS1_1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS1_2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_WRCS1_3": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR0": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR1": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR2": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR3": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR4": {
+            "direction": "IN"
+        },
+        "CLB2RIU_ADDR5": {
+            "direction": "IN"
+        },
+        "CLB2RIU_NIBBLE_SEL": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA0": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA1": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA2": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA3": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA4": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA5": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA6": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA7": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA8": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA9": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA10": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA11": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA12": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA13": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA14": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_DATA15": {
+            "direction": "IN"
+        },
+        "CLB2RIU_WR_EN": {
+            "direction": "IN"
+        },
+        "CLK_FROM_EXT": {
+            "direction": "IN"
+        },
+        "CLK_STOP": {
+            "direction": "IN"
+        },
+        "CLK_TO_EXT_NORTH": {
+            "direction": "OUT"
+        },
+        "CLK_TO_EXT_SOUTH": {
+            "direction": "OUT"
+        },
+        "CTRL_DLY_TEST_IN": {
+            "direction": "IN"
+        },
+        "CTRL_DLY_TEST_OUT": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT0": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT1": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT2": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT3": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT4": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT5": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT6": {
+            "direction": "OUT"
+        },
+        "DDR_CLK_OUT7": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT0": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT1": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT2": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT3": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT4": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT5": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT6": {
+            "direction": "OUT"
+        },
+        "DIV2_CLK_OUT7": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT0": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT1": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT2": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT3": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT4": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT5": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT6": {
+            "direction": "OUT"
+        },
+        "DIV_CLK_OUT7": {
+            "direction": "OUT"
+        },
+        "DQS_IN0": {
+            "direction": "IN"
+        },
+        "DQS_IN1": {
+            "direction": "IN"
+        },
+        "DQS_IN2": {
+            "direction": "IN"
+        },
+        "DQS_IN3": {
+            "direction": "IN"
+        },
+        "DQS_IN4": {
+            "direction": "IN"
+        },
+        "DQS_IN5": {
+            "direction": "IN"
+        },
+        "DQS_IN6": {
+            "direction": "IN"
+        },
+        "DYNAMIC_MODE_EN0": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN1": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN2": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN3": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN4": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN5": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN6": {
+            "direction": "OUT"
+        },
+        "DYNAMIC_MODE_EN7": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT0": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT1": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT2": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT3": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT4": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT5": {
+            "direction": "OUT"
+        },
+        "DYN_DCI_OUT6": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE0": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE1": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE2": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE3": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE4": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE5": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE6": {
+            "direction": "OUT"
+        },
+        "EN_DIV_DLY_OE7": {
+            "direction": "OUT"
+        },
+        "EN_VTC": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY00_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY01_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY02_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY03_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY04_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY05_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_IDELAY06_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY00_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY01_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY02_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY03_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY04_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY05_17": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_0": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_1": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_2": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_3": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_4": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_5": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_6": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_7": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_8": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_9": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_10": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_11": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_12": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_13": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_14": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_15": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_16": {
+            "direction": "IN"
+        },
+        "FIXDLYRATIO_ODELAY06_17": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY00": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY01": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY02": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY03": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY04": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY05": {
+            "direction": "IN"
+        },
+        "FIXED_IDELAY06": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY00": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY01": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY02": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY03": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY04": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY05": {
+            "direction": "IN"
+        },
+        "FIXED_ODELAY06": {
+            "direction": "IN"
+        },
+        "FORCE_OE_B": {
+            "direction": "OUT"
+        },
+        "IDELAY00_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY00_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY00_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY00_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY01_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY01_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY01_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY01_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY02_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY02_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY02_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY02_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY03_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY03_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY03_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY03_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY04_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY04_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY04_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY04_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY05_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY05_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY05_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY05_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY06_IN0": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN1": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN2": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN3": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN4": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN5": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN6": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN7": {
+            "direction": "IN"
+        },
+        "IDELAY06_IN8": {
+            "direction": "IN"
+        },
+        "IDELAY06_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT7": {
+            "direction": "OUT"
+        },
+        "IDELAY06_OUT8": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY_CE_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK0": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK1": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK2": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK3": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK4": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK5": {
+            "direction": "OUT"
+        },
+        "IDELAY_CTRL_CLK6": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY_INC_OUT6": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT0": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT1": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT2": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT3": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT4": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT5": {
+            "direction": "OUT"
+        },
+        "IDELAY_LD_OUT6": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS0": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS1": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS2": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS3": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS4": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS5": {
+            "direction": "OUT"
+        },
+        "IFIFO_BYPASS6": {
+            "direction": "OUT"
+        },
+        "LOCAL_DIV_CLK": {
+            "direction": "OUT"
+        },
+        "MASTER_PD_OUT": {
+            "direction": "OUT"
+        },
+        "NDQS_GT_IN": {
+            "direction": "IN"
+        },
+        "NDQS_GT_OUT": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT0": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT1": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT2": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT3": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT4": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT5": {
+            "direction": "OUT"
+        },
+        "NDQS_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY00_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY00_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY00_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY00_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY01_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY01_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY01_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY01_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY02_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY02_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY02_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY02_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY03_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY03_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY03_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY03_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY04_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY04_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY04_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY04_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY05_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY05_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY05_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY05_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY06_IN0": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN1": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN2": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN3": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN4": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN5": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN6": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN7": {
+            "direction": "IN"
+        },
+        "ODELAY06_IN8": {
+            "direction": "IN"
+        },
+        "ODELAY06_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT7": {
+            "direction": "OUT"
+        },
+        "ODELAY06_OUT8": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY_CE_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK0": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK1": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK2": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK3": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK4": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK5": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK6": {
+            "direction": "OUT"
+        },
+        "ODELAY_CTRL_CLK7": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY_INC_OUT6": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT0": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT1": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT2": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT3": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT4": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT5": {
+            "direction": "OUT"
+        },
+        "ODELAY_LD_OUT6": {
+            "direction": "OUT"
+        },
+        "PDQS_GT_IN": {
+            "direction": "IN"
+        },
+        "PDQS_GT_OUT": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT0": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT1": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT2": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT3": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT4": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT5": {
+            "direction": "OUT"
+        },
+        "PDQS_OUT6": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_0": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_1": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_2": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_3": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_4": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_5": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_6": {
+            "direction": "OUT"
+        },
+        "PH0_DIV_720_7": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_0": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_1": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_2": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_3": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_4": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_5": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_6": {
+            "direction": "OUT"
+        },
+        "PH1_DIV_720_7": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_0": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_1": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_2": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_3": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_4": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_5": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_6": {
+            "direction": "OUT"
+        },
+        "PH02_DIV2_360_7": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_0": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_1": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_2": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_3": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_4": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_5": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_6": {
+            "direction": "OUT"
+        },
+        "PH2_DIV_720_7": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_0": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_1": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_2": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_3": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_4": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_5": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_6": {
+            "direction": "OUT"
+        },
+        "PH3_DIV_720_7": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_0": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_1": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_2": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_3": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_4": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_5": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_6": {
+            "direction": "OUT"
+        },
+        "PH13_DIV2_360_7": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_FIXDLY_RDY": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_PHY_RDY": {
+            "direction": "OUT"
+        },
+        "PLL_CLK": {
+            "direction": "IN"
+        },
+        "PLL_CLK_EN": {
+            "direction": "OUT"
+        },
+        "REFCLK": {
+            "direction": "IN"
+        },
+        "REFCLK_DFD": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN0": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN1": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN2": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN3": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN4": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN5": {
+            "direction": "OUT"
+        },
+        "REFCLK_EN6": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA0": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA1": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA2": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA3": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA4": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA5": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA6": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA7": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA8": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA9": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA10": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA11": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA12": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA13": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA14": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_RD_DATA15": {
+            "direction": "OUT"
+        },
+        "RIU2CLB_VALID": {
+            "direction": "OUT"
+        },
+        "RIU_CLK": {
+            "direction": "IN"
+        },
+        "RX_BS_RESET0": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET1": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET2": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET3": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET4": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET5": {
+            "direction": "OUT"
+        },
+        "RX_BS_RESET6": {
+            "direction": "OUT"
+        },
+        "RX_DCC00_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC00_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC00_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC00_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC01_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC01_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC01_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC01_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC02_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC02_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC02_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC02_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC03_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC03_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC03_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC03_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC04_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC04_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC04_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC04_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC05_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC05_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC05_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC05_3": {
+            "direction": "OUT"
+        },
+        "RX_DCC06_0": {
+            "direction": "OUT"
+        },
+        "RX_DCC06_1": {
+            "direction": "OUT"
+        },
+        "RX_DCC06_2": {
+            "direction": "OUT"
+        },
+        "RX_DCC06_3": {
+            "direction": "OUT"
+        },
+        "RX_NDQ0_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ1_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ2_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ3_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ4_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ5_IN": {
+            "direction": "IN"
+        },
+        "RX_NDQ6_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ0_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ1_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ2_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ3_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ4_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ5_IN": {
+            "direction": "IN"
+        },
+        "RX_PDQ6_IN": {
+            "direction": "IN"
+        },
+        "SCAN_INT": {
+            "direction": "IN"
+        },
+        "TOGGLE_DIV2_SEL0": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL1": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL2": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL3": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL4": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL5": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL6": {
+            "direction": "OUT"
+        },
+        "TOGGLE_DIV2_SEL7": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_CE_OUT": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_IN0": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN1": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN2": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN3": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN4": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN5": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN6": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN7": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_IN8": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_INC_OUT": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_LD_OUT": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT0": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT1": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT2": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT3": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT4": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT5": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT6": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT7": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_OUT8": {
+            "direction": "OUT"
+        },
+        "TRISTATE_VTC_READY": {
+            "direction": "IN"
+        },
+        "TX_BS_RESET0": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET1": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET2": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET3": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET4": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET5": {
+            "direction": "OUT"
+        },
+        "TX_BS_RESET6": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE0": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE1": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE2": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE3": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE4": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE5": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE6": {
+            "direction": "OUT"
+        },
+        "TX_DATA_PHASE7": {
+            "direction": "OUT"
+        },
+        "VTC_READY_IDELAY00": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY01": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY02": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY03": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY04": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY05": {
+            "direction": "IN"
+        },
+        "VTC_READY_IDELAY06": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY00": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY01": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY02": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY03": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY04": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY05": {
+            "direction": "IN"
+        },
+        "VTC_READY_ODELAY06": {
+            "direction": "IN"
+        },
+        "WL_TRAIN0": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN1": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN2": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN3": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN4": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN5": {
+            "direction": "OUT"
+        },
+        "WL_TRAIN6": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "BITSLICE_CONTROL"
+}

@@ -1,0 +1,373 @@
+{
+    "pips": {
+        "RCLK_CLEM_L.CLK_BUFCE_ROW_FSR_0_CE_PRE_OPTINV->>CLK_BUFCE_ROW_FSR_0_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFCE_ROW_FSR_0_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLK_BUFCE_ROW_FSR_0_CE_PRE_OPTINV"
+        },
+        "RCLK_CLEM_L.CLK_BUFCE_ROW_FSR_0_CLK_IN->>CLK_BUFCE_ROW_FSR_0_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFCE_ROW_FSR_0_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "1",
+            "src_wire": "CLK_BUFCE_ROW_FSR_0_CLK_IN"
+        },
+        "RCLK_CLEM_L.CLK_BUFCE_ROW_FSR_0_CLK_OUT->>CLK_TEST_BUF_SITE_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_TEST_BUF_SITE_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFCE_ROW_FSR_0_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B->>CLK_BUFCE_ROW_FSR_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFCE_ROW_FSR_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_1_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_1_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B->>CLK_BUFCE_ROW_FSR_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFCE_ROW_FSR_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_0_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_0_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_2TO1_1_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_2TO1_1_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_1_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_1_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_3_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_3_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_2TO1_1_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_2TO1_1_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_0_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_0_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B->>CLK_CMT_MUX_3TO1_2_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_2_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B"
+        },
+        "RCLK_CLEM_L.CLK_CMT_MUX_2TO1_1_CLK_OUT->>CLK_HROUTE_CORE_OPT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE_CORE_OPT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_MUX_2TO1_1_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_CMT_MUX_3TO1_0_CLK_OUT->>CLK_VDISTR_BOT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VDISTR_BOT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_MUX_3TO1_0_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_CMT_MUX_3TO1_1_CLK_OUT->>CLK_VDISTR_TOP": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VDISTR_TOP",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_MUX_3TO1_1_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_CMT_MUX_3TO1_2_CLK_OUT->>CLK_VROUTE_BOT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VROUTE_BOT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_MUX_3TO1_2_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_CMT_MUX_3TO1_3_CLK_OUT->>CLK_VROUTE_TOP": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VROUTE_TOP",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_CMT_MUX_3TO1_3_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_HROUTE_CORE_OPT->>CLK_CMT_MUX_3TO1_0_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_0_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_HROUTE_CORE_OPT"
+        },
+        "RCLK_CLEM_L.CLK_HROUTE_CORE_OPT->>CLK_CMT_MUX_3TO1_1_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_1_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_HROUTE_CORE_OPT"
+        },
+        "RCLK_CLEM_L.CLK_HROUTE_CORE_OPT->>CLK_CMT_MUX_3TO1_2_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_2_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_HROUTE_CORE_OPT"
+        },
+        "RCLK_CLEM_L.CLK_HROUTE_CORE_OPT->>CLK_CMT_MUX_3TO1_3_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_3_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_HROUTE_CORE_OPT"
+        },
+        "RCLK_CLEM_L.CLK_TEST_BUF_SITE_1_CLK_IN->CLK_TEST_BUF_SITE_1_CLK_IN_PIN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_TEST_BUF_SITE_1_CLK_IN_PIN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_TEST_BUF_SITE_1_CLK_IN"
+        },
+        "RCLK_CLEM_L.CLK_TEST_BUF_SITE_1_CLK_OUT->>CLK_CMT_MUX_3TO1_2_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_2_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_TEST_BUF_SITE_1_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_TEST_BUF_SITE_1_CLK_OUT->>CLK_CMT_MUX_3TO1_3_CLK_OUT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_MUX_3TO1_3_CLK_OUT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_TEST_BUF_SITE_1_CLK_OUT"
+        },
+        "RCLK_CLEM_L.CLK_VDISTR_BOT->>CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_VDISTR_BOT"
+        },
+        "RCLK_CLEM_L.CLK_VDISTR_TOP->>CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_VDISTR_TOP"
+        },
+        "RCLK_CLEM_L.CLK_VROUTE_BOT->>CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_VROUTE_BOT"
+        },
+        "RCLK_CLEM_L.CLK_VROUTE_TOP->>CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B": {
+            "can_invert": "0",
+            "dst_wire": "CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_VROUTE_TOP"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_HROUTE_CORE_OPT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE_CORE_OPT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_TEST_BUF_SITE_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_TEST_BUF_SITE_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_VDISTR_BOT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VDISTR_BOT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_VDISTR_TOP": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VDISTR_TOP",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_VROUTE_BOT": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VROUTE_BOT",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_CLEM_L.VCC_WIRE->>CLK_VROUTE_TOP": {
+            "can_invert": "0",
+            "dst_wire": "CLK_VROUTE_TOP",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        }
+    },
+    "sites": [
+        {
+            "name": "X0Y0",
+            "prefix": "BUFCE_ROW_FSR",
+            "site_pins": {
+                "CE_PRE_OPTINV": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_CE_PRE_OPTINV"
+                },
+                "CLK_IN": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_CLK_OUT"
+                },
+                "CLK_OUT_OPT_DLY": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_CLK_OUT_OPT_DLY"
+                },
+                "OPT_DELAY_TEST0": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST0"
+                },
+                "OPT_DELAY_TEST1": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST1"
+                },
+                "OPT_DELAY_TEST2": {
+                    "wire": "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST2"
+                }
+            },
+            "type": "BUFCE_ROW_FSR",
+            "x_coord": 0,
+            "y_coord": 0
+        }
+    ],
+    "tile_type": "RCLK_CLEM_L",
+    "wires": {
+        "AC_MODE_FT0": null,
+        "CLK_BUFCE_ROW_FSR_0_CE_PRE_OPTINV": null,
+        "CLK_BUFCE_ROW_FSR_0_CLK_IN": null,
+        "CLK_BUFCE_ROW_FSR_0_CLK_OUT": null,
+        "CLK_BUFCE_ROW_FSR_0_CLK_OUT_OPT_DLY": null,
+        "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST0": null,
+        "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST1": null,
+        "CLK_BUFCE_ROW_FSR_0_OPT_DELAY_TEST2": null,
+        "CLK_CMT_DRVR_TRI_ESD_0_CLK_OUT_SCHMITT_B": null,
+        "CLK_CMT_DRVR_TRI_ESD_1_CLK_OUT_SCHMITT_B": null,
+        "CLK_CMT_DRVR_TRI_ESD_2_CLK_OUT_SCHMITT_B": null,
+        "CLK_CMT_DRVR_TRI_ESD_3_CLK_OUT_SCHMITT_B": null,
+        "CLK_CMT_MUX_2TO1_1_CLK_OUT": null,
+        "CLK_CMT_MUX_3TO1_0_CLK_OUT": null,
+        "CLK_CMT_MUX_3TO1_1_CLK_OUT": null,
+        "CLK_CMT_MUX_3TO1_2_CLK_OUT": null,
+        "CLK_CMT_MUX_3TO1_3_CLK_OUT": null,
+        "CLK_HDISTR_FT0_0": null,
+        "CLK_HDISTR_FT0_1": null,
+        "CLK_HDISTR_FT0_2": null,
+        "CLK_HDISTR_FT0_3": null,
+        "CLK_HDISTR_FT0_4": null,
+        "CLK_HDISTR_FT0_5": null,
+        "CLK_HDISTR_FT0_6": null,
+        "CLK_HDISTR_FT0_7": null,
+        "CLK_HDISTR_FT0_8": null,
+        "CLK_HDISTR_FT0_9": null,
+        "CLK_HDISTR_FT0_10": null,
+        "CLK_HDISTR_FT0_11": null,
+        "CLK_HDISTR_FT0_12": null,
+        "CLK_HDISTR_FT0_13": null,
+        "CLK_HDISTR_FT0_14": null,
+        "CLK_HDISTR_FT0_15": null,
+        "CLK_HDISTR_FT0_16": null,
+        "CLK_HDISTR_FT0_17": null,
+        "CLK_HDISTR_FT0_18": null,
+        "CLK_HDISTR_FT0_19": null,
+        "CLK_HDISTR_FT0_20": null,
+        "CLK_HDISTR_FT0_21": null,
+        "CLK_HDISTR_FT0_22": null,
+        "CLK_HDISTR_FT0_23": null,
+        "CLK_HROUTE_CORE_OPT": null,
+        "CLK_HROUTE_FT0_0": null,
+        "CLK_HROUTE_FT0_1": null,
+        "CLK_HROUTE_FT0_2": null,
+        "CLK_HROUTE_FT0_3": null,
+        "CLK_HROUTE_FT0_4": null,
+        "CLK_HROUTE_FT0_5": null,
+        "CLK_HROUTE_FT0_6": null,
+        "CLK_HROUTE_FT0_7": null,
+        "CLK_HROUTE_FT0_8": null,
+        "CLK_HROUTE_FT0_9": null,
+        "CLK_HROUTE_FT0_10": null,
+        "CLK_HROUTE_FT0_11": null,
+        "CLK_HROUTE_FT0_12": null,
+        "CLK_HROUTE_FT0_13": null,
+        "CLK_HROUTE_FT0_14": null,
+        "CLK_HROUTE_FT0_15": null,
+        "CLK_HROUTE_FT0_16": null,
+        "CLK_HROUTE_FT0_17": null,
+        "CLK_HROUTE_FT0_18": null,
+        "CLK_HROUTE_FT0_19": null,
+        "CLK_HROUTE_FT0_20": null,
+        "CLK_HROUTE_FT0_21": null,
+        "CLK_HROUTE_FT0_22": null,
+        "CLK_HROUTE_FT0_23": null,
+        "CLK_TEST_BUF_SITE_1_CLK_IN": null,
+        "CLK_TEST_BUF_SITE_1_CLK_IN_PIN": null,
+        "CLK_TEST_BUF_SITE_1_CLK_OUT": null,
+        "CLK_VDISTR_BOT": null,
+        "CLK_VDISTR_TOP": null,
+        "CLK_VROUTE_BOT": null,
+        "CLK_VROUTE_TOP": null,
+        "COUT_FT0": null,
+        "EXTEST_FT0": null,
+        "FST_CFG_B_FT0": null,
+        "GPWRDWN_B_FT0": null,
+        "GTS_CFG_B_FT0": null,
+        "GTS_USR_B_FT0": null,
+        "INTEST_FT0": null,
+        "INT_RCLK_TO_CLK_1_0": null,
+        "INT_RCLK_TO_CLK_1_1": null,
+        "INT_RCLK_TO_CLK_1_2": null,
+        "INT_RCLK_TO_CLK_1_3": null,
+        "MISR_JTAG_LOAD_FT0": null,
+        "UPDATE_DR_FT0": null,
+        "VCC_WIRE": null,
+        "VCC_WIRE0": null,
+        "VCC_WIRE1": null
+    }
+}

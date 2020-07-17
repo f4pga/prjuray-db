@@ -1,0 +1,18 @@
+{
+    "site_pins": {
+        "LVDS_COMP": {
+            "direction": "OUT"
+        },
+        "LVDS_TRUE": {
+            "direction": "OUT"
+        },
+        "PAD_RES_0": {
+            "direction": "IN"
+        },
+        "PAD_RES_1": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {},
+    "type": "HDIOBDIFFINBUF"
+}

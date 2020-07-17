@@ -1,0 +1,648 @@
+{
+    "site_pins": {
+        "ADDRAU1": {
+            "direction": "IN"
+        },
+        "ADDRAU2": {
+            "direction": "IN"
+        },
+        "ADDRAU3": {
+            "direction": "IN"
+        },
+        "ADDRAU4": {
+            "direction": "IN"
+        },
+        "ADDRAU5": {
+            "direction": "IN"
+        },
+        "ADDRAU6": {
+            "direction": "IN"
+        },
+        "ADDRAU7": {
+            "direction": "IN"
+        },
+        "ADDRAU8": {
+            "direction": "IN"
+        },
+        "ADDRAU9": {
+            "direction": "IN"
+        },
+        "ADDRAU10": {
+            "direction": "IN"
+        },
+        "ADDRAU11": {
+            "direction": "IN"
+        },
+        "ADDRAU12": {
+            "direction": "IN"
+        },
+        "ADDRAU13": {
+            "direction": "IN"
+        },
+        "ADDRAU14": {
+            "direction": "IN"
+        },
+        "ADDRBU1": {
+            "direction": "IN"
+        },
+        "ADDRBU2": {
+            "direction": "IN"
+        },
+        "ADDRBU3": {
+            "direction": "IN"
+        },
+        "ADDRBU4": {
+            "direction": "IN"
+        },
+        "ADDRBU5": {
+            "direction": "IN"
+        },
+        "ADDRBU6": {
+            "direction": "IN"
+        },
+        "ADDRBU7": {
+            "direction": "IN"
+        },
+        "ADDRBU8": {
+            "direction": "IN"
+        },
+        "ADDRBU9": {
+            "direction": "IN"
+        },
+        "ADDRBU10": {
+            "direction": "IN"
+        },
+        "ADDRBU11": {
+            "direction": "IN"
+        },
+        "ADDRBU12": {
+            "direction": "IN"
+        },
+        "ADDRBU13": {
+            "direction": "IN"
+        },
+        "ADDRBU14": {
+            "direction": "IN"
+        },
+        "ADDRENAU": {
+            "direction": "IN"
+        },
+        "ADDRENBU": {
+            "direction": "IN"
+        },
+        "CASDIAU0": {
+            "direction": "IN"
+        },
+        "CASDIAU1": {
+            "direction": "IN"
+        },
+        "CASDIAU2": {
+            "direction": "IN"
+        },
+        "CASDIAU3": {
+            "direction": "IN"
+        },
+        "CASDIAU4": {
+            "direction": "IN"
+        },
+        "CASDIAU5": {
+            "direction": "IN"
+        },
+        "CASDIAU6": {
+            "direction": "IN"
+        },
+        "CASDIAU7": {
+            "direction": "IN"
+        },
+        "CASDIAU8": {
+            "direction": "IN"
+        },
+        "CASDIAU9": {
+            "direction": "IN"
+        },
+        "CASDIAU10": {
+            "direction": "IN"
+        },
+        "CASDIAU11": {
+            "direction": "IN"
+        },
+        "CASDIAU12": {
+            "direction": "IN"
+        },
+        "CASDIAU13": {
+            "direction": "IN"
+        },
+        "CASDIAU14": {
+            "direction": "IN"
+        },
+        "CASDIAU15": {
+            "direction": "IN"
+        },
+        "CASDIBU0": {
+            "direction": "IN"
+        },
+        "CASDIBU1": {
+            "direction": "IN"
+        },
+        "CASDIBU2": {
+            "direction": "IN"
+        },
+        "CASDIBU3": {
+            "direction": "IN"
+        },
+        "CASDIBU4": {
+            "direction": "IN"
+        },
+        "CASDIBU5": {
+            "direction": "IN"
+        },
+        "CASDIBU6": {
+            "direction": "IN"
+        },
+        "CASDIBU7": {
+            "direction": "IN"
+        },
+        "CASDIBU8": {
+            "direction": "IN"
+        },
+        "CASDIBU9": {
+            "direction": "IN"
+        },
+        "CASDIBU10": {
+            "direction": "IN"
+        },
+        "CASDIBU11": {
+            "direction": "IN"
+        },
+        "CASDIBU12": {
+            "direction": "IN"
+        },
+        "CASDIBU13": {
+            "direction": "IN"
+        },
+        "CASDIBU14": {
+            "direction": "IN"
+        },
+        "CASDIBU15": {
+            "direction": "IN"
+        },
+        "CASDIMUXAU": {
+            "direction": "IN"
+        },
+        "CASDIMUXBU": {
+            "direction": "IN"
+        },
+        "CASDIPAU0": {
+            "direction": "IN"
+        },
+        "CASDIPAU1": {
+            "direction": "IN"
+        },
+        "CASDIPBU0": {
+            "direction": "IN"
+        },
+        "CASDIPBU1": {
+            "direction": "IN"
+        },
+        "CASDOAU0": {
+            "direction": "OUT"
+        },
+        "CASDOAU1": {
+            "direction": "OUT"
+        },
+        "CASDOAU2": {
+            "direction": "OUT"
+        },
+        "CASDOAU3": {
+            "direction": "OUT"
+        },
+        "CASDOAU4": {
+            "direction": "OUT"
+        },
+        "CASDOAU5": {
+            "direction": "OUT"
+        },
+        "CASDOAU6": {
+            "direction": "OUT"
+        },
+        "CASDOAU7": {
+            "direction": "OUT"
+        },
+        "CASDOAU8": {
+            "direction": "OUT"
+        },
+        "CASDOAU9": {
+            "direction": "OUT"
+        },
+        "CASDOAU10": {
+            "direction": "OUT"
+        },
+        "CASDOAU11": {
+            "direction": "OUT"
+        },
+        "CASDOAU12": {
+            "direction": "OUT"
+        },
+        "CASDOAU13": {
+            "direction": "OUT"
+        },
+        "CASDOAU14": {
+            "direction": "OUT"
+        },
+        "CASDOAU15": {
+            "direction": "OUT"
+        },
+        "CASDOBU0": {
+            "direction": "OUT"
+        },
+        "CASDOBU1": {
+            "direction": "OUT"
+        },
+        "CASDOBU2": {
+            "direction": "OUT"
+        },
+        "CASDOBU3": {
+            "direction": "OUT"
+        },
+        "CASDOBU4": {
+            "direction": "OUT"
+        },
+        "CASDOBU5": {
+            "direction": "OUT"
+        },
+        "CASDOBU6": {
+            "direction": "OUT"
+        },
+        "CASDOBU7": {
+            "direction": "OUT"
+        },
+        "CASDOBU8": {
+            "direction": "OUT"
+        },
+        "CASDOBU9": {
+            "direction": "OUT"
+        },
+        "CASDOBU10": {
+            "direction": "OUT"
+        },
+        "CASDOBU11": {
+            "direction": "OUT"
+        },
+        "CASDOBU12": {
+            "direction": "OUT"
+        },
+        "CASDOBU13": {
+            "direction": "OUT"
+        },
+        "CASDOBU14": {
+            "direction": "OUT"
+        },
+        "CASDOBU15": {
+            "direction": "OUT"
+        },
+        "CASDOMUXAU": {
+            "direction": "IN"
+        },
+        "CASDOMUXBU": {
+            "direction": "IN"
+        },
+        "CASDOMUXENAU": {
+            "direction": "IN"
+        },
+        "CASDOMUXENBU": {
+            "direction": "IN"
+        },
+        "CASDOPAU0": {
+            "direction": "OUT"
+        },
+        "CASDOPAU1": {
+            "direction": "OUT"
+        },
+        "CASDOPBU0": {
+            "direction": "OUT"
+        },
+        "CASDOPBU1": {
+            "direction": "OUT"
+        },
+        "CASOREGIMUXAU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXBU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENAU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENBU": {
+            "direction": "IN"
+        },
+        "CLKAU": {
+            "direction": "IN"
+        },
+        "CLKBU": {
+            "direction": "IN"
+        },
+        "DIAU0": {
+            "direction": "IN"
+        },
+        "DIAU1": {
+            "direction": "IN"
+        },
+        "DIAU2": {
+            "direction": "IN"
+        },
+        "DIAU3": {
+            "direction": "IN"
+        },
+        "DIAU4": {
+            "direction": "IN"
+        },
+        "DIAU5": {
+            "direction": "IN"
+        },
+        "DIAU6": {
+            "direction": "IN"
+        },
+        "DIAU7": {
+            "direction": "IN"
+        },
+        "DIAU8": {
+            "direction": "IN"
+        },
+        "DIAU9": {
+            "direction": "IN"
+        },
+        "DIAU10": {
+            "direction": "IN"
+        },
+        "DIAU11": {
+            "direction": "IN"
+        },
+        "DIAU12": {
+            "direction": "IN"
+        },
+        "DIAU13": {
+            "direction": "IN"
+        },
+        "DIAU14": {
+            "direction": "IN"
+        },
+        "DIAU15": {
+            "direction": "IN"
+        },
+        "DIBU0": {
+            "direction": "IN"
+        },
+        "DIBU1": {
+            "direction": "IN"
+        },
+        "DIBU2": {
+            "direction": "IN"
+        },
+        "DIBU3": {
+            "direction": "IN"
+        },
+        "DIBU4": {
+            "direction": "IN"
+        },
+        "DIBU5": {
+            "direction": "IN"
+        },
+        "DIBU6": {
+            "direction": "IN"
+        },
+        "DIBU7": {
+            "direction": "IN"
+        },
+        "DIBU8": {
+            "direction": "IN"
+        },
+        "DIBU9": {
+            "direction": "IN"
+        },
+        "DIBU10": {
+            "direction": "IN"
+        },
+        "DIBU11": {
+            "direction": "IN"
+        },
+        "DIBU12": {
+            "direction": "IN"
+        },
+        "DIBU13": {
+            "direction": "IN"
+        },
+        "DIBU14": {
+            "direction": "IN"
+        },
+        "DIBU15": {
+            "direction": "IN"
+        },
+        "DIPAU0": {
+            "direction": "IN"
+        },
+        "DIPAU1": {
+            "direction": "IN"
+        },
+        "DIPBU0": {
+            "direction": "IN"
+        },
+        "DIPBU1": {
+            "direction": "IN"
+        },
+        "DOAU0": {
+            "direction": "OUT"
+        },
+        "DOAU1": {
+            "direction": "OUT"
+        },
+        "DOAU2": {
+            "direction": "OUT"
+        },
+        "DOAU3": {
+            "direction": "OUT"
+        },
+        "DOAU4": {
+            "direction": "OUT"
+        },
+        "DOAU5": {
+            "direction": "OUT"
+        },
+        "DOAU6": {
+            "direction": "OUT"
+        },
+        "DOAU7": {
+            "direction": "OUT"
+        },
+        "DOAU8": {
+            "direction": "OUT"
+        },
+        "DOAU9": {
+            "direction": "OUT"
+        },
+        "DOAU10": {
+            "direction": "OUT"
+        },
+        "DOAU11": {
+            "direction": "OUT"
+        },
+        "DOAU12": {
+            "direction": "OUT"
+        },
+        "DOAU13": {
+            "direction": "OUT"
+        },
+        "DOAU14": {
+            "direction": "OUT"
+        },
+        "DOAU15": {
+            "direction": "OUT"
+        },
+        "DOBU0": {
+            "direction": "OUT"
+        },
+        "DOBU1": {
+            "direction": "OUT"
+        },
+        "DOBU2": {
+            "direction": "OUT"
+        },
+        "DOBU3": {
+            "direction": "OUT"
+        },
+        "DOBU4": {
+            "direction": "OUT"
+        },
+        "DOBU5": {
+            "direction": "OUT"
+        },
+        "DOBU6": {
+            "direction": "OUT"
+        },
+        "DOBU7": {
+            "direction": "OUT"
+        },
+        "DOBU8": {
+            "direction": "OUT"
+        },
+        "DOBU9": {
+            "direction": "OUT"
+        },
+        "DOBU10": {
+            "direction": "OUT"
+        },
+        "DOBU11": {
+            "direction": "OUT"
+        },
+        "DOBU12": {
+            "direction": "OUT"
+        },
+        "DOBU13": {
+            "direction": "OUT"
+        },
+        "DOBU14": {
+            "direction": "OUT"
+        },
+        "DOBU15": {
+            "direction": "OUT"
+        },
+        "DOPAU0": {
+            "direction": "OUT"
+        },
+        "DOPAU1": {
+            "direction": "OUT"
+        },
+        "DOPBU0": {
+            "direction": "OUT"
+        },
+        "DOPBU1": {
+            "direction": "OUT"
+        },
+        "ENAU": {
+            "direction": "IN"
+        },
+        "ENBU": {
+            "direction": "IN"
+        },
+        "REGCEAU": {
+            "direction": "IN"
+        },
+        "REGCEBU": {
+            "direction": "IN"
+        },
+        "RSTRAMAU": {
+            "direction": "IN"
+        },
+        "RSTRAMBU": {
+            "direction": "IN"
+        },
+        "RSTREGAU": {
+            "direction": "IN"
+        },
+        "RSTREGBU": {
+            "direction": "IN"
+        },
+        "SLEEPU": {
+            "direction": "IN"
+        },
+        "WEAU0": {
+            "direction": "IN"
+        },
+        "WEAU1": {
+            "direction": "IN"
+        },
+        "WEAU2": {
+            "direction": "IN"
+        },
+        "WEAU3": {
+            "direction": "IN"
+        },
+        "WEBU0": {
+            "direction": "IN"
+        },
+        "WEBU1": {
+            "direction": "IN"
+        },
+        "WEBU2": {
+            "direction": "IN"
+        },
+        "WEBU3": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "CLK_OPTINV_CLKA_U:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "CLK_OPTINV_CLKB_U:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "OPTINV_ENARDEN_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_ENBWREN_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMA_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMB_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGA_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGB_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        }
+    },
+    "type": "RAMB181"
+}

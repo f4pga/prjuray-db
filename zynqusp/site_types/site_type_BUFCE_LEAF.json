@@ -1,0 +1,33 @@
+{
+    "site_pins": {
+        "CE_INT": {
+            "direction": "IN"
+        },
+        "CLK_CASC_IN": {
+            "direction": "IN"
+        },
+        "CLK_CASC_OUT": {
+            "direction": "OUT"
+        },
+        "CLK_IN": {
+            "direction": "IN"
+        },
+        "CLK_LEAF": {
+            "direction": "OUT"
+        },
+        "ENSEL_PROG": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "CEINV:CE_PREINV": {
+            "from_pin": "CE_PREINV",
+            "to_pin": "CE"
+        },
+        "IINV:I_PREINV": {
+            "from_pin": "I_PREINV",
+            "to_pin": "I"
+        }
+    },
+    "type": "BUFCE_LEAF"
+}

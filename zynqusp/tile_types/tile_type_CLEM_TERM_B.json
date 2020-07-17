@@ -1,0 +1,10 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CLEM_TERM_B",
+    "wires": {
+        "CLK_VDISTR_BOT_CLE_UBUMP": null,
+        "CLK_VROUTE_BOT_CLE_UBUMP": null,
+        "VCC_WIRE": null
+    }
+}

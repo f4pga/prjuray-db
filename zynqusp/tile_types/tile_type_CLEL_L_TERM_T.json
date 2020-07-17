@@ -1,0 +1,13 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CLEL_L_TERM_T",
+    "wires": {
+        "CLK_VDISTR_FT1": null,
+        "CLK_VROUTE_FT1": null,
+        "CLOCK_DR_FT0": null,
+        "COUT_FT1": null,
+        "RESET_TAP_B_FT0": null,
+        "SHIFT_DR_FT0": null
+    }
+}

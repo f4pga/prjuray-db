@@ -1,0 +1,11 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CFGIO_CONFIG_RBRK",
+    "wires": {
+        "I2C_ALERT_TS_FT0": null,
+        "I2C_SCLK_TS_FT0": null,
+        "I2C_SDA_PERST1_B_IN_FT0": null,
+        "I2C_SDA_TS_FT0": null
+    }
+}

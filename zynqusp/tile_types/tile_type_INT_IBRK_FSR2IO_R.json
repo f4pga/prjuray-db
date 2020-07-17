@@ -1,0 +1,11 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "INT_IBRK_FSR2IO_R",
+    "wires": {
+        "IO_TO_CTR_FT0_0": null,
+        "IO_TO_CTR_FT0_1": null,
+        "IO_TO_CTR_FT0_2": null,
+        "IO_TO_CTR_FT0_3": null
+    }
+}

@@ -1,0 +1,4394 @@
+{
+    "pips": {
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_0_CLK_OUT->>CLK_HROUTE0": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_0_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_1_CLK_OUT->>CLK_HROUTE1": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_1_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_2_CLK_OUT->>CLK_HROUTE2": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_2_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_3_CLK_OUT->>CLK_HROUTE3": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_3_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_4_CLK_OUT->>CLK_HROUTE4": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_4_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_5_CLK_OUT->>CLK_HROUTE5": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_5_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_6_CLK_OUT->>CLK_HROUTE6": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_6_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_7_CLK_OUT->>CLK_HROUTE7": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_7_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_8_CLK_OUT->>CLK_HROUTE8": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_8_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_9_CLK_OUT->>CLK_HROUTE9": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_9_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_10_CLK_OUT->>CLK_HROUTE10": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_10_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_11_CLK_OUT->>CLK_HROUTE11": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_11_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_12_CLK_OUT->>CLK_HROUTE12": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_12_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_13_CLK_OUT->>CLK_HROUTE13": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_13_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_14_CLK_OUT->>CLK_HROUTE14": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_14_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_15_CLK_OUT->>CLK_HROUTE15": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_15_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_16_CLK_OUT->>CLK_HROUTE16": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_16_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_17_CLK_OUT->>CLK_HROUTE17": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_17_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_18_CLK_OUT->>CLK_HROUTE18": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_18_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_19_CLK_OUT->>CLK_HROUTE19": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_19_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_20_CLK_OUT->>CLK_HROUTE20": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_20_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_21_CLK_OUT->>CLK_HROUTE21": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_21_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_22_CLK_OUT->>CLK_HROUTE22": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_22_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.CLK_BUFG_PS_23_CLK_OUT->>CLK_HROUTE23": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "CLK_BUFG_PS_23_CLK_OUT"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.INT_RCLK_TO_CLK_0_FT1_0->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "INT_RCLK_TO_CLK_0_FT1_0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK0->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK1->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK2->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK3->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK4->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK5->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK6->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK7->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK8->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK9->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK10->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK11->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK12->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK13->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK14->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK15->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK16->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.PS_TO_PL_CLK17->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "PS_TO_PL_CLK17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE0->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE0"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE1->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE1"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE2->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE2"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE3->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE3"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE4->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE4"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE5->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE5"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE6->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE6"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE7->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE7"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE8->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE8"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE9->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE9"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE10->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE10"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE11->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE11"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE12->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE12"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE13->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE13"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE14->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE14"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE15->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE15"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE16->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE16"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE17->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE17"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE18->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE18"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE19->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE19"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE20->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE20"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE21->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE21"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE22->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE22"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE23->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE23"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_0_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_0_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_1_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_1_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_2_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_2_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_3_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_3_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_4_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_4_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_5_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_5_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_6_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_6_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_7_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_7_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_8_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_8_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_9_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_9_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_10_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_10_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_11_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_11_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_12_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_12_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_13_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_13_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_14_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_14_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_15_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_15_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_16_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_16_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_17_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_17_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_18_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_18_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_19_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_19_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_20_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_20_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_21_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_21_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_22_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_22_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_BUFG_PS_23_CLK_IN": {
+            "can_invert": "0",
+            "dst_wire": "CLK_BUFG_PS_23_CLK_IN",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE0": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE1": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE2": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE3": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE4": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE5": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE6": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE7": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE8": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE9": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE10": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE11": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE12": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE13": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE14": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE15": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE16": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE17": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE18": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE19": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE20": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE21": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE22": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        },
+        "RCLK_INTF_LEFT_TERM_ALTO.VCC_WIRE->>CLK_HROUTE23": {
+            "can_invert": "0",
+            "dst_wire": "CLK_HROUTE23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "VCC_WIRE"
+        }
+    },
+    "sites": [
+        {
+            "name": "X0Y0",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_0_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_0_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 0
+        },
+        {
+            "name": "X0Y1",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_1_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_1_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 1
+        },
+        {
+            "name": "X0Y2",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_2_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_2_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 2
+        },
+        {
+            "name": "X0Y3",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_3_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_3_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 3
+        },
+        {
+            "name": "X0Y4",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_4_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_4_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 4
+        },
+        {
+            "name": "X0Y5",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_5_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_5_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 5
+        },
+        {
+            "name": "X0Y6",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_6_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_6_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 6
+        },
+        {
+            "name": "X0Y7",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_7_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_7_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 7
+        },
+        {
+            "name": "X0Y8",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_8_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_8_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 8
+        },
+        {
+            "name": "X0Y9",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_9_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_9_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 9
+        },
+        {
+            "name": "X0Y10",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_10_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_10_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 10
+        },
+        {
+            "name": "X0Y11",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_11_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_11_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 11
+        },
+        {
+            "name": "X0Y12",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_12_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_12_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 12
+        },
+        {
+            "name": "X0Y13",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_13_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_13_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 13
+        },
+        {
+            "name": "X0Y14",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_14_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_14_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 14
+        },
+        {
+            "name": "X0Y15",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_15_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_15_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 15
+        },
+        {
+            "name": "X0Y16",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_16_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_16_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 16
+        },
+        {
+            "name": "X0Y17",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_17_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_17_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 17
+        },
+        {
+            "name": "X0Y18",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_18_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_18_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 18
+        },
+        {
+            "name": "X0Y19",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_19_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_19_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 19
+        },
+        {
+            "name": "X0Y20",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_20_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_20_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 20
+        },
+        {
+            "name": "X0Y21",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_21_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_21_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 21
+        },
+        {
+            "name": "X0Y22",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_22_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_22_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 22
+        },
+        {
+            "name": "X0Y23",
+            "prefix": "BUFG_PS",
+            "site_pins": {
+                "CLK_IN": {
+                    "wire": "CLK_BUFG_PS_23_CLK_IN"
+                },
+                "CLK_OUT": {
+                    "wire": "CLK_BUFG_PS_23_CLK_OUT"
+                }
+            },
+            "type": "BUFG_PS",
+            "x_coord": 0,
+            "y_coord": 23
+        }
+    ],
+    "tile_type": "RCLK_INTF_LEFT_TERM_ALTO",
+    "wires": {
+        "AC_MODE_FT0": null,
+        "CLK_BUFG_PS_0_CLK_IN": null,
+        "CLK_BUFG_PS_0_CLK_OUT": null,
+        "CLK_BUFG_PS_1_CLK_IN": null,
+        "CLK_BUFG_PS_1_CLK_OUT": null,
+        "CLK_BUFG_PS_2_CLK_IN": null,
+        "CLK_BUFG_PS_2_CLK_OUT": null,
+        "CLK_BUFG_PS_3_CLK_IN": null,
+        "CLK_BUFG_PS_3_CLK_OUT": null,
+        "CLK_BUFG_PS_4_CLK_IN": null,
+        "CLK_BUFG_PS_4_CLK_OUT": null,
+        "CLK_BUFG_PS_5_CLK_IN": null,
+        "CLK_BUFG_PS_5_CLK_OUT": null,
+        "CLK_BUFG_PS_6_CLK_IN": null,
+        "CLK_BUFG_PS_6_CLK_OUT": null,
+        "CLK_BUFG_PS_7_CLK_IN": null,
+        "CLK_BUFG_PS_7_CLK_OUT": null,
+        "CLK_BUFG_PS_8_CLK_IN": null,
+        "CLK_BUFG_PS_8_CLK_OUT": null,
+        "CLK_BUFG_PS_9_CLK_IN": null,
+        "CLK_BUFG_PS_9_CLK_OUT": null,
+        "CLK_BUFG_PS_10_CLK_IN": null,
+        "CLK_BUFG_PS_10_CLK_OUT": null,
+        "CLK_BUFG_PS_11_CLK_IN": null,
+        "CLK_BUFG_PS_11_CLK_OUT": null,
+        "CLK_BUFG_PS_12_CLK_IN": null,
+        "CLK_BUFG_PS_12_CLK_OUT": null,
+        "CLK_BUFG_PS_13_CLK_IN": null,
+        "CLK_BUFG_PS_13_CLK_OUT": null,
+        "CLK_BUFG_PS_14_CLK_IN": null,
+        "CLK_BUFG_PS_14_CLK_OUT": null,
+        "CLK_BUFG_PS_15_CLK_IN": null,
+        "CLK_BUFG_PS_15_CLK_OUT": null,
+        "CLK_BUFG_PS_16_CLK_IN": null,
+        "CLK_BUFG_PS_16_CLK_OUT": null,
+        "CLK_BUFG_PS_17_CLK_IN": null,
+        "CLK_BUFG_PS_17_CLK_OUT": null,
+        "CLK_BUFG_PS_18_CLK_IN": null,
+        "CLK_BUFG_PS_18_CLK_OUT": null,
+        "CLK_BUFG_PS_19_CLK_IN": null,
+        "CLK_BUFG_PS_19_CLK_OUT": null,
+        "CLK_BUFG_PS_20_CLK_IN": null,
+        "CLK_BUFG_PS_20_CLK_OUT": null,
+        "CLK_BUFG_PS_21_CLK_IN": null,
+        "CLK_BUFG_PS_21_CLK_OUT": null,
+        "CLK_BUFG_PS_22_CLK_IN": null,
+        "CLK_BUFG_PS_22_CLK_OUT": null,
+        "CLK_BUFG_PS_23_CLK_IN": null,
+        "CLK_BUFG_PS_23_CLK_OUT": null,
+        "CLK_HDISTR_FT1_0": null,
+        "CLK_HDISTR_FT1_1": null,
+        "CLK_HDISTR_FT1_2": null,
+        "CLK_HDISTR_FT1_3": null,
+        "CLK_HDISTR_FT1_4": null,
+        "CLK_HDISTR_FT1_5": null,
+        "CLK_HDISTR_FT1_6": null,
+        "CLK_HDISTR_FT1_7": null,
+        "CLK_HDISTR_FT1_8": null,
+        "CLK_HDISTR_FT1_9": null,
+        "CLK_HDISTR_FT1_10": null,
+        "CLK_HDISTR_FT1_11": null,
+        "CLK_HDISTR_FT1_12": null,
+        "CLK_HDISTR_FT1_13": null,
+        "CLK_HDISTR_FT1_14": null,
+        "CLK_HDISTR_FT1_15": null,
+        "CLK_HDISTR_FT1_16": null,
+        "CLK_HDISTR_FT1_17": null,
+        "CLK_HDISTR_FT1_18": null,
+        "CLK_HDISTR_FT1_19": null,
+        "CLK_HDISTR_FT1_20": null,
+        "CLK_HDISTR_FT1_21": null,
+        "CLK_HDISTR_FT1_22": null,
+        "CLK_HDISTR_FT1_23": null,
+        "CLK_HROUTE0": null,
+        "CLK_HROUTE1": null,
+        "CLK_HROUTE2": null,
+        "CLK_HROUTE3": null,
+        "CLK_HROUTE4": null,
+        "CLK_HROUTE5": null,
+        "CLK_HROUTE6": null,
+        "CLK_HROUTE7": null,
+        "CLK_HROUTE8": null,
+        "CLK_HROUTE9": null,
+        "CLK_HROUTE10": null,
+        "CLK_HROUTE11": null,
+        "CLK_HROUTE12": null,
+        "CLK_HROUTE13": null,
+        "CLK_HROUTE14": null,
+        "CLK_HROUTE15": null,
+        "CLK_HROUTE16": null,
+        "CLK_HROUTE17": null,
+        "CLK_HROUTE18": null,
+        "CLK_HROUTE19": null,
+        "CLK_HROUTE20": null,
+        "CLK_HROUTE21": null,
+        "CLK_HROUTE22": null,
+        "CLK_HROUTE23": null,
+        "EXTEST_FT0": null,
+        "FST_CFG_B_FT0": null,
+        "GND_WIRE": null,
+        "GTS_CFG_B_FT0": null,
+        "GTS_USR_B_FT0": null,
+        "INTEST_FT0": null,
+        "INT_RCLK_TO_CLK_0_FT1_0": null,
+        "INT_RCLK_TO_CLK_0_FT1_1": null,
+        "INT_RCLK_TO_CLK_0_FT1_2": null,
+        "INT_RCLK_TO_CLK_0_FT1_3": null,
+        "INT_RCLK_TO_CLK_1_FT1_0": null,
+        "INT_RCLK_TO_CLK_1_FT1_1": null,
+        "INT_RCLK_TO_CLK_1_FT1_2": null,
+        "INT_RCLK_TO_CLK_1_FT1_3": null,
+        "MISR_JTAG_LOAD_FT0": null,
+        "PS_TO_PL_CLK0": null,
+        "PS_TO_PL_CLK1": null,
+        "PS_TO_PL_CLK2": null,
+        "PS_TO_PL_CLK3": null,
+        "PS_TO_PL_CLK4": null,
+        "PS_TO_PL_CLK5": null,
+        "PS_TO_PL_CLK6": null,
+        "PS_TO_PL_CLK7": null,
+        "PS_TO_PL_CLK8": null,
+        "PS_TO_PL_CLK9": null,
+        "PS_TO_PL_CLK10": null,
+        "PS_TO_PL_CLK11": null,
+        "PS_TO_PL_CLK12": null,
+        "PS_TO_PL_CLK13": null,
+        "PS_TO_PL_CLK14": null,
+        "PS_TO_PL_CLK15": null,
+        "PS_TO_PL_CLK16": null,
+        "PS_TO_PL_CLK17": null,
+        "UPDATE_DR_FT0": null,
+        "VCC_WIRE": null,
+        "VCC_WIRE0": null,
+        "VCC_WIRE1": null,
+        "VCC_WIRE2": null,
+        "VCC_WIRE3": null,
+        "VCC_WIRE4": null,
+        "VCC_WIRE5": null,
+        "VCC_WIRE6": null,
+        "VCC_WIRE7": null,
+        "VCC_WIRE8": null,
+        "VCC_WIRE9": null,
+        "VCC_WIRE10": null,
+        "VCC_WIRE11": null,
+        "VCC_WIRE12": null,
+        "VCC_WIRE13": null,
+        "VCC_WIRE14": null,
+        "VCC_WIRE15": null,
+        "VCC_WIRE16": null,
+        "VCC_WIRE17": null,
+        "VCC_WIRE18": null,
+        "VCC_WIRE19": null,
+        "VCC_WIRE20": null,
+        "VCC_WIRE21": null,
+        "VCC_WIRE22": null,
+        "VCC_WIRE23": null,
+        "VCC_WIRE24": null,
+        "VCC_WIRE25": null,
+        "VCC_WIRE26": null,
+        "VCC_WIRE27": null,
+        "VCC_WIRE28": null
+    }
+}

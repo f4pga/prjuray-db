@@ -1,0 +1,8 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CLE_L_R_RBRK",
+    "wires": {
+        "COUT_FT0": null
+    }
+}

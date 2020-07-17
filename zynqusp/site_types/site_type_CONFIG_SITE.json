@@ -1,0 +1,1098 @@
+{
+    "site_pins": {
+        "BSCAN_CDR1": {
+            "direction": "OUT"
+        },
+        "BSCAN_CDR2": {
+            "direction": "OUT"
+        },
+        "BSCAN_CDR3": {
+            "direction": "OUT"
+        },
+        "BSCAN_CDR4": {
+            "direction": "OUT"
+        },
+        "BSCAN_CLKDR1": {
+            "direction": "OUT"
+        },
+        "BSCAN_CLKDR2": {
+            "direction": "OUT"
+        },
+        "BSCAN_CLKDR3": {
+            "direction": "OUT"
+        },
+        "BSCAN_CLKDR4": {
+            "direction": "OUT"
+        },
+        "BSCAN_RTI1": {
+            "direction": "OUT"
+        },
+        "BSCAN_RTI2": {
+            "direction": "OUT"
+        },
+        "BSCAN_RTI3": {
+            "direction": "OUT"
+        },
+        "BSCAN_RTI4": {
+            "direction": "OUT"
+        },
+        "BSCAN_SDR1": {
+            "direction": "OUT"
+        },
+        "BSCAN_SDR2": {
+            "direction": "OUT"
+        },
+        "BSCAN_SDR3": {
+            "direction": "OUT"
+        },
+        "BSCAN_SDR4": {
+            "direction": "OUT"
+        },
+        "BSCAN_SEL1": {
+            "direction": "OUT"
+        },
+        "BSCAN_SEL2": {
+            "direction": "OUT"
+        },
+        "BSCAN_SEL3": {
+            "direction": "OUT"
+        },
+        "BSCAN_SEL4": {
+            "direction": "OUT"
+        },
+        "BSCAN_TCK1": {
+            "direction": "OUT"
+        },
+        "BSCAN_TCK2": {
+            "direction": "OUT"
+        },
+        "BSCAN_TCK3": {
+            "direction": "OUT"
+        },
+        "BSCAN_TCK4": {
+            "direction": "OUT"
+        },
+        "BSCAN_TDI1": {
+            "direction": "OUT"
+        },
+        "BSCAN_TDI2": {
+            "direction": "OUT"
+        },
+        "BSCAN_TDI3": {
+            "direction": "OUT"
+        },
+        "BSCAN_TDI4": {
+            "direction": "OUT"
+        },
+        "BSCAN_TDO1": {
+            "direction": "IN"
+        },
+        "BSCAN_TDO2": {
+            "direction": "IN"
+        },
+        "BSCAN_TDO3": {
+            "direction": "IN"
+        },
+        "BSCAN_TDO4": {
+            "direction": "IN"
+        },
+        "BSCAN_TLR1": {
+            "direction": "OUT"
+        },
+        "BSCAN_TLR2": {
+            "direction": "OUT"
+        },
+        "BSCAN_TLR3": {
+            "direction": "OUT"
+        },
+        "BSCAN_TLR4": {
+            "direction": "OUT"
+        },
+        "BSCAN_TMS1": {
+            "direction": "OUT"
+        },
+        "BSCAN_TMS2": {
+            "direction": "OUT"
+        },
+        "BSCAN_TMS3": {
+            "direction": "OUT"
+        },
+        "BSCAN_TMS4": {
+            "direction": "OUT"
+        },
+        "BSCAN_UDR1": {
+            "direction": "OUT"
+        },
+        "BSCAN_UDR2": {
+            "direction": "OUT"
+        },
+        "BSCAN_UDR3": {
+            "direction": "OUT"
+        },
+        "BSCAN_UDR4": {
+            "direction": "OUT"
+        },
+        "DCI_LOCK": {
+            "direction": "OUT"
+        },
+        "DCI_USR_RESET_IN": {
+            "direction": "IN"
+        },
+        "ECC_END_OF_FRAME": {
+            "direction": "OUT"
+        },
+        "ECC_END_OF_SCAN": {
+            "direction": "OUT"
+        },
+        "ECC_ERROR_NOTSINGLE": {
+            "direction": "OUT"
+        },
+        "ECC_ERROR_SINGLE": {
+            "direction": "OUT"
+        },
+        "ECC_FAR0": {
+            "direction": "OUT"
+        },
+        "ECC_FAR1": {
+            "direction": "OUT"
+        },
+        "ECC_FAR2": {
+            "direction": "OUT"
+        },
+        "ECC_FAR3": {
+            "direction": "OUT"
+        },
+        "ECC_FAR4": {
+            "direction": "OUT"
+        },
+        "ECC_FAR5": {
+            "direction": "OUT"
+        },
+        "ECC_FAR6": {
+            "direction": "OUT"
+        },
+        "ECC_FAR7": {
+            "direction": "OUT"
+        },
+        "ECC_FAR8": {
+            "direction": "OUT"
+        },
+        "ECC_FAR9": {
+            "direction": "OUT"
+        },
+        "ECC_FAR10": {
+            "direction": "OUT"
+        },
+        "ECC_FAR11": {
+            "direction": "OUT"
+        },
+        "ECC_FAR12": {
+            "direction": "OUT"
+        },
+        "ECC_FAR13": {
+            "direction": "OUT"
+        },
+        "ECC_FAR14": {
+            "direction": "OUT"
+        },
+        "ECC_FAR15": {
+            "direction": "OUT"
+        },
+        "ECC_FAR16": {
+            "direction": "OUT"
+        },
+        "ECC_FAR17": {
+            "direction": "OUT"
+        },
+        "ECC_FAR18": {
+            "direction": "OUT"
+        },
+        "ECC_FAR19": {
+            "direction": "OUT"
+        },
+        "ECC_FAR20": {
+            "direction": "OUT"
+        },
+        "ECC_FAR21": {
+            "direction": "OUT"
+        },
+        "ECC_FAR22": {
+            "direction": "OUT"
+        },
+        "ECC_FAR23": {
+            "direction": "OUT"
+        },
+        "ECC_FAR24": {
+            "direction": "OUT"
+        },
+        "ECC_FAR25": {
+            "direction": "OUT"
+        },
+        "ECC_FAR26": {
+            "direction": "OUT"
+        },
+        "ECC_FAR_SEL0": {
+            "direction": "IN"
+        },
+        "ECC_FAR_SEL1": {
+            "direction": "IN"
+        },
+        "EOS": {
+            "direction": "OUT"
+        },
+        "ICAP_AVAIL_BOT": {
+            "direction": "OUT"
+        },
+        "ICAP_AVAIL_TOP": {
+            "direction": "OUT"
+        },
+        "ICAP_CLK_BOT": {
+            "direction": "IN"
+        },
+        "ICAP_CLK_TOP": {
+            "direction": "IN"
+        },
+        "ICAP_CS_B_BOT": {
+            "direction": "IN"
+        },
+        "ICAP_CS_B_TOP": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT0": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT1": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT2": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT3": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT4": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT5": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT6": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT7": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT8": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT9": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT10": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT11": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT12": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT13": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT14": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT15": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT16": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT17": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT18": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT19": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT20": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT21": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT22": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT23": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT24": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT25": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT26": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT27": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT28": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT29": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT30": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_BOT31": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP0": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP1": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP2": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP3": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP4": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP5": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP6": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP7": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP8": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP9": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP10": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP11": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP12": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP13": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP14": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP15": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP16": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP17": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP18": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP19": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP20": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP21": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP22": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP23": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP24": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP25": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP26": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP27": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP28": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP29": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP30": {
+            "direction": "IN"
+        },
+        "ICAP_DATA_TOP31": {
+            "direction": "IN"
+        },
+        "ICAP_OUT_BOT0": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT1": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT2": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT3": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT4": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT5": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT6": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT7": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT8": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT9": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT10": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT11": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT12": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT13": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT14": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT15": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT16": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT17": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT18": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT19": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT20": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT21": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT22": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT23": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT24": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT25": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT26": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT27": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT28": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT29": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT30": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_BOT31": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP0": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP1": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP2": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP3": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP4": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP5": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP6": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP7": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP8": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP9": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP10": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP11": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP12": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP13": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP14": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP15": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP16": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP17": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP18": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP19": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP20": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP21": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP22": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP23": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP24": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP25": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP26": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP27": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP28": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP29": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP30": {
+            "direction": "OUT"
+        },
+        "ICAP_OUT_TOP31": {
+            "direction": "OUT"
+        },
+        "ICAP_PR_DONE_BOT": {
+            "direction": "OUT"
+        },
+        "ICAP_PR_DONE_TOP": {
+            "direction": "OUT"
+        },
+        "ICAP_PR_ERROR_BOT": {
+            "direction": "OUT"
+        },
+        "ICAP_PR_ERROR_TOP": {
+            "direction": "OUT"
+        },
+        "ICAP_RDWR_B_BOT": {
+            "direction": "IN"
+        },
+        "ICAP_RDWR_B_TOP": {
+            "direction": "IN"
+        },
+        "IOX_CCLK": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA0": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA1": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA2": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA3": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA4": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA5": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA6": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA7": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA8": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA9": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA10": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA11": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA12": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA13": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA14": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA15": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA16": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA17": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA18": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA19": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA20": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA21": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA22": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA23": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA24": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA25": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA26": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA27": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA28": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA29": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA30": {
+            "direction": "OUT"
+        },
+        "IOX_CFGDATA31": {
+            "direction": "OUT"
+        },
+        "IOX_CFGMASTER": {
+            "direction": "OUT"
+        },
+        "IOX_INITBI": {
+            "direction": "OUT"
+        },
+        "IOX_INITBO": {
+            "direction": "IN"
+        },
+        "IOX_MODE0": {
+            "direction": "OUT"
+        },
+        "IOX_MODE1": {
+            "direction": "OUT"
+        },
+        "IOX_MODE2": {
+            "direction": "OUT"
+        },
+        "IOX_PUDCB": {
+            "direction": "OUT"
+        },
+        "IOX_RDWRB": {
+            "direction": "OUT"
+        },
+        "IOX_TDO": {
+            "direction": "IN"
+        },
+        "IOX_VGG_COMP_OUT": {
+            "direction": "OUT"
+        },
+        "KEY_CLEAR": {
+            "direction": "IN"
+        },
+        "PROG_ACK": {
+            "direction": "IN"
+        },
+        "PROG_REQ": {
+            "direction": "OUT"
+        },
+        "RBCRC_ERROR": {
+            "direction": "OUT"
+        },
+        "START_CFG_CLK": {
+            "direction": "OUT"
+        },
+        "START_CFG_MCLK": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_CLK": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA0": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA1": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA2": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA3": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA4": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA5": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA6": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA7": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA8": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA9": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA10": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA11": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA12": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA13": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA14": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA15": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA16": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA17": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA18": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA19": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA20": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA21": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA22": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA23": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA24": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA25": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA26": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA27": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA28": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA29": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA30": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_DATA31": {
+            "direction": "OUT"
+        },
+        "USR_ACCESS_VALID": {
+            "direction": "OUT"
+        },
+        "USR_CCLK_O": {
+            "direction": "IN"
+        },
+        "USR_CCLK_TS": {
+            "direction": "IN"
+        },
+        "USR_DNA_CLK": {
+            "direction": "IN"
+        },
+        "USR_DNA_DIN": {
+            "direction": "IN"
+        },
+        "USR_DNA_OUT": {
+            "direction": "OUT"
+        },
+        "USR_DNA_READ": {
+            "direction": "IN"
+        },
+        "USR_DNA_SHIFT": {
+            "direction": "IN"
+        },
+        "USR_DONE_O": {
+            "direction": "IN"
+        },
+        "USR_DONE_TS": {
+            "direction": "IN"
+        },
+        "USR_D_O_CFGIO0": {
+            "direction": "IN"
+        },
+        "USR_D_O_CFGIO1": {
+            "direction": "IN"
+        },
+        "USR_D_O_CFGIO2": {
+            "direction": "IN"
+        },
+        "USR_D_O_CFGIO3": {
+            "direction": "IN"
+        },
+        "USR_D_PIN_CFGIO0": {
+            "direction": "OUT"
+        },
+        "USR_D_PIN_CFGIO1": {
+            "direction": "OUT"
+        },
+        "USR_D_PIN_CFGIO2": {
+            "direction": "OUT"
+        },
+        "USR_D_PIN_CFGIO3": {
+            "direction": "OUT"
+        },
+        "USR_D_TS_CFGIO0": {
+            "direction": "IN"
+        },
+        "USR_D_TS_CFGIO1": {
+            "direction": "IN"
+        },
+        "USR_D_TS_CFGIO2": {
+            "direction": "IN"
+        },
+        "USR_D_TS_CFGIO3": {
+            "direction": "IN"
+        },
+        "USR_EFUSE0": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE1": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE2": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE3": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE4": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE5": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE6": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE7": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE8": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE9": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE10": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE11": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE12": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE13": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE14": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE15": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE16": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE17": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE18": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE19": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE20": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE21": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE22": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE23": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE24": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE25": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE26": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE27": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE28": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE29": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE30": {
+            "direction": "OUT"
+        },
+        "USR_EFUSE31": {
+            "direction": "OUT"
+        },
+        "USR_FCS_B_O": {
+            "direction": "IN"
+        },
+        "USR_FCS_B_TS": {
+            "direction": "IN"
+        },
+        "USR_GSR": {
+            "direction": "IN"
+        },
+        "USR_GTS": {
+            "direction": "IN"
+        },
+        "USR_TCK": {
+            "direction": "IN"
+        },
+        "USR_TDI": {
+            "direction": "IN"
+        },
+        "USR_TDO": {
+            "direction": "OUT"
+        },
+        "USR_TMS": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {},
+    "type": "CONFIG_SITE"
+}

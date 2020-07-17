@@ -1,0 +1,12 @@
+{
+    "site_pins": {
+        "CLK_IN": {
+            "direction": "IN"
+        },
+        "CLK_OUT": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "BUFG_PS"
+}

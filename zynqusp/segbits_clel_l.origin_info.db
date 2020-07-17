@@ -1,0 +1,768 @@
+CLEL_L.ABCDFF.CEUSED.V0 origin:014-cle-spec !14_07
+CLEL_L.ABCDFF.CEUSED.V1 origin:014-cle-spec 14_07
+CLEL_L.ABCDFF.CLKINV.V0 origin:014-cle-spec !08_19
+CLEL_L.ABCDFF.CLKINV.V1 origin:014-cle-spec 08_19
+CLEL_L.ABCDFF.MODE.FF origin:014-cle-spec !14_13
+CLEL_L.ABCDFF.MODE.LATCH origin:014-cle-spec 14_13
+CLEL_L.ABCDFF.SRINV.V0 origin:014-cle-spec !09_18
+CLEL_L.ABCDFF.SRINV.V1 origin:014-cle-spec 09_18
+CLEL_L.ABCDFF.SRUSED.V0 origin:014-cle-spec !15_05
+CLEL_L.ABCDFF.SRUSED.V1 origin:014-cle-spec 15_05
+CLEL_L.ABCDFF.SYNC.ASYNC origin:014-cle-spec !15_11
+CLEL_L.ABCDFF.SYNC.SYNC origin:014-cle-spec 15_11
+CLEL_L.AFF.INIT.V0 origin:014-cle-spec 12_02
+CLEL_L.AFF.INIT.V1 origin:014-cle-spec !12_02
+CLEL_L.AFF.SRVAL.V0 origin:014-cle-spec 12_01
+CLEL_L.AFF.SRVAL.V1 origin:014-cle-spec !12_01
+CLEL_L.ALUT.INIT[0] origin:014-cle-spec 11_15
+CLEL_L.ALUT.INIT[1] origin:014-cle-spec 10_15
+CLEL_L.ALUT.INIT[2] origin:014-cle-spec 09_15
+CLEL_L.ALUT.INIT[3] origin:014-cle-spec 08_15
+CLEL_L.ALUT.INIT[4] origin:014-cle-spec 11_14
+CLEL_L.ALUT.INIT[5] origin:014-cle-spec 10_14
+CLEL_L.ALUT.INIT[6] origin:014-cle-spec 09_14
+CLEL_L.ALUT.INIT[7] origin:014-cle-spec 08_14
+CLEL_L.ALUT.INIT[8] origin:014-cle-spec 11_13
+CLEL_L.ALUT.INIT[9] origin:014-cle-spec 10_13
+CLEL_L.ALUT.INIT[10] origin:014-cle-spec 09_13
+CLEL_L.ALUT.INIT[11] origin:014-cle-spec 08_13
+CLEL_L.ALUT.INIT[12] origin:014-cle-spec 11_12
+CLEL_L.ALUT.INIT[13] origin:014-cle-spec 10_12
+CLEL_L.ALUT.INIT[14] origin:014-cle-spec 09_12
+CLEL_L.ALUT.INIT[15] origin:014-cle-spec 08_12
+CLEL_L.ALUT.INIT[16] origin:014-cle-spec 11_11
+CLEL_L.ALUT.INIT[17] origin:014-cle-spec 10_11
+CLEL_L.ALUT.INIT[18] origin:014-cle-spec 09_11
+CLEL_L.ALUT.INIT[19] origin:014-cle-spec 08_11
+CLEL_L.ALUT.INIT[20] origin:014-cle-spec 11_10
+CLEL_L.ALUT.INIT[21] origin:014-cle-spec 10_10
+CLEL_L.ALUT.INIT[22] origin:014-cle-spec 09_10
+CLEL_L.ALUT.INIT[23] origin:014-cle-spec 08_10
+CLEL_L.ALUT.INIT[24] origin:014-cle-spec 11_09
+CLEL_L.ALUT.INIT[25] origin:014-cle-spec 10_09
+CLEL_L.ALUT.INIT[26] origin:014-cle-spec 09_09
+CLEL_L.ALUT.INIT[27] origin:014-cle-spec 08_09
+CLEL_L.ALUT.INIT[28] origin:014-cle-spec 11_08
+CLEL_L.ALUT.INIT[29] origin:014-cle-spec 10_08
+CLEL_L.ALUT.INIT[30] origin:014-cle-spec 09_08
+CLEL_L.ALUT.INIT[31] origin:014-cle-spec 08_08
+CLEL_L.ALUT.INIT[32] origin:014-cle-spec 11_07
+CLEL_L.ALUT.INIT[33] origin:014-cle-spec 10_07
+CLEL_L.ALUT.INIT[34] origin:014-cle-spec 09_07
+CLEL_L.ALUT.INIT[35] origin:014-cle-spec 08_07
+CLEL_L.ALUT.INIT[36] origin:014-cle-spec 11_06
+CLEL_L.ALUT.INIT[37] origin:014-cle-spec 10_06
+CLEL_L.ALUT.INIT[38] origin:014-cle-spec 09_06
+CLEL_L.ALUT.INIT[39] origin:014-cle-spec 08_06
+CLEL_L.ALUT.INIT[40] origin:014-cle-spec 11_05
+CLEL_L.ALUT.INIT[41] origin:014-cle-spec 10_05
+CLEL_L.ALUT.INIT[42] origin:014-cle-spec 09_05
+CLEL_L.ALUT.INIT[43] origin:014-cle-spec 08_05
+CLEL_L.ALUT.INIT[44] origin:014-cle-spec 11_04
+CLEL_L.ALUT.INIT[45] origin:014-cle-spec 10_04
+CLEL_L.ALUT.INIT[46] origin:014-cle-spec 09_04
+CLEL_L.ALUT.INIT[47] origin:014-cle-spec 08_04
+CLEL_L.ALUT.INIT[48] origin:014-cle-spec 11_03
+CLEL_L.ALUT.INIT[49] origin:014-cle-spec 10_03
+CLEL_L.ALUT.INIT[50] origin:014-cle-spec 09_03
+CLEL_L.ALUT.INIT[51] origin:014-cle-spec 08_03
+CLEL_L.ALUT.INIT[52] origin:014-cle-spec 11_02
+CLEL_L.ALUT.INIT[53] origin:014-cle-spec 10_02
+CLEL_L.ALUT.INIT[54] origin:014-cle-spec 09_02
+CLEL_L.ALUT.INIT[55] origin:014-cle-spec 08_02
+CLEL_L.ALUT.INIT[56] origin:014-cle-spec 11_01
+CLEL_L.ALUT.INIT[57] origin:014-cle-spec 10_01
+CLEL_L.ALUT.INIT[58] origin:014-cle-spec 09_01
+CLEL_L.ALUT.INIT[59] origin:014-cle-spec 08_01
+CLEL_L.ALUT.INIT[60] origin:014-cle-spec 11_00
+CLEL_L.ALUT.INIT[61] origin:014-cle-spec 10_00
+CLEL_L.ALUT.INIT[62] origin:014-cle-spec 09_00
+CLEL_L.ALUT.INIT[63] origin:014-cle-spec 08_00
+CLEL_L.BFF.INIT.V0 origin:014-cle-spec 12_04
+CLEL_L.BFF.INIT.V1 origin:014-cle-spec !12_04
+CLEL_L.BFF.SRVAL.V0 origin:014-cle-spec 12_05
+CLEL_L.BFF.SRVAL.V1 origin:014-cle-spec !12_05
+CLEL_L.BLUT.INIT[0] origin:014-cle-spec 07_15
+CLEL_L.BLUT.INIT[1] origin:014-cle-spec 06_15
+CLEL_L.BLUT.INIT[2] origin:014-cle-spec 05_15
+CLEL_L.BLUT.INIT[3] origin:014-cle-spec 04_15
+CLEL_L.BLUT.INIT[4] origin:014-cle-spec 07_14
+CLEL_L.BLUT.INIT[5] origin:014-cle-spec 06_14
+CLEL_L.BLUT.INIT[6] origin:014-cle-spec 05_14
+CLEL_L.BLUT.INIT[7] origin:014-cle-spec 04_14
+CLEL_L.BLUT.INIT[8] origin:014-cle-spec 07_13
+CLEL_L.BLUT.INIT[9] origin:014-cle-spec 06_13
+CLEL_L.BLUT.INIT[10] origin:014-cle-spec 05_13
+CLEL_L.BLUT.INIT[11] origin:014-cle-spec 04_13
+CLEL_L.BLUT.INIT[12] origin:014-cle-spec 07_12
+CLEL_L.BLUT.INIT[13] origin:014-cle-spec 06_12
+CLEL_L.BLUT.INIT[14] origin:014-cle-spec 05_12
+CLEL_L.BLUT.INIT[15] origin:014-cle-spec 04_12
+CLEL_L.BLUT.INIT[16] origin:014-cle-spec 07_11
+CLEL_L.BLUT.INIT[17] origin:014-cle-spec 06_11
+CLEL_L.BLUT.INIT[18] origin:014-cle-spec 05_11
+CLEL_L.BLUT.INIT[19] origin:014-cle-spec 04_11
+CLEL_L.BLUT.INIT[20] origin:014-cle-spec 07_10
+CLEL_L.BLUT.INIT[21] origin:014-cle-spec 06_10
+CLEL_L.BLUT.INIT[22] origin:014-cle-spec 05_10
+CLEL_L.BLUT.INIT[23] origin:014-cle-spec 04_10
+CLEL_L.BLUT.INIT[24] origin:014-cle-spec 07_09
+CLEL_L.BLUT.INIT[25] origin:014-cle-spec 06_09
+CLEL_L.BLUT.INIT[26] origin:014-cle-spec 05_09
+CLEL_L.BLUT.INIT[27] origin:014-cle-spec 04_09
+CLEL_L.BLUT.INIT[28] origin:014-cle-spec 07_08
+CLEL_L.BLUT.INIT[29] origin:014-cle-spec 06_08
+CLEL_L.BLUT.INIT[30] origin:014-cle-spec 05_08
+CLEL_L.BLUT.INIT[31] origin:014-cle-spec 04_08
+CLEL_L.BLUT.INIT[32] origin:014-cle-spec 07_07
+CLEL_L.BLUT.INIT[33] origin:014-cle-spec 06_07
+CLEL_L.BLUT.INIT[34] origin:014-cle-spec 05_07
+CLEL_L.BLUT.INIT[35] origin:014-cle-spec 04_07
+CLEL_L.BLUT.INIT[36] origin:014-cle-spec 07_06
+CLEL_L.BLUT.INIT[37] origin:014-cle-spec 06_06
+CLEL_L.BLUT.INIT[38] origin:014-cle-spec 05_06
+CLEL_L.BLUT.INIT[39] origin:014-cle-spec 04_06
+CLEL_L.BLUT.INIT[40] origin:014-cle-spec 07_05
+CLEL_L.BLUT.INIT[41] origin:014-cle-spec 06_05
+CLEL_L.BLUT.INIT[42] origin:014-cle-spec 05_05
+CLEL_L.BLUT.INIT[43] origin:014-cle-spec 04_05
+CLEL_L.BLUT.INIT[44] origin:014-cle-spec 07_04
+CLEL_L.BLUT.INIT[45] origin:014-cle-spec 06_04
+CLEL_L.BLUT.INIT[46] origin:014-cle-spec 05_04
+CLEL_L.BLUT.INIT[47] origin:014-cle-spec 04_04
+CLEL_L.BLUT.INIT[48] origin:014-cle-spec 07_03
+CLEL_L.BLUT.INIT[49] origin:014-cle-spec 06_03
+CLEL_L.BLUT.INIT[50] origin:014-cle-spec 05_03
+CLEL_L.BLUT.INIT[51] origin:014-cle-spec 04_03
+CLEL_L.BLUT.INIT[52] origin:014-cle-spec 07_02
+CLEL_L.BLUT.INIT[53] origin:014-cle-spec 06_02
+CLEL_L.BLUT.INIT[54] origin:014-cle-spec 05_02
+CLEL_L.BLUT.INIT[55] origin:014-cle-spec 04_02
+CLEL_L.BLUT.INIT[56] origin:014-cle-spec 07_01
+CLEL_L.BLUT.INIT[57] origin:014-cle-spec 06_01
+CLEL_L.BLUT.INIT[58] origin:014-cle-spec 05_01
+CLEL_L.BLUT.INIT[59] origin:014-cle-spec 04_01
+CLEL_L.BLUT.INIT[60] origin:014-cle-spec 07_00
+CLEL_L.BLUT.INIT[61] origin:014-cle-spec 06_00
+CLEL_L.BLUT.INIT[62] origin:014-cle-spec 05_00
+CLEL_L.BLUT.INIT[63] origin:014-cle-spec 04_00
+CLEL_L.CFF.INIT.V0 origin:014-cle-spec 12_08
+CLEL_L.CFF.INIT.V1 origin:014-cle-spec !12_08
+CLEL_L.CFF.SRVAL.V0 origin:014-cle-spec 12_07
+CLEL_L.CFF.SRVAL.V1 origin:014-cle-spec !12_07
+CLEL_L.CLUT.INIT[0] origin:014-cle-spec 03_15
+CLEL_L.CLUT.INIT[1] origin:014-cle-spec 02_15
+CLEL_L.CLUT.INIT[2] origin:014-cle-spec 01_15
+CLEL_L.CLUT.INIT[3] origin:014-cle-spec 00_15
+CLEL_L.CLUT.INIT[4] origin:014-cle-spec 03_14
+CLEL_L.CLUT.INIT[5] origin:014-cle-spec 02_14
+CLEL_L.CLUT.INIT[6] origin:014-cle-spec 01_14
+CLEL_L.CLUT.INIT[7] origin:014-cle-spec 00_14
+CLEL_L.CLUT.INIT[8] origin:014-cle-spec 03_13
+CLEL_L.CLUT.INIT[9] origin:014-cle-spec 02_13
+CLEL_L.CLUT.INIT[10] origin:014-cle-spec 01_13
+CLEL_L.CLUT.INIT[11] origin:014-cle-spec 00_13
+CLEL_L.CLUT.INIT[12] origin:014-cle-spec 03_12
+CLEL_L.CLUT.INIT[13] origin:014-cle-spec 02_12
+CLEL_L.CLUT.INIT[14] origin:014-cle-spec 01_12
+CLEL_L.CLUT.INIT[15] origin:014-cle-spec 00_12
+CLEL_L.CLUT.INIT[16] origin:014-cle-spec 03_11
+CLEL_L.CLUT.INIT[17] origin:014-cle-spec 02_11
+CLEL_L.CLUT.INIT[18] origin:014-cle-spec 01_11
+CLEL_L.CLUT.INIT[19] origin:014-cle-spec 00_11
+CLEL_L.CLUT.INIT[20] origin:014-cle-spec 03_10
+CLEL_L.CLUT.INIT[21] origin:014-cle-spec 02_10
+CLEL_L.CLUT.INIT[22] origin:014-cle-spec 01_10
+CLEL_L.CLUT.INIT[23] origin:014-cle-spec 00_10
+CLEL_L.CLUT.INIT[24] origin:014-cle-spec 03_09
+CLEL_L.CLUT.INIT[25] origin:014-cle-spec 02_09
+CLEL_L.CLUT.INIT[26] origin:014-cle-spec 01_09
+CLEL_L.CLUT.INIT[27] origin:014-cle-spec 00_09
+CLEL_L.CLUT.INIT[28] origin:014-cle-spec 03_08
+CLEL_L.CLUT.INIT[29] origin:014-cle-spec 02_08
+CLEL_L.CLUT.INIT[30] origin:014-cle-spec 01_08
+CLEL_L.CLUT.INIT[31] origin:014-cle-spec 00_08
+CLEL_L.CLUT.INIT[32] origin:014-cle-spec 03_07
+CLEL_L.CLUT.INIT[33] origin:014-cle-spec 02_07
+CLEL_L.CLUT.INIT[34] origin:014-cle-spec 01_07
+CLEL_L.CLUT.INIT[35] origin:014-cle-spec 00_07
+CLEL_L.CLUT.INIT[36] origin:014-cle-spec 03_06
+CLEL_L.CLUT.INIT[37] origin:014-cle-spec 02_06
+CLEL_L.CLUT.INIT[38] origin:014-cle-spec 01_06
+CLEL_L.CLUT.INIT[39] origin:014-cle-spec 00_06
+CLEL_L.CLUT.INIT[40] origin:014-cle-spec 03_05
+CLEL_L.CLUT.INIT[41] origin:014-cle-spec 02_05
+CLEL_L.CLUT.INIT[42] origin:014-cle-spec 01_05
+CLEL_L.CLUT.INIT[43] origin:014-cle-spec 00_05
+CLEL_L.CLUT.INIT[44] origin:014-cle-spec 03_04
+CLEL_L.CLUT.INIT[45] origin:014-cle-spec 02_04
+CLEL_L.CLUT.INIT[46] origin:014-cle-spec 01_04
+CLEL_L.CLUT.INIT[47] origin:014-cle-spec 00_04
+CLEL_L.CLUT.INIT[48] origin:014-cle-spec 03_03
+CLEL_L.CLUT.INIT[49] origin:014-cle-spec 02_03
+CLEL_L.CLUT.INIT[50] origin:014-cle-spec 01_03
+CLEL_L.CLUT.INIT[51] origin:014-cle-spec 00_03
+CLEL_L.CLUT.INIT[52] origin:014-cle-spec 03_02
+CLEL_L.CLUT.INIT[53] origin:014-cle-spec 02_02
+CLEL_L.CLUT.INIT[54] origin:014-cle-spec 01_02
+CLEL_L.CLUT.INIT[55] origin:014-cle-spec 00_02
+CLEL_L.CLUT.INIT[56] origin:014-cle-spec 03_01
+CLEL_L.CLUT.INIT[57] origin:014-cle-spec 02_01
+CLEL_L.CLUT.INIT[58] origin:014-cle-spec 01_01
+CLEL_L.CLUT.INIT[59] origin:014-cle-spec 00_01
+CLEL_L.CLUT.INIT[60] origin:014-cle-spec 03_00
+CLEL_L.CLUT.INIT[61] origin:014-cle-spec 02_00
+CLEL_L.CLUT.INIT[62] origin:014-cle-spec 01_00
+CLEL_L.CLUT.INIT[63] origin:014-cle-spec 00_00
+CLEL_L.DFF.INIT.V0 origin:014-cle-spec 12_10
+CLEL_L.DFF.INIT.V1 origin:014-cle-spec !12_10
+CLEL_L.DFF.SRVAL.V0 origin:014-cle-spec 12_11
+CLEL_L.DFF.SRVAL.V1 origin:014-cle-spec !12_11
+CLEL_L.DLUT.INIT[0] origin:014-cle-spec 03_31
+CLEL_L.DLUT.INIT[1] origin:014-cle-spec 02_31
+CLEL_L.DLUT.INIT[2] origin:014-cle-spec 01_31
+CLEL_L.DLUT.INIT[3] origin:014-cle-spec 00_31
+CLEL_L.DLUT.INIT[4] origin:014-cle-spec 03_30
+CLEL_L.DLUT.INIT[5] origin:014-cle-spec 02_30
+CLEL_L.DLUT.INIT[6] origin:014-cle-spec 01_30
+CLEL_L.DLUT.INIT[7] origin:014-cle-spec 00_30
+CLEL_L.DLUT.INIT[8] origin:014-cle-spec 03_29
+CLEL_L.DLUT.INIT[9] origin:014-cle-spec 02_29
+CLEL_L.DLUT.INIT[10] origin:014-cle-spec 01_29
+CLEL_L.DLUT.INIT[11] origin:014-cle-spec 00_29
+CLEL_L.DLUT.INIT[12] origin:014-cle-spec 03_28
+CLEL_L.DLUT.INIT[13] origin:014-cle-spec 02_28
+CLEL_L.DLUT.INIT[14] origin:014-cle-spec 01_28
+CLEL_L.DLUT.INIT[15] origin:014-cle-spec 00_28
+CLEL_L.DLUT.INIT[16] origin:014-cle-spec 03_27
+CLEL_L.DLUT.INIT[17] origin:014-cle-spec 02_27
+CLEL_L.DLUT.INIT[18] origin:014-cle-spec 01_27
+CLEL_L.DLUT.INIT[19] origin:014-cle-spec 00_27
+CLEL_L.DLUT.INIT[20] origin:014-cle-spec 03_26
+CLEL_L.DLUT.INIT[21] origin:014-cle-spec 02_26
+CLEL_L.DLUT.INIT[22] origin:014-cle-spec 01_26
+CLEL_L.DLUT.INIT[23] origin:014-cle-spec 00_26
+CLEL_L.DLUT.INIT[24] origin:014-cle-spec 03_25
+CLEL_L.DLUT.INIT[25] origin:014-cle-spec 02_25
+CLEL_L.DLUT.INIT[26] origin:014-cle-spec 01_25
+CLEL_L.DLUT.INIT[27] origin:014-cle-spec 00_25
+CLEL_L.DLUT.INIT[28] origin:014-cle-spec 03_24
+CLEL_L.DLUT.INIT[29] origin:014-cle-spec 02_24
+CLEL_L.DLUT.INIT[30] origin:014-cle-spec 01_24
+CLEL_L.DLUT.INIT[31] origin:014-cle-spec 00_24
+CLEL_L.DLUT.INIT[32] origin:014-cle-spec 03_23
+CLEL_L.DLUT.INIT[33] origin:014-cle-spec 02_23
+CLEL_L.DLUT.INIT[34] origin:014-cle-spec 01_23
+CLEL_L.DLUT.INIT[35] origin:014-cle-spec 00_23
+CLEL_L.DLUT.INIT[36] origin:014-cle-spec 03_22
+CLEL_L.DLUT.INIT[37] origin:014-cle-spec 02_22
+CLEL_L.DLUT.INIT[38] origin:014-cle-spec 01_22
+CLEL_L.DLUT.INIT[39] origin:014-cle-spec 00_22
+CLEL_L.DLUT.INIT[40] origin:014-cle-spec 03_21
+CLEL_L.DLUT.INIT[41] origin:014-cle-spec 02_21
+CLEL_L.DLUT.INIT[42] origin:014-cle-spec 01_21
+CLEL_L.DLUT.INIT[43] origin:014-cle-spec 00_21
+CLEL_L.DLUT.INIT[44] origin:014-cle-spec 03_20
+CLEL_L.DLUT.INIT[45] origin:014-cle-spec 02_20
+CLEL_L.DLUT.INIT[46] origin:014-cle-spec 01_20
+CLEL_L.DLUT.INIT[47] origin:014-cle-spec 00_20
+CLEL_L.DLUT.INIT[48] origin:014-cle-spec 03_19
+CLEL_L.DLUT.INIT[49] origin:014-cle-spec 02_19
+CLEL_L.DLUT.INIT[50] origin:014-cle-spec 01_19
+CLEL_L.DLUT.INIT[51] origin:014-cle-spec 00_19
+CLEL_L.DLUT.INIT[52] origin:014-cle-spec 03_18
+CLEL_L.DLUT.INIT[53] origin:014-cle-spec 02_18
+CLEL_L.DLUT.INIT[54] origin:014-cle-spec 01_18
+CLEL_L.DLUT.INIT[55] origin:014-cle-spec 00_18
+CLEL_L.DLUT.INIT[56] origin:014-cle-spec 03_17
+CLEL_L.DLUT.INIT[57] origin:014-cle-spec 02_17
+CLEL_L.DLUT.INIT[58] origin:014-cle-spec 01_17
+CLEL_L.DLUT.INIT[59] origin:014-cle-spec 00_17
+CLEL_L.DLUT.INIT[60] origin:014-cle-spec 03_16
+CLEL_L.DLUT.INIT[61] origin:014-cle-spec 02_16
+CLEL_L.DLUT.INIT[62] origin:014-cle-spec 01_16
+CLEL_L.DLUT.INIT[63] origin:014-cle-spec 00_16
+CLEL_L.EFF.INIT.V0 origin:014-cle-spec 12_26
+CLEL_L.EFF.INIT.V1 origin:014-cle-spec !12_26
+CLEL_L.EFF.SRVAL.V0 origin:014-cle-spec 12_25
+CLEL_L.EFF.SRVAL.V1 origin:014-cle-spec !12_25
+CLEL_L.EFGHFF.CEUSED.V0 origin:014-cle-spec !14_31
+CLEL_L.EFGHFF.CEUSED.V1 origin:014-cle-spec 14_31
+CLEL_L.EFGHFF.CLKINV.V0 origin:014-cle-spec !08_29
+CLEL_L.EFGHFF.CLKINV.V1 origin:014-cle-spec 08_29
+CLEL_L.EFGHFF.MODE.FF origin:014-cle-spec !14_37
+CLEL_L.EFGHFF.MODE.LATCH origin:014-cle-spec 14_37
+CLEL_L.EFGHFF.SRINV.V0 origin:014-cle-spec !08_31
+CLEL_L.EFGHFF.SRINV.V1 origin:014-cle-spec 08_31
+CLEL_L.EFGHFF.SRUSED.V0 origin:014-cle-spec !15_29
+CLEL_L.EFGHFF.SRUSED.V1 origin:014-cle-spec 15_29
+CLEL_L.EFGHFF.SYNC.ASYNC origin:014-cle-spec !15_35
+CLEL_L.EFGHFF.SYNC.SYNC origin:014-cle-spec 15_35
+CLEL_L.ELUT.INIT[0] origin:014-cle-spec 07_31
+CLEL_L.ELUT.INIT[1] origin:014-cle-spec 06_31
+CLEL_L.ELUT.INIT[2] origin:014-cle-spec 05_31
+CLEL_L.ELUT.INIT[3] origin:014-cle-spec 04_31
+CLEL_L.ELUT.INIT[4] origin:014-cle-spec 07_30
+CLEL_L.ELUT.INIT[5] origin:014-cle-spec 06_30
+CLEL_L.ELUT.INIT[6] origin:014-cle-spec 05_30
+CLEL_L.ELUT.INIT[7] origin:014-cle-spec 04_30
+CLEL_L.ELUT.INIT[8] origin:014-cle-spec 07_29
+CLEL_L.ELUT.INIT[9] origin:014-cle-spec 06_29
+CLEL_L.ELUT.INIT[10] origin:014-cle-spec 05_29
+CLEL_L.ELUT.INIT[11] origin:014-cle-spec 04_29
+CLEL_L.ELUT.INIT[12] origin:014-cle-spec 07_28
+CLEL_L.ELUT.INIT[13] origin:014-cle-spec 06_28
+CLEL_L.ELUT.INIT[14] origin:014-cle-spec 05_28
+CLEL_L.ELUT.INIT[15] origin:014-cle-spec 04_28
+CLEL_L.ELUT.INIT[16] origin:014-cle-spec 07_27
+CLEL_L.ELUT.INIT[17] origin:014-cle-spec 06_27
+CLEL_L.ELUT.INIT[18] origin:014-cle-spec 05_27
+CLEL_L.ELUT.INIT[19] origin:014-cle-spec 04_27
+CLEL_L.ELUT.INIT[20] origin:014-cle-spec 07_26
+CLEL_L.ELUT.INIT[21] origin:014-cle-spec 06_26
+CLEL_L.ELUT.INIT[22] origin:014-cle-spec 05_26
+CLEL_L.ELUT.INIT[23] origin:014-cle-spec 04_26
+CLEL_L.ELUT.INIT[24] origin:014-cle-spec 07_25
+CLEL_L.ELUT.INIT[25] origin:014-cle-spec 06_25
+CLEL_L.ELUT.INIT[26] origin:014-cle-spec 05_25
+CLEL_L.ELUT.INIT[27] origin:014-cle-spec 04_25
+CLEL_L.ELUT.INIT[28] origin:014-cle-spec 07_24
+CLEL_L.ELUT.INIT[29] origin:014-cle-spec 06_24
+CLEL_L.ELUT.INIT[30] origin:014-cle-spec 05_24
+CLEL_L.ELUT.INIT[31] origin:014-cle-spec 04_24
+CLEL_L.ELUT.INIT[32] origin:014-cle-spec 07_23
+CLEL_L.ELUT.INIT[33] origin:014-cle-spec 06_23
+CLEL_L.ELUT.INIT[34] origin:014-cle-spec 05_23
+CLEL_L.ELUT.INIT[35] origin:014-cle-spec 04_23
+CLEL_L.ELUT.INIT[36] origin:014-cle-spec 07_22
+CLEL_L.ELUT.INIT[37] origin:014-cle-spec 06_22
+CLEL_L.ELUT.INIT[38] origin:014-cle-spec 05_22
+CLEL_L.ELUT.INIT[39] origin:014-cle-spec 04_22
+CLEL_L.ELUT.INIT[40] origin:014-cle-spec 07_21
+CLEL_L.ELUT.INIT[41] origin:014-cle-spec 06_21
+CLEL_L.ELUT.INIT[42] origin:014-cle-spec 05_21
+CLEL_L.ELUT.INIT[43] origin:014-cle-spec 04_21
+CLEL_L.ELUT.INIT[44] origin:014-cle-spec 07_20
+CLEL_L.ELUT.INIT[45] origin:014-cle-spec 06_20
+CLEL_L.ELUT.INIT[46] origin:014-cle-spec 05_20
+CLEL_L.ELUT.INIT[47] origin:014-cle-spec 04_20
+CLEL_L.ELUT.INIT[48] origin:014-cle-spec 07_19
+CLEL_L.ELUT.INIT[49] origin:014-cle-spec 06_19
+CLEL_L.ELUT.INIT[50] origin:014-cle-spec 05_19
+CLEL_L.ELUT.INIT[51] origin:014-cle-spec 04_19
+CLEL_L.ELUT.INIT[52] origin:014-cle-spec 07_18
+CLEL_L.ELUT.INIT[53] origin:014-cle-spec 06_18
+CLEL_L.ELUT.INIT[54] origin:014-cle-spec 05_18
+CLEL_L.ELUT.INIT[55] origin:014-cle-spec 04_18
+CLEL_L.ELUT.INIT[56] origin:014-cle-spec 07_17
+CLEL_L.ELUT.INIT[57] origin:014-cle-spec 06_17
+CLEL_L.ELUT.INIT[58] origin:014-cle-spec 05_17
+CLEL_L.ELUT.INIT[59] origin:014-cle-spec 04_17
+CLEL_L.ELUT.INIT[60] origin:014-cle-spec 07_16
+CLEL_L.ELUT.INIT[61] origin:014-cle-spec 06_16
+CLEL_L.ELUT.INIT[62] origin:014-cle-spec 05_16
+CLEL_L.ELUT.INIT[63] origin:014-cle-spec 04_16
+CLEL_L.FFF.INIT.V0 origin:014-cle-spec 12_28
+CLEL_L.FFF.INIT.V1 origin:014-cle-spec !12_28
+CLEL_L.FFF.SRVAL.V0 origin:014-cle-spec 12_29
+CLEL_L.FFF.SRVAL.V1 origin:014-cle-spec !12_29
+CLEL_L.FLUT.INIT[0] origin:014-cle-spec 03_47
+CLEL_L.FLUT.INIT[1] origin:014-cle-spec 02_47
+CLEL_L.FLUT.INIT[2] origin:014-cle-spec 01_47
+CLEL_L.FLUT.INIT[3] origin:014-cle-spec 00_47
+CLEL_L.FLUT.INIT[4] origin:014-cle-spec 03_46
+CLEL_L.FLUT.INIT[5] origin:014-cle-spec 02_46
+CLEL_L.FLUT.INIT[6] origin:014-cle-spec 01_46
+CLEL_L.FLUT.INIT[7] origin:014-cle-spec 00_46
+CLEL_L.FLUT.INIT[8] origin:014-cle-spec 03_45
+CLEL_L.FLUT.INIT[9] origin:014-cle-spec 02_45
+CLEL_L.FLUT.INIT[10] origin:014-cle-spec 01_45
+CLEL_L.FLUT.INIT[11] origin:014-cle-spec 00_45
+CLEL_L.FLUT.INIT[12] origin:014-cle-spec 03_44
+CLEL_L.FLUT.INIT[13] origin:014-cle-spec 02_44
+CLEL_L.FLUT.INIT[14] origin:014-cle-spec 01_44
+CLEL_L.FLUT.INIT[15] origin:014-cle-spec 00_44
+CLEL_L.FLUT.INIT[16] origin:014-cle-spec 03_43
+CLEL_L.FLUT.INIT[17] origin:014-cle-spec 02_43
+CLEL_L.FLUT.INIT[18] origin:014-cle-spec 01_43
+CLEL_L.FLUT.INIT[19] origin:014-cle-spec 00_43
+CLEL_L.FLUT.INIT[20] origin:014-cle-spec 03_42
+CLEL_L.FLUT.INIT[21] origin:014-cle-spec 02_42
+CLEL_L.FLUT.INIT[22] origin:014-cle-spec 01_42
+CLEL_L.FLUT.INIT[23] origin:014-cle-spec 00_42
+CLEL_L.FLUT.INIT[24] origin:014-cle-spec 03_41
+CLEL_L.FLUT.INIT[25] origin:014-cle-spec 02_41
+CLEL_L.FLUT.INIT[26] origin:014-cle-spec 01_41
+CLEL_L.FLUT.INIT[27] origin:014-cle-spec 00_41
+CLEL_L.FLUT.INIT[28] origin:014-cle-spec 03_40
+CLEL_L.FLUT.INIT[29] origin:014-cle-spec 02_40
+CLEL_L.FLUT.INIT[30] origin:014-cle-spec 01_40
+CLEL_L.FLUT.INIT[31] origin:014-cle-spec 00_40
+CLEL_L.FLUT.INIT[32] origin:014-cle-spec 03_39
+CLEL_L.FLUT.INIT[33] origin:014-cle-spec 02_39
+CLEL_L.FLUT.INIT[34] origin:014-cle-spec 01_39
+CLEL_L.FLUT.INIT[35] origin:014-cle-spec 00_39
+CLEL_L.FLUT.INIT[36] origin:014-cle-spec 03_38
+CLEL_L.FLUT.INIT[37] origin:014-cle-spec 02_38
+CLEL_L.FLUT.INIT[38] origin:014-cle-spec 01_38
+CLEL_L.FLUT.INIT[39] origin:014-cle-spec 00_38
+CLEL_L.FLUT.INIT[40] origin:014-cle-spec 03_37
+CLEL_L.FLUT.INIT[41] origin:014-cle-spec 02_37
+CLEL_L.FLUT.INIT[42] origin:014-cle-spec 01_37
+CLEL_L.FLUT.INIT[43] origin:014-cle-spec 00_37
+CLEL_L.FLUT.INIT[44] origin:014-cle-spec 03_36
+CLEL_L.FLUT.INIT[45] origin:014-cle-spec 02_36
+CLEL_L.FLUT.INIT[46] origin:014-cle-spec 01_36
+CLEL_L.FLUT.INIT[47] origin:014-cle-spec 00_36
+CLEL_L.FLUT.INIT[48] origin:014-cle-spec 03_35
+CLEL_L.FLUT.INIT[49] origin:014-cle-spec 02_35
+CLEL_L.FLUT.INIT[50] origin:014-cle-spec 01_35
+CLEL_L.FLUT.INIT[51] origin:014-cle-spec 00_35
+CLEL_L.FLUT.INIT[52] origin:014-cle-spec 03_34
+CLEL_L.FLUT.INIT[53] origin:014-cle-spec 02_34
+CLEL_L.FLUT.INIT[54] origin:014-cle-spec 01_34
+CLEL_L.FLUT.INIT[55] origin:014-cle-spec 00_34
+CLEL_L.FLUT.INIT[56] origin:014-cle-spec 03_33
+CLEL_L.FLUT.INIT[57] origin:014-cle-spec 02_33
+CLEL_L.FLUT.INIT[58] origin:014-cle-spec 01_33
+CLEL_L.FLUT.INIT[59] origin:014-cle-spec 00_33
+CLEL_L.FLUT.INIT[60] origin:014-cle-spec 03_32
+CLEL_L.FLUT.INIT[61] origin:014-cle-spec 02_32
+CLEL_L.FLUT.INIT[62] origin:014-cle-spec 01_32
+CLEL_L.FLUT.INIT[63] origin:014-cle-spec 00_32
+CLEL_L.GFF.INIT.V0 origin:014-cle-spec 12_32
+CLEL_L.GFF.INIT.V1 origin:014-cle-spec !12_32
+CLEL_L.GFF.SRVAL.V0 origin:014-cle-spec 12_31
+CLEL_L.GFF.SRVAL.V1 origin:014-cle-spec !12_31
+CLEL_L.GLUT.INIT[0] origin:014-cle-spec 07_47
+CLEL_L.GLUT.INIT[1] origin:014-cle-spec 06_47
+CLEL_L.GLUT.INIT[2] origin:014-cle-spec 05_47
+CLEL_L.GLUT.INIT[3] origin:014-cle-spec 04_47
+CLEL_L.GLUT.INIT[4] origin:014-cle-spec 07_46
+CLEL_L.GLUT.INIT[5] origin:014-cle-spec 06_46
+CLEL_L.GLUT.INIT[6] origin:014-cle-spec 05_46
+CLEL_L.GLUT.INIT[7] origin:014-cle-spec 04_46
+CLEL_L.GLUT.INIT[8] origin:014-cle-spec 07_45
+CLEL_L.GLUT.INIT[9] origin:014-cle-spec 06_45
+CLEL_L.GLUT.INIT[10] origin:014-cle-spec 05_45
+CLEL_L.GLUT.INIT[11] origin:014-cle-spec 04_45
+CLEL_L.GLUT.INIT[12] origin:014-cle-spec 07_44
+CLEL_L.GLUT.INIT[13] origin:014-cle-spec 06_44
+CLEL_L.GLUT.INIT[14] origin:014-cle-spec 05_44
+CLEL_L.GLUT.INIT[15] origin:014-cle-spec 04_44
+CLEL_L.GLUT.INIT[16] origin:014-cle-spec 07_43
+CLEL_L.GLUT.INIT[17] origin:014-cle-spec 06_43
+CLEL_L.GLUT.INIT[18] origin:014-cle-spec 05_43
+CLEL_L.GLUT.INIT[19] origin:014-cle-spec 04_43
+CLEL_L.GLUT.INIT[20] origin:014-cle-spec 07_42
+CLEL_L.GLUT.INIT[21] origin:014-cle-spec 06_42
+CLEL_L.GLUT.INIT[22] origin:014-cle-spec 05_42
+CLEL_L.GLUT.INIT[23] origin:014-cle-spec 04_42
+CLEL_L.GLUT.INIT[24] origin:014-cle-spec 07_41
+CLEL_L.GLUT.INIT[25] origin:014-cle-spec 06_41
+CLEL_L.GLUT.INIT[26] origin:014-cle-spec 05_41
+CLEL_L.GLUT.INIT[27] origin:014-cle-spec 04_41
+CLEL_L.GLUT.INIT[28] origin:014-cle-spec 07_40
+CLEL_L.GLUT.INIT[29] origin:014-cle-spec 06_40
+CLEL_L.GLUT.INIT[30] origin:014-cle-spec 05_40
+CLEL_L.GLUT.INIT[31] origin:014-cle-spec 04_40
+CLEL_L.GLUT.INIT[32] origin:014-cle-spec 07_39
+CLEL_L.GLUT.INIT[33] origin:014-cle-spec 06_39
+CLEL_L.GLUT.INIT[34] origin:014-cle-spec 05_39
+CLEL_L.GLUT.INIT[35] origin:014-cle-spec 04_39
+CLEL_L.GLUT.INIT[36] origin:014-cle-spec 07_38
+CLEL_L.GLUT.INIT[37] origin:014-cle-spec 06_38
+CLEL_L.GLUT.INIT[38] origin:014-cle-spec 05_38
+CLEL_L.GLUT.INIT[39] origin:014-cle-spec 04_38
+CLEL_L.GLUT.INIT[40] origin:014-cle-spec 07_37
+CLEL_L.GLUT.INIT[41] origin:014-cle-spec 06_37
+CLEL_L.GLUT.INIT[42] origin:014-cle-spec 05_37
+CLEL_L.GLUT.INIT[43] origin:014-cle-spec 04_37
+CLEL_L.GLUT.INIT[44] origin:014-cle-spec 07_36
+CLEL_L.GLUT.INIT[45] origin:014-cle-spec 06_36
+CLEL_L.GLUT.INIT[46] origin:014-cle-spec 05_36
+CLEL_L.GLUT.INIT[47] origin:014-cle-spec 04_36
+CLEL_L.GLUT.INIT[48] origin:014-cle-spec 07_35
+CLEL_L.GLUT.INIT[49] origin:014-cle-spec 06_35
+CLEL_L.GLUT.INIT[50] origin:014-cle-spec 05_35
+CLEL_L.GLUT.INIT[51] origin:014-cle-spec 04_35
+CLEL_L.GLUT.INIT[52] origin:014-cle-spec 07_34
+CLEL_L.GLUT.INIT[53] origin:014-cle-spec 06_34
+CLEL_L.GLUT.INIT[54] origin:014-cle-spec 05_34
+CLEL_L.GLUT.INIT[55] origin:014-cle-spec 04_34
+CLEL_L.GLUT.INIT[56] origin:014-cle-spec 07_33
+CLEL_L.GLUT.INIT[57] origin:014-cle-spec 06_33
+CLEL_L.GLUT.INIT[58] origin:014-cle-spec 05_33
+CLEL_L.GLUT.INIT[59] origin:014-cle-spec 04_33
+CLEL_L.GLUT.INIT[60] origin:014-cle-spec 07_32
+CLEL_L.GLUT.INIT[61] origin:014-cle-spec 06_32
+CLEL_L.GLUT.INIT[62] origin:014-cle-spec 05_32
+CLEL_L.GLUT.INIT[63] origin:014-cle-spec 04_32
+CLEL_L.HFF.INIT.V0 origin:014-cle-spec 12_34
+CLEL_L.HFF.INIT.V1 origin:014-cle-spec !12_34
+CLEL_L.HFF.SRVAL.V0 origin:014-cle-spec 12_35
+CLEL_L.HFF.SRVAL.V1 origin:014-cle-spec !12_35
+CLEL_L.HLUT.INIT[0] origin:014-cle-spec 11_47
+CLEL_L.HLUT.INIT[1] origin:014-cle-spec 10_47
+CLEL_L.HLUT.INIT[2] origin:014-cle-spec 09_47
+CLEL_L.HLUT.INIT[3] origin:014-cle-spec 08_47
+CLEL_L.HLUT.INIT[4] origin:014-cle-spec 11_46
+CLEL_L.HLUT.INIT[5] origin:014-cle-spec 10_46
+CLEL_L.HLUT.INIT[6] origin:014-cle-spec 09_46
+CLEL_L.HLUT.INIT[7] origin:014-cle-spec 08_46
+CLEL_L.HLUT.INIT[8] origin:014-cle-spec 11_45
+CLEL_L.HLUT.INIT[9] origin:014-cle-spec 10_45
+CLEL_L.HLUT.INIT[10] origin:014-cle-spec 09_45
+CLEL_L.HLUT.INIT[11] origin:014-cle-spec 08_45
+CLEL_L.HLUT.INIT[12] origin:014-cle-spec 11_44
+CLEL_L.HLUT.INIT[13] origin:014-cle-spec 10_44
+CLEL_L.HLUT.INIT[14] origin:014-cle-spec 09_44
+CLEL_L.HLUT.INIT[15] origin:014-cle-spec 08_44
+CLEL_L.HLUT.INIT[16] origin:014-cle-spec 11_43
+CLEL_L.HLUT.INIT[17] origin:014-cle-spec 10_43
+CLEL_L.HLUT.INIT[18] origin:014-cle-spec 09_43
+CLEL_L.HLUT.INIT[19] origin:014-cle-spec 08_43
+CLEL_L.HLUT.INIT[20] origin:014-cle-spec 11_42
+CLEL_L.HLUT.INIT[21] origin:014-cle-spec 10_42
+CLEL_L.HLUT.INIT[22] origin:014-cle-spec 09_42
+CLEL_L.HLUT.INIT[23] origin:014-cle-spec 08_42
+CLEL_L.HLUT.INIT[24] origin:014-cle-spec 11_41
+CLEL_L.HLUT.INIT[25] origin:014-cle-spec 10_41
+CLEL_L.HLUT.INIT[26] origin:014-cle-spec 09_41
+CLEL_L.HLUT.INIT[27] origin:014-cle-spec 08_41
+CLEL_L.HLUT.INIT[28] origin:014-cle-spec 11_40
+CLEL_L.HLUT.INIT[29] origin:014-cle-spec 10_40
+CLEL_L.HLUT.INIT[30] origin:014-cle-spec 09_40
+CLEL_L.HLUT.INIT[31] origin:014-cle-spec 08_40
+CLEL_L.HLUT.INIT[32] origin:014-cle-spec 11_39
+CLEL_L.HLUT.INIT[33] origin:014-cle-spec 10_39
+CLEL_L.HLUT.INIT[34] origin:014-cle-spec 09_39
+CLEL_L.HLUT.INIT[35] origin:014-cle-spec 08_39
+CLEL_L.HLUT.INIT[36] origin:014-cle-spec 11_38
+CLEL_L.HLUT.INIT[37] origin:014-cle-spec 10_38
+CLEL_L.HLUT.INIT[38] origin:014-cle-spec 09_38
+CLEL_L.HLUT.INIT[39] origin:014-cle-spec 08_38
+CLEL_L.HLUT.INIT[40] origin:014-cle-spec 11_37
+CLEL_L.HLUT.INIT[41] origin:014-cle-spec 10_37
+CLEL_L.HLUT.INIT[42] origin:014-cle-spec 09_37
+CLEL_L.HLUT.INIT[43] origin:014-cle-spec 08_37
+CLEL_L.HLUT.INIT[44] origin:014-cle-spec 11_36
+CLEL_L.HLUT.INIT[45] origin:014-cle-spec 10_36
+CLEL_L.HLUT.INIT[46] origin:014-cle-spec 09_36
+CLEL_L.HLUT.INIT[47] origin:014-cle-spec 08_36
+CLEL_L.HLUT.INIT[48] origin:014-cle-spec 11_35
+CLEL_L.HLUT.INIT[49] origin:014-cle-spec 10_35
+CLEL_L.HLUT.INIT[50] origin:014-cle-spec 09_35
+CLEL_L.HLUT.INIT[51] origin:014-cle-spec 08_35
+CLEL_L.HLUT.INIT[52] origin:014-cle-spec 11_34
+CLEL_L.HLUT.INIT[53] origin:014-cle-spec 10_34
+CLEL_L.HLUT.INIT[54] origin:014-cle-spec 09_34
+CLEL_L.HLUT.INIT[55] origin:014-cle-spec 08_34
+CLEL_L.HLUT.INIT[56] origin:014-cle-spec 11_33
+CLEL_L.HLUT.INIT[57] origin:014-cle-spec 10_33
+CLEL_L.HLUT.INIT[58] origin:014-cle-spec 09_33
+CLEL_L.HLUT.INIT[59] origin:014-cle-spec 08_33
+CLEL_L.HLUT.INIT[60] origin:014-cle-spec 11_32
+CLEL_L.HLUT.INIT[61] origin:014-cle-spec 10_32
+CLEL_L.HLUT.INIT[62] origin:014-cle-spec 09_32
+CLEL_L.HLUT.INIT[63] origin:014-cle-spec 08_32
+CLEL_L.OUTMUXA.CY origin:014-cle-spec !12_00 !14_00 !15_00 13_00
+CLEL_L.OUTMUXA.XORIN origin:014-cle-spec !12_00 !13_00 !14_00 15_00
+CLEL_L.OUTMUXA.D5 origin:014-cle-spec !13_00 !14_00 !15_00 12_00
+CLEL_L.OUTMUXA.D6 origin:014-cle-spec !12_00 !13_00 !15_00 14_00
+CLEL_L.OUTMUXB.CY origin:014-cle-spec !12_06 !13_07 !14_06 !15_06 13_06
+CLEL_L.OUTMUXB.XORIN origin:014-cle-spec !12_06 !13_06 !13_07 !14_06 15_06
+CLEL_L.OUTMUXB.D5 origin:014-cle-spec !13_06 !13_07 !14_06 !15_06 12_06
+CLEL_L.OUTMUXB.D6 origin:014-cle-spec !12_06 !13_06 !13_07 !15_06 14_06
+CLEL_L.OUTMUXB.F7F8 origin:014-cle-spec !12_06 !13_06 !14_06 !15_06 13_07
+CLEL_L.OUTMUXC.CY origin:014-cle-spec !12_12 !13_13 !14_12 !15_12 13_12
+CLEL_L.OUTMUXC.XORIN origin:014-cle-spec !12_12 !13_12 !13_13 !14_12 15_12
+CLEL_L.OUTMUXC.D5 origin:014-cle-spec !13_12 !13_13 !14_12 !15_12 12_12
+CLEL_L.OUTMUXC.D6 origin:014-cle-spec !12_12 !13_12 !13_13 !15_12 14_12
+CLEL_L.OUTMUXC.F7F8 origin:014-cle-spec !12_12 !13_12 !14_12 !15_12 13_13
+CLEL_L.OUTMUXD.CY origin:014-cle-spec !12_18 !13_19 !14_18 !15_18 13_18
+CLEL_L.OUTMUXD.XORIN origin:014-cle-spec !12_18 !13_18 !13_19 !14_18 15_18
+CLEL_L.OUTMUXD.D5 origin:014-cle-spec !13_18 !13_19 !14_18 !15_18 12_18
+CLEL_L.OUTMUXD.D6 origin:014-cle-spec !12_18 !13_18 !13_19 !15_18 14_18
+CLEL_L.OUTMUXD.F7F8 origin:014-cle-spec !12_18 !13_18 !14_18 !15_18 13_19
+CLEL_L.OUTMUXE.CY origin:014-cle-spec !12_24 !13_25 !14_24 !15_24 13_24
+CLEL_L.OUTMUXE.XORIN origin:014-cle-spec !12_24 !13_24 !13_25 !14_24 15_24
+CLEL_L.OUTMUXE.D5 origin:014-cle-spec !13_24 !13_25 !14_24 !15_24 12_24
+CLEL_L.OUTMUXE.D6 origin:014-cle-spec !12_24 !13_24 !13_25 !15_24 14_24
+CLEL_L.OUTMUXE.F7F8 origin:014-cle-spec !12_24 !13_24 !14_24 !15_24 13_25
+CLEL_L.OUTMUXF.CY origin:014-cle-spec !12_30 !13_31 !14_30 !15_30 13_30
+CLEL_L.OUTMUXF.XORIN origin:014-cle-spec !12_30 !13_30 !13_31 !14_30 15_30
+CLEL_L.OUTMUXF.D5 origin:014-cle-spec !13_30 !13_31 !14_30 !15_30 12_30
+CLEL_L.OUTMUXF.D6 origin:014-cle-spec !12_30 !13_30 !13_31 !15_30 14_30
+CLEL_L.OUTMUXF.F7F8 origin:014-cle-spec !12_30 !13_30 !14_30 !15_30 13_31
+CLEL_L.OUTMUXG.CY origin:014-cle-spec !12_36 !13_37 !14_36 !15_36 13_36
+CLEL_L.OUTMUXG.XORIN origin:014-cle-spec !12_36 !13_36 !13_37 !14_36 15_36
+CLEL_L.OUTMUXG.D5 origin:014-cle-spec !13_36 !13_37 !14_36 !15_36 12_36
+CLEL_L.OUTMUXG.D6 origin:014-cle-spec !12_36 !13_36 !13_37 !15_36 14_36
+CLEL_L.OUTMUXG.F7F8 origin:014-cle-spec !12_36 !13_36 !14_36 !15_36 13_37
+CLEL_L.OUTMUXH.CY origin:014-cle-spec !12_42 !13_43 !14_42 !15_42 13_42
+CLEL_L.OUTMUXH.XORIN origin:014-cle-spec !12_42 !13_42 !13_43 !14_42 15_42
+CLEL_L.OUTMUXH.D5 origin:014-cle-spec !13_42 !13_43 !14_42 !15_42 12_42
+CLEL_L.OUTMUXH.D6 origin:014-cle-spec !12_42 !13_42 !13_43 !15_42 14_42
+CLEL_L.OUTMUXH.F7F8 origin:014-cle-spec !12_42 !13_42 !14_42 !15_42 13_43
+CLEL_L.PIP.CLE_CLE_L_SITE_0_CIN_PIN.CLE_CLE_L_SITE_0_CIN origin:014-cle-spec 08_16
+CLEL_L.ABCDFF2.CEUSED.V0 origin:014-cle-spec !14_19
+CLEL_L.ABCDFF2.CEUSED.V1 origin:014-cle-spec 14_19
+CLEL_L.ABCDFF2.SRUSED.V0 origin:014-cle-spec !15_17
+CLEL_L.ABCDFF2.SRUSED.V1 origin:014-cle-spec 15_17
+CLEL_L.AFF2.INIT.V0 origin:014-cle-spec 12_14
+CLEL_L.AFF2.INIT.V1 origin:014-cle-spec !12_14
+CLEL_L.AFF2.SRVAL.V0 origin:014-cle-spec 12_13
+CLEL_L.AFF2.SRVAL.V1 origin:014-cle-spec !12_13
+CLEL_L.BFF2.INIT.V0 origin:014-cle-spec 12_16
+CLEL_L.BFF2.INIT.V1 origin:014-cle-spec !12_16
+CLEL_L.BFF2.SRVAL.V0 origin:014-cle-spec 12_17
+CLEL_L.BFF2.SRVAL.V1 origin:014-cle-spec !12_17
+CLEL_L.CARRY8.CARRY_TYPE.DUAL_CY4 origin:014-cle-spec 12_45
+CLEL_L.CARRY8.CARRY_TYPE.SINGLE_CY8 origin:014-cle-spec !12_45
+CLEL_L.CARRY8.CI.AX origin:014-cle-spec !10_18 14_01
+CLEL_L.CARRY8.CI_TOP.EX origin:014-cle-spec !11_31 12_27
+CLEL_L.CARRY8.CI_TOP.V0 origin:014-cle-spec !11_31 !12_27
+CLEL_L.CARRY8.CI_TOP.V1 origin:014-cle-spec !12_27 11_31
+CLEL_L.CARRY8.CI.V0 origin:014-cle-spec !10_18 !14_01
+CLEL_L.CARRY8.CI.V1 origin:014-cle-spec !14_01 10_18
+CLEL_L.CARRY8.DI0.AX origin:014-cle-spec !12_03
+CLEL_L.CARRY8.DI0.DI0 origin:014-cle-spec 12_03
+CLEL_L.CARRY8.DI1.BX origin:014-cle-spec !12_09
+CLEL_L.CARRY8.DI1.DI1 origin:014-cle-spec 12_09
+CLEL_L.CARRY8.DI2.CX origin:014-cle-spec !12_15
+CLEL_L.CARRY8.DI2.DI2 origin:014-cle-spec 12_15
+CLEL_L.CARRY8.DI3.DX origin:014-cle-spec !12_21
+CLEL_L.CARRY8.DI3.DI3 origin:014-cle-spec 12_21
+CLEL_L.CARRY8.DI4.EX origin:014-cle-spec !15_23
+CLEL_L.CARRY8.DI4.DI4 origin:014-cle-spec 15_23
+CLEL_L.CARRY8.DI5.FX origin:014-cle-spec !12_39
+CLEL_L.CARRY8.DI5.DI5 origin:014-cle-spec 12_39
+CLEL_L.CARRY8.DI6.GX origin:014-cle-spec !12_33
+CLEL_L.CARRY8.DI6.DI6 origin:014-cle-spec 12_33
+CLEL_L.CARRY8.DI7.HX origin:014-cle-spec !15_47
+CLEL_L.CARRY8.DI7.DI7 origin:014-cle-spec 15_47
+CLEL_L.CFF2.INIT.V0 origin:014-cle-spec 12_20
+CLEL_L.CFF2.INIT.V1 origin:014-cle-spec !12_20
+CLEL_L.CFF2.SRVAL.V0 origin:014-cle-spec 12_19
+CLEL_L.CFF2.SRVAL.V1 origin:014-cle-spec !12_19
+CLEL_L.DFF2.INIT.V0 origin:014-cle-spec 12_22
+CLEL_L.DFF2.INIT.V1 origin:014-cle-spec !12_22
+CLEL_L.DFF2.SRVAL.V0 origin:014-cle-spec 12_23
+CLEL_L.DFF2.SRVAL.V1 origin:014-cle-spec !12_23
+CLEL_L.EFF2.INIT.V0 origin:014-cle-spec 12_38
+CLEL_L.EFF2.INIT.V1 origin:014-cle-spec !12_38
+CLEL_L.EFF2.SRVAL.V0 origin:014-cle-spec 12_37
+CLEL_L.EFF2.SRVAL.V1 origin:014-cle-spec !12_37
+CLEL_L.EFGHFF2.CEUSED.V0 origin:014-cle-spec !14_43
+CLEL_L.EFGHFF2.CEUSED.V1 origin:014-cle-spec 14_43
+CLEL_L.EFGHFF2.SRUSED.V0 origin:014-cle-spec !15_41
+CLEL_L.EFGHFF2.SRUSED.V1 origin:014-cle-spec 15_41
+CLEL_L.FFF2.INIT.V0 origin:014-cle-spec 12_40
+CLEL_L.FFF2.INIT.V1 origin:014-cle-spec !12_40
+CLEL_L.FFF2.SRVAL.V0 origin:014-cle-spec 12_41
+CLEL_L.FFF2.SRVAL.V1 origin:014-cle-spec !12_41
+CLEL_L.FFMUXA1.BYP origin:014-cle-spec !13_04 !13_05 !14_02 !14_03 !14_05 15_01
+CLEL_L.FFMUXA1.CY origin:014-cle-spec !13_04 !13_05 !14_03 !14_05 !15_01 14_02
+CLEL_L.FFMUXA1.XORIN origin:014-cle-spec !13_05 !14_02 !14_03 !14_05 !15_01 13_04
+CLEL_L.FFMUXA1.D5 origin:014-cle-spec !13_04 !14_02 !14_03 !14_05 !15_01 13_05
+CLEL_L.FFMUXA1.D6 origin:014-cle-spec !13_04 !13_05 !14_02 !14_03 !15_01 14_05
+CLEL_L.FFMUXA1.F7F8 origin:014-cle-spec !13_04 !13_05 !14_02 !14_05 !15_01 14_03
+CLEL_L.FFMUXA2.BYP origin:014-cle-spec !13_02 !13_03 !15_02 !15_03 !15_04 14_04
+CLEL_L.FFMUXA2.CY origin:014-cle-spec !13_02 !13_03 !14_04 !15_03 !15_04 15_02
+CLEL_L.FFMUXA2.XORIN origin:014-cle-spec !13_02 !13_03 !14_04 !15_02 !15_03 15_04
+CLEL_L.FFMUXA2.D5 origin:014-cle-spec !13_03 !14_04 !15_02 !15_03 !15_04 13_02
+CLEL_L.FFMUXA2.D6 origin:014-cle-spec !13_02 !13_03 !14_04 !15_02 !15_04 15_03
+CLEL_L.FFMUXA2.F7F8 origin:014-cle-spec !13_02 !14_04 !15_02 !15_03 !15_04 13_03
+CLEL_L.FFMUXB1.BYP origin:014-cle-spec !13_10 !13_11 !14_08 !14_09 !14_11 15_07
+CLEL_L.FFMUXB1.CY origin:014-cle-spec !13_10 !13_11 !14_09 !14_11 !15_07 14_08
+CLEL_L.FFMUXB1.XORIN origin:014-cle-spec !13_11 !14_08 !14_09 !14_11 !15_07 13_10
+CLEL_L.FFMUXB1.D5 origin:014-cle-spec !13_10 !14_08 !14_09 !14_11 !15_07 13_11
+CLEL_L.FFMUXB1.D6 origin:014-cle-spec !13_10 !13_11 !14_08 !14_09 !15_07 14_11
+CLEL_L.FFMUXB1.F7F8 origin:014-cle-spec !13_10 !13_11 !14_08 !14_11 !15_07 14_09
+CLEL_L.FFMUXB2.BYP origin:014-cle-spec !13_08 !13_09 !15_08 !15_09 !15_10 14_10
+CLEL_L.FFMUXB2.CY origin:014-cle-spec !13_08 !13_09 !14_10 !15_09 !15_10 15_08
+CLEL_L.FFMUXB2.XORIN origin:014-cle-spec !13_08 !13_09 !14_10 !15_08 !15_09 15_10
+CLEL_L.FFMUXB2.D5 origin:014-cle-spec !13_09 !14_10 !15_08 !15_09 !15_10 13_08
+CLEL_L.FFMUXB2.D6 origin:014-cle-spec !13_08 !13_09 !14_10 !15_08 !15_10 15_09
+CLEL_L.FFMUXB2.F7F8 origin:014-cle-spec !13_08 !14_10 !15_08 !15_09 !15_10 13_09
+CLEL_L.FFMUXC1.BYP origin:014-cle-spec !13_16 !13_17 !14_14 !14_15 !14_17 15_13
+CLEL_L.FFMUXC1.CY origin:014-cle-spec !13_16 !13_17 !14_15 !14_17 !15_13 14_14
+CLEL_L.FFMUXC1.XORIN origin:014-cle-spec !13_17 !14_14 !14_15 !14_17 !15_13 13_16
+CLEL_L.FFMUXC1.D5 origin:014-cle-spec !13_16 !14_14 !14_15 !14_17 !15_13 13_17
+CLEL_L.FFMUXC1.D6 origin:014-cle-spec !13_16 !13_17 !14_14 !14_15 !15_13 14_17
+CLEL_L.FFMUXC1.F7F8 origin:014-cle-spec !13_16 !13_17 !14_14 !14_17 !15_13 14_15
+CLEL_L.FFMUXC2.BYP origin:014-cle-spec !13_14 !13_15 !15_14 !15_15 !15_16 14_16
+CLEL_L.FFMUXC2.CY origin:014-cle-spec !13_14 !13_15 !14_16 !15_15 !15_16 15_14
+CLEL_L.FFMUXC2.XORIN origin:014-cle-spec !13_14 !13_15 !14_16 !15_14 !15_15 15_16
+CLEL_L.FFMUXC2.D5 origin:014-cle-spec !13_15 !14_16 !15_14 !15_15 !15_16 13_14
+CLEL_L.FFMUXC2.D6 origin:014-cle-spec !13_14 !13_15 !14_16 !15_14 !15_16 15_15
+CLEL_L.FFMUXC2.F7F8 origin:014-cle-spec !13_14 !14_16 !15_14 !15_15 !15_16 13_15
+CLEL_L.FFMUXD1.BYP origin:014-cle-spec !13_23 !14_20 !14_21 !14_23 !14_25 15_19
+CLEL_L.FFMUXD1.CY origin:014-cle-spec !13_23 !14_21 !14_23 !14_25 !15_19 14_20
+CLEL_L.FFMUXD1.XORIN origin:014-cle-spec !13_23 !14_20 !14_21 !14_23 !15_19 14_25
+CLEL_L.FFMUXD1.D5 origin:014-cle-spec !14_20 !14_21 !14_23 !14_25 !15_19 13_23
+CLEL_L.FFMUXD1.D6 origin:014-cle-spec !13_23 !14_20 !14_21 !14_25 !15_19 14_23
+CLEL_L.FFMUXD1.F7F8 origin:014-cle-spec !13_23 !14_20 !14_23 !14_25 !15_19 14_21
+CLEL_L.FFMUXD2.BYP origin:014-cle-spec !13_20 !13_21 !15_20 !15_21 !15_22 14_22
+CLEL_L.FFMUXD2.CY origin:014-cle-spec !13_20 !13_21 !14_22 !15_21 !15_22 15_20
+CLEL_L.FFMUXD2.XORIN origin:014-cle-spec !13_20 !13_21 !14_22 !15_20 !15_21 15_22
+CLEL_L.FFMUXD2.D5 origin:014-cle-spec !13_21 !14_22 !15_20 !15_21 !15_22 13_20
+CLEL_L.FFMUXD2.D6 origin:014-cle-spec !13_20 !13_21 !14_22 !15_20 !15_22 15_21
+CLEL_L.FFMUXD2.F7F8 origin:014-cle-spec !13_20 !14_22 !15_20 !15_21 !15_22 13_21
+CLEL_L.FFMUXE1.BYP origin:014-cle-spec !13_28 !13_29 !14_26 !14_27 !14_29 15_25
+CLEL_L.FFMUXE1.CY origin:014-cle-spec !13_28 !13_29 !14_27 !14_29 !15_25 14_26
+CLEL_L.FFMUXE1.XORIN origin:014-cle-spec !13_29 !14_26 !14_27 !14_29 !15_25 13_28
+CLEL_L.FFMUXE1.D5 origin:014-cle-spec !13_28 !14_26 !14_27 !14_29 !15_25 13_29
+CLEL_L.FFMUXE1.D6 origin:014-cle-spec !13_28 !13_29 !14_26 !14_27 !15_25 14_29
+CLEL_L.FFMUXE1.F7F8 origin:014-cle-spec !13_28 !13_29 !14_26 !14_29 !15_25 14_27
+CLEL_L.FFMUXE2.BYP origin:014-cle-spec !13_26 !13_27 !15_26 !15_27 !15_28 14_28
+CLEL_L.FFMUXE2.CY origin:014-cle-spec !13_26 !13_27 !14_28 !15_27 !15_28 15_26
+CLEL_L.FFMUXE2.XORIN origin:014-cle-spec !13_26 !13_27 !14_28 !15_26 !15_27 15_28
+CLEL_L.FFMUXE2.D5 origin:014-cle-spec !13_27 !14_28 !15_26 !15_27 !15_28 13_26
+CLEL_L.FFMUXE2.D6 origin:014-cle-spec !13_26 !13_27 !14_28 !15_26 !15_28 15_27
+CLEL_L.FFMUXE2.F7F8 origin:014-cle-spec !13_26 !14_28 !15_26 !15_27 !15_28 13_27
+CLEL_L.FFMUXF1.BYP origin:014-cle-spec !13_34 !13_35 !14_32 !14_33 !14_35 15_31
+CLEL_L.FFMUXF1.CY origin:014-cle-spec !13_34 !13_35 !14_33 !14_35 !15_31 14_32
+CLEL_L.FFMUXF1.XORIN origin:014-cle-spec !13_35 !14_32 !14_33 !14_35 !15_31 13_34
+CLEL_L.FFMUXF1.D5 origin:014-cle-spec !13_34 !14_32 !14_33 !14_35 !15_31 13_35
+CLEL_L.FFMUXF1.D6 origin:014-cle-spec !13_34 !13_35 !14_32 !14_33 !15_31 14_35
+CLEL_L.FFMUXF1.F7F8 origin:014-cle-spec !13_34 !13_35 !14_32 !14_35 !15_31 14_33
+CLEL_L.FFMUXF2.BYP origin:014-cle-spec !13_32 !13_33 !15_32 !15_33 !15_34 14_34
+CLEL_L.FFMUXF2.CY origin:014-cle-spec !13_32 !13_33 !14_34 !15_33 !15_34 15_32
+CLEL_L.FFMUXF2.XORIN origin:014-cle-spec !13_32 !13_33 !14_34 !15_32 !15_33 15_34
+CLEL_L.FFMUXF2.D5 origin:014-cle-spec !13_33 !14_34 !15_32 !15_33 !15_34 13_32
+CLEL_L.FFMUXF2.D6 origin:014-cle-spec !13_32 !13_33 !14_34 !15_32 !15_34 15_33
+CLEL_L.FFMUXF2.F7F8 origin:014-cle-spec !13_32 !14_34 !15_32 !15_33 !15_34 13_33
+CLEL_L.FFMUXG1.BYP origin:014-cle-spec !13_40 !13_41 !14_38 !14_39 !14_41 15_37
+CLEL_L.FFMUXG1.CY origin:014-cle-spec !13_40 !13_41 !14_39 !14_41 !15_37 14_38
+CLEL_L.FFMUXG1.XORIN origin:014-cle-spec !13_41 !14_38 !14_39 !14_41 !15_37 13_40
+CLEL_L.FFMUXG1.D5 origin:014-cle-spec !13_40 !14_38 !14_39 !14_41 !15_37 13_41
+CLEL_L.FFMUXG1.D6 origin:014-cle-spec !13_40 !13_41 !14_38 !14_39 !15_37 14_41
+CLEL_L.FFMUXG1.F7F8 origin:014-cle-spec !13_40 !13_41 !14_38 !14_41 !15_37 14_39
+CLEL_L.FFMUXG2.BYP origin:014-cle-spec !13_38 !13_39 !15_38 !15_39 !15_40 14_40
+CLEL_L.FFMUXG2.CY origin:014-cle-spec !13_38 !13_39 !14_40 !15_39 !15_40 15_38
+CLEL_L.FFMUXG2.XORIN origin:014-cle-spec !13_38 !13_39 !14_40 !15_38 !15_39 15_40
+CLEL_L.FFMUXG2.D5 origin:014-cle-spec !13_39 !14_40 !15_38 !15_39 !15_40 13_38
+CLEL_L.FFMUXG2.D6 origin:014-cle-spec !13_38 !13_39 !14_40 !15_38 !15_40 15_39
+CLEL_L.FFMUXG2.F7F8 origin:014-cle-spec !13_38 !14_40 !15_38 !15_39 !15_40 13_39
+CLEL_L.FFMUXH1.BYP origin:014-cle-spec !13_46 !13_47 !14_44 !14_45 !14_47 15_43
+CLEL_L.FFMUXH1.CY origin:014-cle-spec !13_46 !13_47 !14_45 !14_47 !15_43 14_44
+CLEL_L.FFMUXH1.XORIN origin:014-cle-spec !13_47 !14_44 !14_45 !14_47 !15_43 13_46
+CLEL_L.FFMUXH1.D5 origin:014-cle-spec !13_46 !14_44 !14_45 !14_47 !15_43 13_47
+CLEL_L.FFMUXH1.D6 origin:014-cle-spec !13_46 !13_47 !14_44 !14_45 !15_43 14_47
+CLEL_L.FFMUXH1.F7F8 origin:014-cle-spec !13_46 !13_47 !14_44 !14_47 !15_43 14_45
+CLEL_L.FFMUXH2.BYP origin:014-cle-spec !13_44 !13_45 !15_44 !15_45 !15_46 14_46
+CLEL_L.FFMUXH2.CY origin:014-cle-spec !13_44 !13_45 !14_46 !15_45 !15_46 15_44
+CLEL_L.FFMUXH2.XORIN origin:014-cle-spec !13_44 !13_45 !14_46 !15_44 !15_45 15_46
+CLEL_L.FFMUXH2.D5 origin:014-cle-spec !13_45 !14_46 !15_44 !15_45 !15_46 13_44
+CLEL_L.FFMUXH2.D6 origin:014-cle-spec !13_44 !13_45 !14_46 !15_44 !15_46 15_45
+CLEL_L.FFMUXH2.F7F8 origin:014-cle-spec !13_44 !14_46 !15_44 !15_45 !15_46 13_45
+CLEL_L.GFF2.INIT.V0 origin:014-cle-spec 12_44
+CLEL_L.GFF2.INIT.V1 origin:014-cle-spec !12_44
+CLEL_L.GFF2.SRVAL.V0 origin:014-cle-spec 12_43
+CLEL_L.GFF2.SRVAL.V1 origin:014-cle-spec !12_43
+CLEL_L.HFF2.INIT.V0 origin:014-cle-spec 12_46
+CLEL_L.HFF2.INIT.V1 origin:014-cle-spec !12_46
+CLEL_L.HFF2.SRVAL.V0 origin:014-cle-spec 12_47
+CLEL_L.HFF2.SRVAL.V1 origin:014-cle-spec !12_47

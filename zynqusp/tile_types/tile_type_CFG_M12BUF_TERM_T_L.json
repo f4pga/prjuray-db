@@ -1,0 +1,10 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CFG_M12BUF_TERM_T_L",
+    "wires": {
+        "CLOCK_DR_FT0": null,
+        "RESET_TAP_B_FT0": null,
+        "SHIFT_DR_FT0": null
+    }
+}

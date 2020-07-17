@@ -1,0 +1,21 @@
+{
+    "site_pins": {
+        "D0": {
+            "direction": "IN"
+        },
+        "D1": {
+            "direction": "IN"
+        },
+        "PLL_CLK_EN": {
+            "direction": "IN"
+        },
+        "REFCLK_DFD": {
+            "direction": "IN"
+        },
+        "Z": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "PLL_SELECT_SITE"
+}

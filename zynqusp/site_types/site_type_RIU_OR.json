@@ -1,0 +1,159 @@
+{
+    "site_pins": {
+        "RIU_RD_DATA0": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA1": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA2": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA3": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA4": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA5": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA6": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA7": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA8": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA9": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA10": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA11": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA12": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA13": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA14": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA15": {
+            "direction": "OUT"
+        },
+        "RIU_RD_DATA_LOW0": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW1": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW2": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW3": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW4": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW5": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW6": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW7": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW8": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW9": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW10": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW11": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW12": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW13": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW14": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_LOW15": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP0": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP1": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP2": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP3": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP4": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP5": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP6": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP7": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP8": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP9": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP10": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP11": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP12": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP13": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP14": {
+            "direction": "IN"
+        },
+        "RIU_RD_DATA_UPP15": {
+            "direction": "IN"
+        },
+        "RIU_RD_VALID": {
+            "direction": "OUT"
+        },
+        "RIU_RD_VALID_LOW": {
+            "direction": "IN"
+        },
+        "RIU_RD_VALID_UPP": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {},
+    "type": "RIU_OR"
+}

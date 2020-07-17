@@ -1,0 +1,247 @@
+{
+    "site_pins": {
+        "BS2CTL_CNTVALUEOUT0": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT1": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT2": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT3": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT4": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT5": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT6": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT7": {
+            "direction": "OUT"
+        },
+        "BS2CTL_CNTVALUEOUT8": {
+            "direction": "OUT"
+        },
+        "BS2CTL_TX_DDR_PHASE_SEL": {
+            "direction": "OUT"
+        },
+        "BS_RESET": {
+            "direction": "IN"
+        },
+        "CDATAIN0": {
+            "direction": "IN"
+        },
+        "CDATAIN1": {
+            "direction": "IN"
+        },
+        "CDATAOUT": {
+            "direction": "OUT"
+        },
+        "CE_ODELAY": {
+            "direction": "IN"
+        },
+        "CE_OFD": {
+            "direction": "IN"
+        },
+        "CLK": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN0": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN1": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN2": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN3": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN4": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN5": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN6": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN7": {
+            "direction": "IN"
+        },
+        "CNTVALUEIN8": {
+            "direction": "IN"
+        },
+        "CNTVALUEOUT0": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT1": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT2": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT3": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT4": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT5": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT6": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT7": {
+            "direction": "OUT"
+        },
+        "CNTVALUEOUT8": {
+            "direction": "OUT"
+        },
+        "CTL2BS_DYNAMIC_MODE_EN": {
+            "direction": "IN"
+        },
+        "CTL2BS_TX_DDR_PHASE_SEL": {
+            "direction": "IN"
+        },
+        "CTRL_CE": {
+            "direction": "IN"
+        },
+        "CTRL_CLK": {
+            "direction": "IN"
+        },
+        "CTRL_DLY0": {
+            "direction": "IN"
+        },
+        "CTRL_DLY1": {
+            "direction": "IN"
+        },
+        "CTRL_DLY2": {
+            "direction": "IN"
+        },
+        "CTRL_DLY3": {
+            "direction": "IN"
+        },
+        "CTRL_DLY4": {
+            "direction": "IN"
+        },
+        "CTRL_DLY5": {
+            "direction": "IN"
+        },
+        "CTRL_DLY6": {
+            "direction": "IN"
+        },
+        "CTRL_DLY7": {
+            "direction": "IN"
+        },
+        "CTRL_DLY8": {
+            "direction": "IN"
+        },
+        "CTRL_INC": {
+            "direction": "IN"
+        },
+        "CTRL_LD": {
+            "direction": "IN"
+        },
+        "D0": {
+            "direction": "IN"
+        },
+        "D1": {
+            "direction": "IN"
+        },
+        "D2": {
+            "direction": "IN"
+        },
+        "D3": {
+            "direction": "IN"
+        },
+        "D4": {
+            "direction": "IN"
+        },
+        "D5": {
+            "direction": "IN"
+        },
+        "D6": {
+            "direction": "IN"
+        },
+        "D7": {
+            "direction": "IN"
+        },
+        "DDR_CLK": {
+            "direction": "IN"
+        },
+        "DIV2_CLK": {
+            "direction": "IN"
+        },
+        "DIV4_CLK": {
+            "direction": "IN"
+        },
+        "EN_VTC": {
+            "direction": "IN"
+        },
+        "FORCE_OE_B": {
+            "direction": "IN"
+        },
+        "INC": {
+            "direction": "IN"
+        },
+        "LD": {
+            "direction": "IN"
+        },
+        "Q": {
+            "direction": "OUT"
+        },
+        "REGRST": {
+            "direction": "IN"
+        },
+        "RST": {
+            "direction": "IN"
+        },
+        "TOGGLE_DIV2_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_360_N_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_360_P_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_720_P0_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_720_P1_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_720_P2_SEL": {
+            "direction": "IN"
+        },
+        "TX_MUX_720_P3_SEL": {
+            "direction": "IN"
+        },
+        "VTC_READY": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "XIPHY_ODELAY_CLK_OPTINV:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_B"
+        },
+        "XIPHY_ODELAY_RST_OPTINV:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_B"
+        },
+        "XIPHY_OSERDES_RST_OPTINV:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_B"
+        }
+    },
+    "type": "BITSLICE_TX"
+}

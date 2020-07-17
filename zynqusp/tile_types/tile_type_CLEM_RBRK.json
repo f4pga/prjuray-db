@@ -1,0 +1,10 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CLEM_RBRK",
+    "wires": {
+        "CLK_VDISTR_FT0": null,
+        "CLK_VROUTE_FT0": null,
+        "COUT_FT0": null
+    }
+}

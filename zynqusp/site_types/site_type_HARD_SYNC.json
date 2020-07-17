@@ -1,0 +1,23 @@
+{
+    "site_pins": {
+        "CLK": {
+            "direction": "IN"
+        },
+        "DIN": {
+            "direction": "IN"
+        },
+        "DOUT": {
+            "direction": "OUT"
+        },
+        "SR": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "SYN_OPTINV_CLK:CLK_PREINV": {
+            "from_pin": "CLK_PREINV",
+            "to_pin": "CLK"
+        }
+    },
+    "type": "HARD_SYNC"
+}

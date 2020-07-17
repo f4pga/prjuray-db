@@ -1,0 +1,93 @@
+{
+    "site_pins": {
+        "DYNAMIC_DCI_TS": {
+            "direction": "IN"
+        },
+        "I": {
+            "direction": "OUT"
+        },
+        "IBUF_DISABLE": {
+            "direction": "IN"
+        },
+        "IO": {
+            "direction": "IN"
+        },
+        "KEEPER_EN": {
+            "direction": "IN"
+        },
+        "LVDS_TRUE": {
+            "direction": "IN"
+        },
+        "OP": {
+            "direction": "IN"
+        },
+        "OUTB_B": {
+            "direction": "OUT"
+        },
+        "OUTB_B_IN": {
+            "direction": "IN"
+        },
+        "O_B": {
+            "direction": "OUT"
+        },
+        "PAD_RES": {
+            "direction": "OUT"
+        },
+        "PD_EN": {
+            "direction": "IN"
+        },
+        "PU_EN": {
+            "direction": "IN"
+        },
+        "SWITCH_OUT": {
+            "direction": "OUT"
+        },
+        "TSP": {
+            "direction": "IN"
+        },
+        "TSTATEB": {
+            "direction": "OUT"
+        },
+        "TSTATE_IN": {
+            "direction": "IN"
+        },
+        "TSTATE_OUT": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "INPUTMUX:IN1": {
+            "from_pin": "IN1",
+            "to_pin": "OUT"
+        },
+        "INPUTMUX:IN2": {
+            "from_pin": "IN2",
+            "to_pin": "OUT"
+        },
+        "OUTMUX:OP": {
+            "from_pin": "OP",
+            "to_pin": "OUTB"
+        },
+        "OUTMUX:OUTB_B_IN": {
+            "from_pin": "OUTB_B_IN",
+            "to_pin": "OUTB"
+        },
+        "PADOUT:IN": {
+            "from_pin": "IN",
+            "to_pin": "OUT"
+        },
+        "TRIBUF:IN": {
+            "from_pin": "IN",
+            "to_pin": "OUT"
+        },
+        "TRIMUX:TSP": {
+            "from_pin": "TSP",
+            "to_pin": "TSTATEB"
+        },
+        "TRIMUX:TSTATE_IN": {
+            "from_pin": "TSTATE_IN",
+            "to_pin": "TSTATEB"
+        }
+    },
+    "type": "HDIOB_M"
+}
