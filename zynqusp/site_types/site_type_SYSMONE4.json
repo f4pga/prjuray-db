@@ -1,0 +1,915 @@
+{
+    "site_pins": {
+        "ADC_DATA0": {
+            "direction": "OUT"
+        },
+        "ADC_DATA1": {
+            "direction": "OUT"
+        },
+        "ADC_DATA2": {
+            "direction": "OUT"
+        },
+        "ADC_DATA3": {
+            "direction": "OUT"
+        },
+        "ADC_DATA4": {
+            "direction": "OUT"
+        },
+        "ADC_DATA5": {
+            "direction": "OUT"
+        },
+        "ADC_DATA6": {
+            "direction": "OUT"
+        },
+        "ADC_DATA7": {
+            "direction": "OUT"
+        },
+        "ADC_DATA8": {
+            "direction": "OUT"
+        },
+        "ADC_DATA9": {
+            "direction": "OUT"
+        },
+        "ADC_DATA10": {
+            "direction": "OUT"
+        },
+        "ADC_DATA11": {
+            "direction": "OUT"
+        },
+        "ADC_DATA12": {
+            "direction": "OUT"
+        },
+        "ADC_DATA13": {
+            "direction": "OUT"
+        },
+        "ADC_DATA14": {
+            "direction": "OUT"
+        },
+        "ADC_DATA15": {
+            "direction": "OUT"
+        },
+        "ALM0": {
+            "direction": "OUT"
+        },
+        "ALM1": {
+            "direction": "OUT"
+        },
+        "ALM2": {
+            "direction": "OUT"
+        },
+        "ALM3": {
+            "direction": "OUT"
+        },
+        "ALM4": {
+            "direction": "OUT"
+        },
+        "ALM5": {
+            "direction": "OUT"
+        },
+        "ALM6": {
+            "direction": "OUT"
+        },
+        "ALM7": {
+            "direction": "OUT"
+        },
+        "ALM8": {
+            "direction": "OUT"
+        },
+        "ALM9": {
+            "direction": "OUT"
+        },
+        "ALM10": {
+            "direction": "OUT"
+        },
+        "ALM11": {
+            "direction": "OUT"
+        },
+        "ALM12": {
+            "direction": "OUT"
+        },
+        "ALM13": {
+            "direction": "OUT"
+        },
+        "ALM14": {
+            "direction": "OUT"
+        },
+        "ALM15": {
+            "direction": "OUT"
+        },
+        "BUSY": {
+            "direction": "OUT"
+        },
+        "CHANNEL0": {
+            "direction": "OUT"
+        },
+        "CHANNEL1": {
+            "direction": "OUT"
+        },
+        "CHANNEL2": {
+            "direction": "OUT"
+        },
+        "CHANNEL3": {
+            "direction": "OUT"
+        },
+        "CHANNEL4": {
+            "direction": "OUT"
+        },
+        "CHANNEL5": {
+            "direction": "OUT"
+        },
+        "CONVST": {
+            "direction": "IN"
+        },
+        "CONVST_CLK": {
+            "direction": "IN"
+        },
+        "DADDR0": {
+            "direction": "IN"
+        },
+        "DADDR1": {
+            "direction": "IN"
+        },
+        "DADDR2": {
+            "direction": "IN"
+        },
+        "DADDR3": {
+            "direction": "IN"
+        },
+        "DADDR4": {
+            "direction": "IN"
+        },
+        "DADDR5": {
+            "direction": "IN"
+        },
+        "DADDR6": {
+            "direction": "IN"
+        },
+        "DADDR7": {
+            "direction": "IN"
+        },
+        "DATA_READY_ADC_F": {
+            "direction": "IN"
+        },
+        "DCLK": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F0": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F1": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F2": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F3": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F4": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F5": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F6": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F7": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F8": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F9": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F10": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F11": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F12": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F13": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F14": {
+            "direction": "IN"
+        },
+        "DEC_OUT_ADC_F15": {
+            "direction": "IN"
+        },
+        "DEN": {
+            "direction": "IN"
+        },
+        "DI0": {
+            "direction": "IN"
+        },
+        "DI1": {
+            "direction": "IN"
+        },
+        "DI2": {
+            "direction": "IN"
+        },
+        "DI3": {
+            "direction": "IN"
+        },
+        "DI4": {
+            "direction": "IN"
+        },
+        "DI5": {
+            "direction": "IN"
+        },
+        "DI6": {
+            "direction": "IN"
+        },
+        "DI7": {
+            "direction": "IN"
+        },
+        "DI8": {
+            "direction": "IN"
+        },
+        "DI9": {
+            "direction": "IN"
+        },
+        "DI10": {
+            "direction": "IN"
+        },
+        "DI11": {
+            "direction": "IN"
+        },
+        "DI12": {
+            "direction": "IN"
+        },
+        "DI13": {
+            "direction": "IN"
+        },
+        "DI14": {
+            "direction": "IN"
+        },
+        "DI15": {
+            "direction": "IN"
+        },
+        "DOUT0": {
+            "direction": "OUT"
+        },
+        "DOUT1": {
+            "direction": "OUT"
+        },
+        "DOUT2": {
+            "direction": "OUT"
+        },
+        "DOUT3": {
+            "direction": "OUT"
+        },
+        "DOUT4": {
+            "direction": "OUT"
+        },
+        "DOUT5": {
+            "direction": "OUT"
+        },
+        "DOUT6": {
+            "direction": "OUT"
+        },
+        "DOUT7": {
+            "direction": "OUT"
+        },
+        "DOUT8": {
+            "direction": "OUT"
+        },
+        "DOUT9": {
+            "direction": "OUT"
+        },
+        "DOUT10": {
+            "direction": "OUT"
+        },
+        "DOUT11": {
+            "direction": "OUT"
+        },
+        "DOUT12": {
+            "direction": "OUT"
+        },
+        "DOUT13": {
+            "direction": "OUT"
+        },
+        "DOUT14": {
+            "direction": "OUT"
+        },
+        "DOUT15": {
+            "direction": "OUT"
+        },
+        "DRDY": {
+            "direction": "OUT"
+        },
+        "DWE": {
+            "direction": "IN"
+        },
+        "EOC": {
+            "direction": "OUT"
+        },
+        "EOS": {
+            "direction": "OUT"
+        },
+        "I2C_SCLK_IN": {
+            "direction": "IN"
+        },
+        "I2C_SCLK_TS": {
+            "direction": "OUT"
+        },
+        "I2C_SDA_IN": {
+            "direction": "IN"
+        },
+        "I2C_SDA_TS": {
+            "direction": "OUT"
+        },
+        "JTAG_BUSY": {
+            "direction": "OUT"
+        },
+        "JTAG_LOCKED": {
+            "direction": "OUT"
+        },
+        "JTAG_MODIFIED": {
+            "direction": "OUT"
+        },
+        "MUX_ADDR0": {
+            "direction": "OUT"
+        },
+        "MUX_ADDR1": {
+            "direction": "OUT"
+        },
+        "MUX_ADDR2": {
+            "direction": "OUT"
+        },
+        "MUX_ADDR3": {
+            "direction": "OUT"
+        },
+        "MUX_ADDR4": {
+            "direction": "OUT"
+        },
+        "OT": {
+            "direction": "OUT"
+        },
+        "RESET_USER": {
+            "direction": "IN"
+        },
+        "SMBALERT_TS": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_CLK0": {
+            "direction": "IN"
+        },
+        "TEST_ADC_CLK1": {
+            "direction": "IN"
+        },
+        "TEST_ADC_CLK2": {
+            "direction": "IN"
+        },
+        "TEST_ADC_CLK3": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN0": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN1": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_0": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_1": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_2": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_3": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_4": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_5": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_6": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_7": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_8": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_9": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_10": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_11": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_12": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_13": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_14": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_15": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_16": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_17": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_18": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_19": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_20": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_21": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_22": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_23": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_24": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_25": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_26": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_27": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_28": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_29": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_30": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN2_31": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN3": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN4": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN5": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN6": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN7": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN8": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN9": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN10": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN11": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN12": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN13": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN14": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN15": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN16": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN17": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN18": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN19": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN20": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN21": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN22": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN23": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN24": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN25": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN26": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN27": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN28": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN29": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN30": {
+            "direction": "IN"
+        },
+        "TEST_ADC_IN31": {
+            "direction": "IN"
+        },
+        "TEST_ADC_OUT0": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT1": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT2": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT3": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT4": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT5": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT6": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT7": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT8": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT9": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT10": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT11": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT12": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT13": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT14": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT15": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT16": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT17": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT18": {
+            "direction": "OUT"
+        },
+        "TEST_ADC_OUT19": {
+            "direction": "OUT"
+        },
+        "TEST_CAPTURE": {
+            "direction": "IN"
+        },
+        "TEST_DB0": {
+            "direction": "OUT"
+        },
+        "TEST_DB1": {
+            "direction": "OUT"
+        },
+        "TEST_DB2": {
+            "direction": "OUT"
+        },
+        "TEST_DB3": {
+            "direction": "OUT"
+        },
+        "TEST_DB4": {
+            "direction": "OUT"
+        },
+        "TEST_DB5": {
+            "direction": "OUT"
+        },
+        "TEST_DB6": {
+            "direction": "OUT"
+        },
+        "TEST_DB7": {
+            "direction": "OUT"
+        },
+        "TEST_DB8": {
+            "direction": "OUT"
+        },
+        "TEST_DB9": {
+            "direction": "OUT"
+        },
+        "TEST_DB10": {
+            "direction": "OUT"
+        },
+        "TEST_DB11": {
+            "direction": "OUT"
+        },
+        "TEST_DB12": {
+            "direction": "OUT"
+        },
+        "TEST_DB13": {
+            "direction": "OUT"
+        },
+        "TEST_DB14": {
+            "direction": "OUT"
+        },
+        "TEST_DB15": {
+            "direction": "OUT"
+        },
+        "TEST_DRCK": {
+            "direction": "IN"
+        },
+        "TEST_EN_JTAG": {
+            "direction": "IN"
+        },
+        "TEST_RST": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_CLK0": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_CLK1": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_CLK2": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_CLK3": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_CLK4": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_MODE0": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_MODE1": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_MODE2": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_MODE3": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_MODE4": {
+            "direction": "IN"
+        },
+        "TEST_SCAN_RESET": {
+            "direction": "IN"
+        },
+        "TEST_SE0": {
+            "direction": "IN"
+        },
+        "TEST_SE1": {
+            "direction": "IN"
+        },
+        "TEST_SE2": {
+            "direction": "IN"
+        },
+        "TEST_SE3": {
+            "direction": "IN"
+        },
+        "TEST_SE4": {
+            "direction": "IN"
+        },
+        "TEST_SEL": {
+            "direction": "IN"
+        },
+        "TEST_SHIFT": {
+            "direction": "IN"
+        },
+        "TEST_SI0": {
+            "direction": "IN"
+        },
+        "TEST_SI1": {
+            "direction": "IN"
+        },
+        "TEST_SI2": {
+            "direction": "IN"
+        },
+        "TEST_SI3": {
+            "direction": "IN"
+        },
+        "TEST_SI4": {
+            "direction": "IN"
+        },
+        "TEST_SI5": {
+            "direction": "IN"
+        },
+        "TEST_SI6": {
+            "direction": "IN"
+        },
+        "TEST_SI7": {
+            "direction": "IN"
+        },
+        "TEST_SI8": {
+            "direction": "IN"
+        },
+        "TEST_SI9": {
+            "direction": "IN"
+        },
+        "TEST_SO0": {
+            "direction": "OUT"
+        },
+        "TEST_SO1": {
+            "direction": "OUT"
+        },
+        "TEST_SO2": {
+            "direction": "OUT"
+        },
+        "TEST_SO3": {
+            "direction": "OUT"
+        },
+        "TEST_SO4": {
+            "direction": "OUT"
+        },
+        "TEST_SO5": {
+            "direction": "OUT"
+        },
+        "TEST_SO6": {
+            "direction": "OUT"
+        },
+        "TEST_SO7": {
+            "direction": "OUT"
+        },
+        "TEST_SO8": {
+            "direction": "OUT"
+        },
+        "TEST_SO9": {
+            "direction": "OUT"
+        },
+        "TEST_TDI": {
+            "direction": "IN"
+        },
+        "TEST_TDO": {
+            "direction": "OUT"
+        },
+        "TEST_UPDATE": {
+            "direction": "IN"
+        },
+        "VN_AUX0": {
+            "direction": "IN"
+        },
+        "VN_AUX1": {
+            "direction": "IN"
+        },
+        "VN_AUX2": {
+            "direction": "IN"
+        },
+        "VN_AUX3": {
+            "direction": "IN"
+        },
+        "VN_AUX4": {
+            "direction": "IN"
+        },
+        "VN_AUX5": {
+            "direction": "IN"
+        },
+        "VN_AUX6": {
+            "direction": "IN"
+        },
+        "VN_AUX7": {
+            "direction": "IN"
+        },
+        "VN_AUX8": {
+            "direction": "IN"
+        },
+        "VN_AUX9": {
+            "direction": "IN"
+        },
+        "VN_AUX10": {
+            "direction": "IN"
+        },
+        "VN_AUX11": {
+            "direction": "IN"
+        },
+        "VN_AUX12": {
+            "direction": "IN"
+        },
+        "VN_AUX13": {
+            "direction": "IN"
+        },
+        "VN_AUX14": {
+            "direction": "IN"
+        },
+        "VN_AUX15": {
+            "direction": "IN"
+        },
+        "VP_AUX0": {
+            "direction": "IN"
+        },
+        "VP_AUX1": {
+            "direction": "IN"
+        },
+        "VP_AUX2": {
+            "direction": "IN"
+        },
+        "VP_AUX3": {
+            "direction": "IN"
+        },
+        "VP_AUX4": {
+            "direction": "IN"
+        },
+        "VP_AUX5": {
+            "direction": "IN"
+        },
+        "VP_AUX6": {
+            "direction": "IN"
+        },
+        "VP_AUX7": {
+            "direction": "IN"
+        },
+        "VP_AUX8": {
+            "direction": "IN"
+        },
+        "VP_AUX9": {
+            "direction": "IN"
+        },
+        "VP_AUX10": {
+            "direction": "IN"
+        },
+        "VP_AUX11": {
+            "direction": "IN"
+        },
+        "VP_AUX12": {
+            "direction": "IN"
+        },
+        "VP_AUX13": {
+            "direction": "IN"
+        },
+        "VP_AUX14": {
+            "direction": "IN"
+        },
+        "VP_AUX15": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "OPTINV_CONVSTCLK:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLKOUT"
+        },
+        "OPTINV_DCLK:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLKOUT"
+        }
+    },
+    "type": "SYSMONE4"
+}

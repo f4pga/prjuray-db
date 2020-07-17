@@ -1,0 +1,51 @@
+{
+    "site_pins": {
+        "CTLE_IN_1": {
+            "direction": "IN"
+        },
+        "HSRX_DISABLE": {
+            "direction": "IN"
+        },
+        "LPRX_DISABLE": {
+            "direction": "IN"
+        },
+        "LPRX_O_N": {
+            "direction": "OUT"
+        },
+        "LPRX_O_P": {
+            "direction": "OUT"
+        },
+        "LVDS_COMP": {
+            "direction": "OUT"
+        },
+        "LVDS_TRUE": {
+            "direction": "OUT"
+        },
+        "OSC0": {
+            "direction": "IN"
+        },
+        "OSC1": {
+            "direction": "IN"
+        },
+        "OSC2": {
+            "direction": "IN"
+        },
+        "OSC3": {
+            "direction": "IN"
+        },
+        "OSC_EN": {
+            "direction": "IN"
+        },
+        "PAD_RES_0": {
+            "direction": "IN"
+        },
+        "PAD_RES_1": {
+            "direction": "IN"
+        },
+        "VREF": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {},
+    "type": "HPIOBDIFFINBUF"
+}

@@ -1,0 +1,1423 @@
+{
+    "site_pins": {
+        "A0": {
+            "direction": "IN"
+        },
+        "A1": {
+            "direction": "IN"
+        },
+        "A2": {
+            "direction": "IN"
+        },
+        "A3": {
+            "direction": "IN"
+        },
+        "A4": {
+            "direction": "IN"
+        },
+        "A5": {
+            "direction": "IN"
+        },
+        "A6": {
+            "direction": "IN"
+        },
+        "A7": {
+            "direction": "IN"
+        },
+        "A8": {
+            "direction": "IN"
+        },
+        "A9": {
+            "direction": "IN"
+        },
+        "A10": {
+            "direction": "IN"
+        },
+        "A11": {
+            "direction": "IN"
+        },
+        "A12": {
+            "direction": "IN"
+        },
+        "A13": {
+            "direction": "IN"
+        },
+        "A14": {
+            "direction": "IN"
+        },
+        "A15": {
+            "direction": "IN"
+        },
+        "A16": {
+            "direction": "IN"
+        },
+        "A17": {
+            "direction": "IN"
+        },
+        "A18": {
+            "direction": "IN"
+        },
+        "A19": {
+            "direction": "IN"
+        },
+        "A20": {
+            "direction": "IN"
+        },
+        "A21": {
+            "direction": "IN"
+        },
+        "A22": {
+            "direction": "IN"
+        },
+        "A23": {
+            "direction": "IN"
+        },
+        "A24": {
+            "direction": "IN"
+        },
+        "A25": {
+            "direction": "IN"
+        },
+        "A26": {
+            "direction": "IN"
+        },
+        "A27": {
+            "direction": "IN"
+        },
+        "A28": {
+            "direction": "IN"
+        },
+        "A29": {
+            "direction": "IN"
+        },
+        "ACIN_B0": {
+            "direction": "IN"
+        },
+        "ACIN_B1": {
+            "direction": "IN"
+        },
+        "ACIN_B2": {
+            "direction": "IN"
+        },
+        "ACIN_B3": {
+            "direction": "IN"
+        },
+        "ACIN_B4": {
+            "direction": "IN"
+        },
+        "ACIN_B5": {
+            "direction": "IN"
+        },
+        "ACIN_B6": {
+            "direction": "IN"
+        },
+        "ACIN_B7": {
+            "direction": "IN"
+        },
+        "ACIN_B8": {
+            "direction": "IN"
+        },
+        "ACIN_B9": {
+            "direction": "IN"
+        },
+        "ACIN_B10": {
+            "direction": "IN"
+        },
+        "ACIN_B11": {
+            "direction": "IN"
+        },
+        "ACIN_B12": {
+            "direction": "IN"
+        },
+        "ACIN_B13": {
+            "direction": "IN"
+        },
+        "ACIN_B14": {
+            "direction": "IN"
+        },
+        "ACIN_B15": {
+            "direction": "IN"
+        },
+        "ACIN_B16": {
+            "direction": "IN"
+        },
+        "ACIN_B17": {
+            "direction": "IN"
+        },
+        "ACIN_B18": {
+            "direction": "IN"
+        },
+        "ACIN_B19": {
+            "direction": "IN"
+        },
+        "ACIN_B20": {
+            "direction": "IN"
+        },
+        "ACIN_B21": {
+            "direction": "IN"
+        },
+        "ACIN_B22": {
+            "direction": "IN"
+        },
+        "ACIN_B23": {
+            "direction": "IN"
+        },
+        "ACIN_B24": {
+            "direction": "IN"
+        },
+        "ACIN_B25": {
+            "direction": "IN"
+        },
+        "ACIN_B26": {
+            "direction": "IN"
+        },
+        "ACIN_B27": {
+            "direction": "IN"
+        },
+        "ACIN_B28": {
+            "direction": "IN"
+        },
+        "ACIN_B29": {
+            "direction": "IN"
+        },
+        "ACOUT_B0": {
+            "direction": "OUT"
+        },
+        "ACOUT_B1": {
+            "direction": "OUT"
+        },
+        "ACOUT_B2": {
+            "direction": "OUT"
+        },
+        "ACOUT_B3": {
+            "direction": "OUT"
+        },
+        "ACOUT_B4": {
+            "direction": "OUT"
+        },
+        "ACOUT_B5": {
+            "direction": "OUT"
+        },
+        "ACOUT_B6": {
+            "direction": "OUT"
+        },
+        "ACOUT_B7": {
+            "direction": "OUT"
+        },
+        "ACOUT_B8": {
+            "direction": "OUT"
+        },
+        "ACOUT_B9": {
+            "direction": "OUT"
+        },
+        "ACOUT_B10": {
+            "direction": "OUT"
+        },
+        "ACOUT_B11": {
+            "direction": "OUT"
+        },
+        "ACOUT_B12": {
+            "direction": "OUT"
+        },
+        "ACOUT_B13": {
+            "direction": "OUT"
+        },
+        "ACOUT_B14": {
+            "direction": "OUT"
+        },
+        "ACOUT_B15": {
+            "direction": "OUT"
+        },
+        "ACOUT_B16": {
+            "direction": "OUT"
+        },
+        "ACOUT_B17": {
+            "direction": "OUT"
+        },
+        "ACOUT_B18": {
+            "direction": "OUT"
+        },
+        "ACOUT_B19": {
+            "direction": "OUT"
+        },
+        "ACOUT_B20": {
+            "direction": "OUT"
+        },
+        "ACOUT_B21": {
+            "direction": "OUT"
+        },
+        "ACOUT_B22": {
+            "direction": "OUT"
+        },
+        "ACOUT_B23": {
+            "direction": "OUT"
+        },
+        "ACOUT_B24": {
+            "direction": "OUT"
+        },
+        "ACOUT_B25": {
+            "direction": "OUT"
+        },
+        "ACOUT_B26": {
+            "direction": "OUT"
+        },
+        "ACOUT_B27": {
+            "direction": "OUT"
+        },
+        "ACOUT_B28": {
+            "direction": "OUT"
+        },
+        "ACOUT_B29": {
+            "direction": "OUT"
+        },
+        "ALUMODE0": {
+            "direction": "IN"
+        },
+        "ALUMODE1": {
+            "direction": "IN"
+        },
+        "ALUMODE2": {
+            "direction": "IN"
+        },
+        "ALUMODE3": {
+            "direction": "IN"
+        },
+        "B0": {
+            "direction": "IN"
+        },
+        "B1": {
+            "direction": "IN"
+        },
+        "B2": {
+            "direction": "IN"
+        },
+        "B3": {
+            "direction": "IN"
+        },
+        "B4": {
+            "direction": "IN"
+        },
+        "B5": {
+            "direction": "IN"
+        },
+        "B6": {
+            "direction": "IN"
+        },
+        "B7": {
+            "direction": "IN"
+        },
+        "B8": {
+            "direction": "IN"
+        },
+        "B9": {
+            "direction": "IN"
+        },
+        "B10": {
+            "direction": "IN"
+        },
+        "B11": {
+            "direction": "IN"
+        },
+        "B12": {
+            "direction": "IN"
+        },
+        "B13": {
+            "direction": "IN"
+        },
+        "B14": {
+            "direction": "IN"
+        },
+        "B15": {
+            "direction": "IN"
+        },
+        "B16": {
+            "direction": "IN"
+        },
+        "B17": {
+            "direction": "IN"
+        },
+        "BCIN_B0": {
+            "direction": "IN"
+        },
+        "BCIN_B1": {
+            "direction": "IN"
+        },
+        "BCIN_B2": {
+            "direction": "IN"
+        },
+        "BCIN_B3": {
+            "direction": "IN"
+        },
+        "BCIN_B4": {
+            "direction": "IN"
+        },
+        "BCIN_B5": {
+            "direction": "IN"
+        },
+        "BCIN_B6": {
+            "direction": "IN"
+        },
+        "BCIN_B7": {
+            "direction": "IN"
+        },
+        "BCIN_B8": {
+            "direction": "IN"
+        },
+        "BCIN_B9": {
+            "direction": "IN"
+        },
+        "BCIN_B10": {
+            "direction": "IN"
+        },
+        "BCIN_B11": {
+            "direction": "IN"
+        },
+        "BCIN_B12": {
+            "direction": "IN"
+        },
+        "BCIN_B13": {
+            "direction": "IN"
+        },
+        "BCIN_B14": {
+            "direction": "IN"
+        },
+        "BCIN_B15": {
+            "direction": "IN"
+        },
+        "BCIN_B16": {
+            "direction": "IN"
+        },
+        "BCIN_B17": {
+            "direction": "IN"
+        },
+        "BCOUT_B0": {
+            "direction": "OUT"
+        },
+        "BCOUT_B1": {
+            "direction": "OUT"
+        },
+        "BCOUT_B2": {
+            "direction": "OUT"
+        },
+        "BCOUT_B3": {
+            "direction": "OUT"
+        },
+        "BCOUT_B4": {
+            "direction": "OUT"
+        },
+        "BCOUT_B5": {
+            "direction": "OUT"
+        },
+        "BCOUT_B6": {
+            "direction": "OUT"
+        },
+        "BCOUT_B7": {
+            "direction": "OUT"
+        },
+        "BCOUT_B8": {
+            "direction": "OUT"
+        },
+        "BCOUT_B9": {
+            "direction": "OUT"
+        },
+        "BCOUT_B10": {
+            "direction": "OUT"
+        },
+        "BCOUT_B11": {
+            "direction": "OUT"
+        },
+        "BCOUT_B12": {
+            "direction": "OUT"
+        },
+        "BCOUT_B13": {
+            "direction": "OUT"
+        },
+        "BCOUT_B14": {
+            "direction": "OUT"
+        },
+        "BCOUT_B15": {
+            "direction": "OUT"
+        },
+        "BCOUT_B16": {
+            "direction": "OUT"
+        },
+        "BCOUT_B17": {
+            "direction": "OUT"
+        },
+        "C0": {
+            "direction": "IN"
+        },
+        "C1": {
+            "direction": "IN"
+        },
+        "C2": {
+            "direction": "IN"
+        },
+        "C3": {
+            "direction": "IN"
+        },
+        "C4": {
+            "direction": "IN"
+        },
+        "C5": {
+            "direction": "IN"
+        },
+        "C6": {
+            "direction": "IN"
+        },
+        "C7": {
+            "direction": "IN"
+        },
+        "C8": {
+            "direction": "IN"
+        },
+        "C9": {
+            "direction": "IN"
+        },
+        "C10": {
+            "direction": "IN"
+        },
+        "C11": {
+            "direction": "IN"
+        },
+        "C12": {
+            "direction": "IN"
+        },
+        "C13": {
+            "direction": "IN"
+        },
+        "C14": {
+            "direction": "IN"
+        },
+        "C15": {
+            "direction": "IN"
+        },
+        "C16": {
+            "direction": "IN"
+        },
+        "C17": {
+            "direction": "IN"
+        },
+        "C18": {
+            "direction": "IN"
+        },
+        "C19": {
+            "direction": "IN"
+        },
+        "C20": {
+            "direction": "IN"
+        },
+        "C21": {
+            "direction": "IN"
+        },
+        "C22": {
+            "direction": "IN"
+        },
+        "C23": {
+            "direction": "IN"
+        },
+        "C24": {
+            "direction": "IN"
+        },
+        "C25": {
+            "direction": "IN"
+        },
+        "C26": {
+            "direction": "IN"
+        },
+        "C27": {
+            "direction": "IN"
+        },
+        "C28": {
+            "direction": "IN"
+        },
+        "C29": {
+            "direction": "IN"
+        },
+        "C30": {
+            "direction": "IN"
+        },
+        "C31": {
+            "direction": "IN"
+        },
+        "C32": {
+            "direction": "IN"
+        },
+        "C33": {
+            "direction": "IN"
+        },
+        "C34": {
+            "direction": "IN"
+        },
+        "C35": {
+            "direction": "IN"
+        },
+        "C36": {
+            "direction": "IN"
+        },
+        "C37": {
+            "direction": "IN"
+        },
+        "C38": {
+            "direction": "IN"
+        },
+        "C39": {
+            "direction": "IN"
+        },
+        "C40": {
+            "direction": "IN"
+        },
+        "C41": {
+            "direction": "IN"
+        },
+        "C42": {
+            "direction": "IN"
+        },
+        "C43": {
+            "direction": "IN"
+        },
+        "C44": {
+            "direction": "IN"
+        },
+        "C45": {
+            "direction": "IN"
+        },
+        "C46": {
+            "direction": "IN"
+        },
+        "C47": {
+            "direction": "IN"
+        },
+        "CARRYCASCIN": {
+            "direction": "IN"
+        },
+        "CARRYCASCOUT": {
+            "direction": "OUT"
+        },
+        "CARRYIN": {
+            "direction": "IN"
+        },
+        "CARRYINSEL0": {
+            "direction": "IN"
+        },
+        "CARRYINSEL1": {
+            "direction": "IN"
+        },
+        "CARRYINSEL2": {
+            "direction": "IN"
+        },
+        "CARRYOUT0": {
+            "direction": "OUT"
+        },
+        "CARRYOUT1": {
+            "direction": "OUT"
+        },
+        "CARRYOUT2": {
+            "direction": "OUT"
+        },
+        "CARRYOUT3": {
+            "direction": "OUT"
+        },
+        "CEA1": {
+            "direction": "IN"
+        },
+        "CEA2": {
+            "direction": "IN"
+        },
+        "CEAD": {
+            "direction": "IN"
+        },
+        "CEALUMODE": {
+            "direction": "IN"
+        },
+        "CEB1": {
+            "direction": "IN"
+        },
+        "CEB2": {
+            "direction": "IN"
+        },
+        "CEC": {
+            "direction": "IN"
+        },
+        "CECARRYIN": {
+            "direction": "IN"
+        },
+        "CECTRL": {
+            "direction": "IN"
+        },
+        "CED": {
+            "direction": "IN"
+        },
+        "CEINMODE": {
+            "direction": "IN"
+        },
+        "CEM": {
+            "direction": "IN"
+        },
+        "CEP": {
+            "direction": "IN"
+        },
+        "CLK": {
+            "direction": "IN"
+        },
+        "DIN0": {
+            "direction": "IN"
+        },
+        "DIN1": {
+            "direction": "IN"
+        },
+        "DIN2": {
+            "direction": "IN"
+        },
+        "DIN3": {
+            "direction": "IN"
+        },
+        "DIN4": {
+            "direction": "IN"
+        },
+        "DIN5": {
+            "direction": "IN"
+        },
+        "DIN6": {
+            "direction": "IN"
+        },
+        "DIN7": {
+            "direction": "IN"
+        },
+        "DIN8": {
+            "direction": "IN"
+        },
+        "DIN9": {
+            "direction": "IN"
+        },
+        "DIN10": {
+            "direction": "IN"
+        },
+        "DIN11": {
+            "direction": "IN"
+        },
+        "DIN12": {
+            "direction": "IN"
+        },
+        "DIN13": {
+            "direction": "IN"
+        },
+        "DIN14": {
+            "direction": "IN"
+        },
+        "DIN15": {
+            "direction": "IN"
+        },
+        "DIN16": {
+            "direction": "IN"
+        },
+        "DIN17": {
+            "direction": "IN"
+        },
+        "DIN18": {
+            "direction": "IN"
+        },
+        "DIN19": {
+            "direction": "IN"
+        },
+        "DIN20": {
+            "direction": "IN"
+        },
+        "DIN21": {
+            "direction": "IN"
+        },
+        "DIN22": {
+            "direction": "IN"
+        },
+        "DIN23": {
+            "direction": "IN"
+        },
+        "DIN24": {
+            "direction": "IN"
+        },
+        "DIN25": {
+            "direction": "IN"
+        },
+        "DIN26": {
+            "direction": "IN"
+        },
+        "INMODE0": {
+            "direction": "IN"
+        },
+        "INMODE1": {
+            "direction": "IN"
+        },
+        "INMODE2": {
+            "direction": "IN"
+        },
+        "INMODE3": {
+            "direction": "IN"
+        },
+        "INMODE4": {
+            "direction": "IN"
+        },
+        "MSCAN_ENABLE": {
+            "direction": "IN"
+        },
+        "MSCAN_IN": {
+            "direction": "IN"
+        },
+        "MSCAN_OUT": {
+            "direction": "OUT"
+        },
+        "MULTSIGNIN": {
+            "direction": "IN"
+        },
+        "MULTSIGNOUT": {
+            "direction": "OUT"
+        },
+        "OPMODE0": {
+            "direction": "IN"
+        },
+        "OPMODE1": {
+            "direction": "IN"
+        },
+        "OPMODE2": {
+            "direction": "IN"
+        },
+        "OPMODE3": {
+            "direction": "IN"
+        },
+        "OPMODE4": {
+            "direction": "IN"
+        },
+        "OPMODE5": {
+            "direction": "IN"
+        },
+        "OPMODE6": {
+            "direction": "IN"
+        },
+        "OPMODE7": {
+            "direction": "IN"
+        },
+        "OPMODE8": {
+            "direction": "IN"
+        },
+        "OVERFLOW": {
+            "direction": "OUT"
+        },
+        "P0": {
+            "direction": "OUT"
+        },
+        "P1": {
+            "direction": "OUT"
+        },
+        "P2": {
+            "direction": "OUT"
+        },
+        "P3": {
+            "direction": "OUT"
+        },
+        "P4": {
+            "direction": "OUT"
+        },
+        "P5": {
+            "direction": "OUT"
+        },
+        "P6": {
+            "direction": "OUT"
+        },
+        "P7": {
+            "direction": "OUT"
+        },
+        "P8": {
+            "direction": "OUT"
+        },
+        "P9": {
+            "direction": "OUT"
+        },
+        "P10": {
+            "direction": "OUT"
+        },
+        "P11": {
+            "direction": "OUT"
+        },
+        "P12": {
+            "direction": "OUT"
+        },
+        "P13": {
+            "direction": "OUT"
+        },
+        "P14": {
+            "direction": "OUT"
+        },
+        "P15": {
+            "direction": "OUT"
+        },
+        "P16": {
+            "direction": "OUT"
+        },
+        "P17": {
+            "direction": "OUT"
+        },
+        "P18": {
+            "direction": "OUT"
+        },
+        "P19": {
+            "direction": "OUT"
+        },
+        "P20": {
+            "direction": "OUT"
+        },
+        "P21": {
+            "direction": "OUT"
+        },
+        "P22": {
+            "direction": "OUT"
+        },
+        "P23": {
+            "direction": "OUT"
+        },
+        "P24": {
+            "direction": "OUT"
+        },
+        "P25": {
+            "direction": "OUT"
+        },
+        "P26": {
+            "direction": "OUT"
+        },
+        "P27": {
+            "direction": "OUT"
+        },
+        "P28": {
+            "direction": "OUT"
+        },
+        "P29": {
+            "direction": "OUT"
+        },
+        "P30": {
+            "direction": "OUT"
+        },
+        "P31": {
+            "direction": "OUT"
+        },
+        "P32": {
+            "direction": "OUT"
+        },
+        "P33": {
+            "direction": "OUT"
+        },
+        "P34": {
+            "direction": "OUT"
+        },
+        "P35": {
+            "direction": "OUT"
+        },
+        "P36": {
+            "direction": "OUT"
+        },
+        "P37": {
+            "direction": "OUT"
+        },
+        "P38": {
+            "direction": "OUT"
+        },
+        "P39": {
+            "direction": "OUT"
+        },
+        "P40": {
+            "direction": "OUT"
+        },
+        "P41": {
+            "direction": "OUT"
+        },
+        "P42": {
+            "direction": "OUT"
+        },
+        "P43": {
+            "direction": "OUT"
+        },
+        "P44": {
+            "direction": "OUT"
+        },
+        "P45": {
+            "direction": "OUT"
+        },
+        "P46": {
+            "direction": "OUT"
+        },
+        "P47": {
+            "direction": "OUT"
+        },
+        "PATTERN_B_DETECT": {
+            "direction": "OUT"
+        },
+        "PATTERN_DETECT": {
+            "direction": "OUT"
+        },
+        "PCIN0": {
+            "direction": "IN"
+        },
+        "PCIN1": {
+            "direction": "IN"
+        },
+        "PCIN2": {
+            "direction": "IN"
+        },
+        "PCIN3": {
+            "direction": "IN"
+        },
+        "PCIN4": {
+            "direction": "IN"
+        },
+        "PCIN5": {
+            "direction": "IN"
+        },
+        "PCIN6": {
+            "direction": "IN"
+        },
+        "PCIN7": {
+            "direction": "IN"
+        },
+        "PCIN8": {
+            "direction": "IN"
+        },
+        "PCIN9": {
+            "direction": "IN"
+        },
+        "PCIN10": {
+            "direction": "IN"
+        },
+        "PCIN11": {
+            "direction": "IN"
+        },
+        "PCIN12": {
+            "direction": "IN"
+        },
+        "PCIN13": {
+            "direction": "IN"
+        },
+        "PCIN14": {
+            "direction": "IN"
+        },
+        "PCIN15": {
+            "direction": "IN"
+        },
+        "PCIN16": {
+            "direction": "IN"
+        },
+        "PCIN17": {
+            "direction": "IN"
+        },
+        "PCIN18": {
+            "direction": "IN"
+        },
+        "PCIN19": {
+            "direction": "IN"
+        },
+        "PCIN20": {
+            "direction": "IN"
+        },
+        "PCIN21": {
+            "direction": "IN"
+        },
+        "PCIN22": {
+            "direction": "IN"
+        },
+        "PCIN23": {
+            "direction": "IN"
+        },
+        "PCIN24": {
+            "direction": "IN"
+        },
+        "PCIN25": {
+            "direction": "IN"
+        },
+        "PCIN26": {
+            "direction": "IN"
+        },
+        "PCIN27": {
+            "direction": "IN"
+        },
+        "PCIN28": {
+            "direction": "IN"
+        },
+        "PCIN29": {
+            "direction": "IN"
+        },
+        "PCIN30": {
+            "direction": "IN"
+        },
+        "PCIN31": {
+            "direction": "IN"
+        },
+        "PCIN32": {
+            "direction": "IN"
+        },
+        "PCIN33": {
+            "direction": "IN"
+        },
+        "PCIN34": {
+            "direction": "IN"
+        },
+        "PCIN35": {
+            "direction": "IN"
+        },
+        "PCIN36": {
+            "direction": "IN"
+        },
+        "PCIN37": {
+            "direction": "IN"
+        },
+        "PCIN38": {
+            "direction": "IN"
+        },
+        "PCIN39": {
+            "direction": "IN"
+        },
+        "PCIN40": {
+            "direction": "IN"
+        },
+        "PCIN41": {
+            "direction": "IN"
+        },
+        "PCIN42": {
+            "direction": "IN"
+        },
+        "PCIN43": {
+            "direction": "IN"
+        },
+        "PCIN44": {
+            "direction": "IN"
+        },
+        "PCIN45": {
+            "direction": "IN"
+        },
+        "PCIN46": {
+            "direction": "IN"
+        },
+        "PCIN47": {
+            "direction": "IN"
+        },
+        "PCOUT0": {
+            "direction": "OUT"
+        },
+        "PCOUT1": {
+            "direction": "OUT"
+        },
+        "PCOUT2": {
+            "direction": "OUT"
+        },
+        "PCOUT3": {
+            "direction": "OUT"
+        },
+        "PCOUT4": {
+            "direction": "OUT"
+        },
+        "PCOUT5": {
+            "direction": "OUT"
+        },
+        "PCOUT6": {
+            "direction": "OUT"
+        },
+        "PCOUT7": {
+            "direction": "OUT"
+        },
+        "PCOUT8": {
+            "direction": "OUT"
+        },
+        "PCOUT9": {
+            "direction": "OUT"
+        },
+        "PCOUT10": {
+            "direction": "OUT"
+        },
+        "PCOUT11": {
+            "direction": "OUT"
+        },
+        "PCOUT12": {
+            "direction": "OUT"
+        },
+        "PCOUT13": {
+            "direction": "OUT"
+        },
+        "PCOUT14": {
+            "direction": "OUT"
+        },
+        "PCOUT15": {
+            "direction": "OUT"
+        },
+        "PCOUT16": {
+            "direction": "OUT"
+        },
+        "PCOUT17": {
+            "direction": "OUT"
+        },
+        "PCOUT18": {
+            "direction": "OUT"
+        },
+        "PCOUT19": {
+            "direction": "OUT"
+        },
+        "PCOUT20": {
+            "direction": "OUT"
+        },
+        "PCOUT21": {
+            "direction": "OUT"
+        },
+        "PCOUT22": {
+            "direction": "OUT"
+        },
+        "PCOUT23": {
+            "direction": "OUT"
+        },
+        "PCOUT24": {
+            "direction": "OUT"
+        },
+        "PCOUT25": {
+            "direction": "OUT"
+        },
+        "PCOUT26": {
+            "direction": "OUT"
+        },
+        "PCOUT27": {
+            "direction": "OUT"
+        },
+        "PCOUT28": {
+            "direction": "OUT"
+        },
+        "PCOUT29": {
+            "direction": "OUT"
+        },
+        "PCOUT30": {
+            "direction": "OUT"
+        },
+        "PCOUT31": {
+            "direction": "OUT"
+        },
+        "PCOUT32": {
+            "direction": "OUT"
+        },
+        "PCOUT33": {
+            "direction": "OUT"
+        },
+        "PCOUT34": {
+            "direction": "OUT"
+        },
+        "PCOUT35": {
+            "direction": "OUT"
+        },
+        "PCOUT36": {
+            "direction": "OUT"
+        },
+        "PCOUT37": {
+            "direction": "OUT"
+        },
+        "PCOUT38": {
+            "direction": "OUT"
+        },
+        "PCOUT39": {
+            "direction": "OUT"
+        },
+        "PCOUT40": {
+            "direction": "OUT"
+        },
+        "PCOUT41": {
+            "direction": "OUT"
+        },
+        "PCOUT42": {
+            "direction": "OUT"
+        },
+        "PCOUT43": {
+            "direction": "OUT"
+        },
+        "PCOUT44": {
+            "direction": "OUT"
+        },
+        "PCOUT45": {
+            "direction": "OUT"
+        },
+        "PCOUT46": {
+            "direction": "OUT"
+        },
+        "PCOUT47": {
+            "direction": "OUT"
+        },
+        "RSTA": {
+            "direction": "IN"
+        },
+        "RSTALLCARRYIN": {
+            "direction": "IN"
+        },
+        "RSTALUMODE": {
+            "direction": "IN"
+        },
+        "RSTB": {
+            "direction": "IN"
+        },
+        "RSTC": {
+            "direction": "IN"
+        },
+        "RSTCTRL": {
+            "direction": "IN"
+        },
+        "RSTD": {
+            "direction": "IN"
+        },
+        "RSTINMODE": {
+            "direction": "IN"
+        },
+        "RSTM": {
+            "direction": "IN"
+        },
+        "RSTP": {
+            "direction": "IN"
+        },
+        "UNDERFLOW": {
+            "direction": "OUT"
+        },
+        "XOROUT0": {
+            "direction": "OUT"
+        },
+        "XOROUT1": {
+            "direction": "OUT"
+        },
+        "XOROUT2": {
+            "direction": "OUT"
+        },
+        "XOROUT3": {
+            "direction": "OUT"
+        },
+        "XOROUT4": {
+            "direction": "OUT"
+        },
+        "XOROUT5": {
+            "direction": "OUT"
+        },
+        "XOROUT6": {
+            "direction": "OUT"
+        },
+        "XOROUT7": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "ALUMODE0INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "ALUMODE1INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "ALUMODE2INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "ALUMODE3INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "CARRYININV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "CLKINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "INMODE0INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "INMODE1INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "INMODE2INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "INMODE3INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "INMODE4INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE0INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE1INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE2INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE3INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE4INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE5INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE6INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE7INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "OPMODE8INV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTAINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTALLCARRYININV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTALUMODEINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTBINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTCINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTCTRLINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTDINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTINMODEINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTMINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        },
+        "RSTPINV:D": {
+            "from_pin": "D",
+            "to_pin": "O"
+        }
+    },
+    "type": "DSP48E2"
+}

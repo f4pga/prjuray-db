@@ -37,20 +37,24 @@ These files are released under the very permissive [CC0 1.0 Universal](COPYING).
 
 # Details
 
-Last updated on Wed Jul 15 11:07:23 UTC 2020 (2020-07-15T11:07:23+00:00).
+Last updated on Fri Jul 17 01:49:50 UTC 2020 (2020-07-17T01:49:50+00:00).
 
-Created using [Project U-Ray](https://github.com/SymbiFlow/prjuray) version [3e1273d](https://github.com/SymbiFlow/prjuray/commit/3e1273dde703726a1bdb7c439df6f257b3e04aca).
+Created using [Project U-Ray](https://github.com/SymbiFlow/prjuray) version [3f57362](https://github.com/SymbiFlow/prjuray/commit/3f5736237309e0670b4351f39fad8b4bd9cb6dd0).
 
 Latest commit was;
 ```
-commit 3e1273dde703726a1bdb7c439df6f257b3e04aca
-Merge: 7bdefb4 20066cc
-Author: Tomasz Michalak <tmichalak@antmicro.com>
-Date:   Wed Jul 15 09:09:15 2020 +0200
+commit 3f5736237309e0670b4351f39fad8b4bd9cb6dd0
+Author: Tim 'mithro' Ansell <me@mith.ro>
+Date:   Tue Jan 7 10:18:37 2020 -0700
 
-    Merge pull request #106 from antmicro/tilegrid_frames_auto
+    Initial Project U-Ray code.
     
-    Tilegrid: Derive number of frames in tile automatically
+    Signed-off-by: Tomasz Michalak <tmichalak@antmicro.com>
+    Signed-off-by: Piotr Binkowski <pbinkowski@antmicro.com>
+    Signed-off-by: Alessandro Comodi <acomodi@antmicro.com>
+    Signed-off-by: Keith Rothman <537074+litghost@users.noreply.github.com>
+    Signed-off-by: Maciej Kurc <mkurc@antmicro.com>
+    Signed-off-by: Tim 'mithro' Ansell <tansell@google.com>
 ```
 
 
@@ -59,7 +63,7 @@ Date:   Wed Jul 15 09:09:15 2020 +0200
 
 ### Settings
 
-Created using following [settings/zynqusp.sh (sha256: 2d664c78b8cd565ce92615ea02ec0cfd0e7e115f918f4347b3d684204c622ac2)](https://github.com/SymbiFlow/prjuray/blob/3e1273dde703726a1bdb7c439df6f257b3e04aca/settings/zynqusp.sh)
+Created using following [settings/zynqusp.sh (sha256: 2d664c78b8cd565ce92615ea02ec0cfd0e7e115f918f4347b3d684204c622ac2)](https://github.com/SymbiFlow/prjuray/blob/3f5736237309e0670b4351f39fad8b4bd9cb6dd0/settings/zynqusp.sh)
 ```shell
 #!/bin/bash
 #
@@ -92,12 +96,12 @@ Results have checksums;
  * [`67e28edbc89b154d755a8b7d4f43758d8dd494189a9ce8efbebb0113fdbb1c37  ./zynqusp/segbits_clem_r.origin_info.db`](./zynqusp/segbits_clem_r.origin_info.db)
  * [`01d806d0f55ba62ed2af2deafa5c2160f00477bc76ff7df2a5c69cac40ca4459  ./zynqusp/segbits_cmt_right.db`](./zynqusp/segbits_cmt_right.db)
  * [`f0eb87f07a05fe69addc5ba51e2715d1b967f13a6446a6e7f0be4a909285bdb8  ./zynqusp/segbits_cmt_right.origin_info.db`](./zynqusp/segbits_cmt_right.origin_info.db)
- * [`8790344f90138a179bfccd16552cb04d19c5ffbd46fd296a8ac4e28caeab7d7c  ./zynqusp/segbits_hdio_bot_right.db`](./zynqusp/segbits_hdio_bot_right.db)
- * [`e21211bead9ece1343548cd13cc71521545c24b35bfe0a76137b8379739f9304  ./zynqusp/segbits_hdio_bot_right.origin_info.db`](./zynqusp/segbits_hdio_bot_right.origin_info.db)
- * [`3c683b195d01594897ced216739bbc081d8e967a013211dde920daff4d6fd97d  ./zynqusp/segbits_hdio_top_right.db`](./zynqusp/segbits_hdio_top_right.db)
- * [`c1e7264513fbfe2a6b48e23c8d5248afaff98bc0e676714eab018de541bcb4a2  ./zynqusp/segbits_hdio_top_right.origin_info.db`](./zynqusp/segbits_hdio_top_right.origin_info.db)
- * [`6050b011aa6f21e04fed4d554012b179df7165655551ad062204d96106af2042  ./zynqusp/segbits_hpio_right.db`](./zynqusp/segbits_hpio_right.db)
- * [`8d62d342d240bfc892ea13479df8ce80a4553ae09a80faea75ad68c768b873e6  ./zynqusp/segbits_hpio_right.origin_info.db`](./zynqusp/segbits_hpio_right.origin_info.db)
+ * [`04ee8cc79eaa8a8aa70a5ddf40a93035343965aa722f07489574a5caa400f8fd  ./zynqusp/segbits_hdio_bot_right.db`](./zynqusp/segbits_hdio_bot_right.db)
+ * [`b68ab78b6a693f3dd0a94e1dc2e9cea30cb3209bf583b91d78471f10e6cedc9e  ./zynqusp/segbits_hdio_bot_right.origin_info.db`](./zynqusp/segbits_hdio_bot_right.origin_info.db)
+ * [`fa3acb03cf60ee22ef745d371d640944ef9a59631a5af14ee1e9b4a099e1d933  ./zynqusp/segbits_hdio_top_right.db`](./zynqusp/segbits_hdio_top_right.db)
+ * [`924956c4b4e3c6a36bf53fa066e602efa98d366d4748f408a9470d0a49bbf769  ./zynqusp/segbits_hdio_top_right.origin_info.db`](./zynqusp/segbits_hdio_top_right.origin_info.db)
+ * [`86f791f535914621301cfb7b8641ce5077a60fb7384c7eb73bf27941e3f38de1  ./zynqusp/segbits_hpio_right.db`](./zynqusp/segbits_hpio_right.db)
+ * [`059e5ee0aac1ccaffea6617ae67ab8d72090172a2b8d495efef63899dc5c62cc  ./zynqusp/segbits_hpio_right.origin_info.db`](./zynqusp/segbits_hpio_right.origin_info.db)
  * [`f53f8d60b18d4f0d5902decd09aa11b4c2f4f32affe4561cc018f2c2fac0143f  ./zynqusp/segbits_int.db`](./zynqusp/segbits_int.db)
  * [`dfd5fd737f9a6afb092a5ec4bebc8012cc6a3310137164a8b02044a5eed39179  ./zynqusp/segbits_int.origin_info.db`](./zynqusp/segbits_int.origin_info.db)
  * [`612f1f1aa05aeecffb6181079bb41cc2c9e451a719ef75aa649acb3c2d24f2dd  ./zynqusp/segbits_int_intf_left_term_pss.db`](./zynqusp/segbits_int_intf_left_term_pss.db)
@@ -132,8 +136,8 @@ Results have checksums;
  * [`394972d5a3dea429c2b654912d9f27d874f070e2bc63f7bdfbd7acb227d7a3dd  ./zynqusp/segbits_rclk_intf_left_term_alto.origin_info.db`](./zynqusp/segbits_rclk_intf_left_term_alto.origin_info.db)
  * [`ee9156d2939e5e1a0b21defa58b8e53520738d19de26f0a82489a4a0c4b5432d  ./zynqusp/segbits_rclk_xiphy_outer_right.db`](./zynqusp/segbits_rclk_xiphy_outer_right.db)
  * [`5e17e3b76d1c9fd6a25a8a062051c396fe7867a46d697ab919479dcc145188b4  ./zynqusp/segbits_rclk_xiphy_outer_right.origin_info.db`](./zynqusp/segbits_rclk_xiphy_outer_right.origin_info.db)
- * [`00c768740b45d4b18832c5c4c68c591de54c05c6117673f5890345c6bb22cad1  ./zynqusp/segbits_xiphy_byte_right.db`](./zynqusp/segbits_xiphy_byte_right.db)
- * [`63d0665a7a3e1346a7d4cc8661d477aba6a8664935289f6438a78dbbc2b65720  ./zynqusp/segbits_xiphy_byte_right.origin_info.db`](./zynqusp/segbits_xiphy_byte_right.origin_info.db)
+ * [`e95cd8323f08248fec263686005ade0bcd7c846b2f37abe2c3c718f60bcff041  ./zynqusp/segbits_xiphy_byte_right.db`](./zynqusp/segbits_xiphy_byte_right.db)
+ * [`0a2e51718306d8871a3d882458c41ef243d0b96c6143354c328a0ce5246996bc  ./zynqusp/segbits_xiphy_byte_right.origin_info.db`](./zynqusp/segbits_xiphy_byte_right.origin_info.db)
  * [`9790b6d0f981ad2ada9eede51aaac4d2cb8f2452556ad7c4272ea00c0b990863  ./zynqusp/site_types/site_type_BIAS.json`](./zynqusp/site_types/site_type_BIAS.json)
  * [`ed4e4a673acf63f067253efd64499e11449f535d8077aeea46a5acd71d6e2143  ./zynqusp/site_types/site_type_BITSLICE_CONTROL.json`](./zynqusp/site_types/site_type_BITSLICE_CONTROL.json)
  * [`43936af17425f2b3ddc11164ef31dd9f91373da1e992edd2ac9f550d674b17a9  ./zynqusp/site_types/site_type_BITSLICE_RX_TX.json`](./zynqusp/site_types/site_type_BITSLICE_RX_TX.json)
@@ -337,13 +341,12 @@ Results have checksums;
  * [`66e7353e3eb35b8deaf6fb77d1f2fcc767355120090c168afe0f602fca59af10  ./zynqusp/timings/RAMBFIFO36.sdf`](./zynqusp/timings/RAMBFIFO36.sdf)
  * [`6dd2b50ef212c7496607df7bcd58f5d42ea1fbcb39b44fba3326f1d3209372aa  ./zynqusp/timings/SLICEL.sdf`](./zynqusp/timings/SLICEL.sdf)
  * [`9b48d390bed0e71dc1a067a99b49c70d4c5ef99ab260e9b827b63c8b38119501  ./zynqusp/timings/SLICEM.sdf`](./zynqusp/timings/SLICEM.sdf)
- * [`a50c6be62a51c0133e2a46add59534eeb596b58fb9e9a2cb1f8827cf8966c4bf  ./zynqusp/xczu3eg-sbva484-1-e/package_pins.csv`](./zynqusp/xczu3eg-sbva484-1-e/package_pins.csv)
  * [`edde4eee712ea316720897419ddf55a4323060af5d60122898bea8ce049270b8  ./zynqusp/xczu3eg-sbva484-1-e/part.json`](./zynqusp/xczu3eg-sbva484-1-e/part.json)
  * [`caf6cabed06ec63335ce4b403d0cd1ba840cfd2b3689102df44f4b09fb3853ef  ./zynqusp/xczu3eg-sbva484-1-e/part.yaml`](./zynqusp/xczu3eg-sbva484-1-e/part.yaml)
  * [`d9ba779ca3c3486f598c69fc6dd06ca1aac96e15b8da24eec3c82aca76e499ea  ./zynqusp/xczu3eg-sbva484-1-e/tileconn.json`](./zynqusp/xczu3eg-sbva484-1-e/tileconn.json)
- * [`3e578be7651cfa8f0d67af89603fd5cd886c8b2fc5c6f484dde1078ec7da74eb  ./zynqusp/xczu3eg-sbva484-1-e/tilegrid.json`](./zynqusp/xczu3eg-sbva484-1-e/tilegrid.json)
+ * [`c1857e6513fd1a446bdf2a83478476f0dba9648e2f7c8d866c3a83b2e6a960d7  ./zynqusp/xczu3eg-sbva484-1-e/tilegrid.json`](./zynqusp/xczu3eg-sbva484-1-e/tilegrid.json)
  * [`00820e2622b99caef63ee869cb8958d47f1d74f9519a4561390c8bb765ca3c7c  ./zynqusp/xczu3eg-sfvc784-1-e/package_pins.csv`](./zynqusp/xczu3eg-sfvc784-1-e/package_pins.csv)
  * [`edde4eee712ea316720897419ddf55a4323060af5d60122898bea8ce049270b8  ./zynqusp/xczu3eg-sfvc784-1-e/part.json`](./zynqusp/xczu3eg-sfvc784-1-e/part.json)
  * [`caf6cabed06ec63335ce4b403d0cd1ba840cfd2b3689102df44f4b09fb3853ef  ./zynqusp/xczu3eg-sfvc784-1-e/part.yaml`](./zynqusp/xczu3eg-sfvc784-1-e/part.yaml)
  * [`d9ba779ca3c3486f598c69fc6dd06ca1aac96e15b8da24eec3c82aca76e499ea  ./zynqusp/xczu3eg-sfvc784-1-e/tileconn.json`](./zynqusp/xczu3eg-sfvc784-1-e/tileconn.json)
- * [`3e578be7651cfa8f0d67af89603fd5cd886c8b2fc5c6f484dde1078ec7da74eb  ./zynqusp/xczu3eg-sfvc784-1-e/tilegrid.json`](./zynqusp/xczu3eg-sfvc784-1-e/tilegrid.json)
+ * [`c1857e6513fd1a446bdf2a83478476f0dba9648e2f7c8d866c3a83b2e6a960d7  ./zynqusp/xczu3eg-sfvc784-1-e/tilegrid.json`](./zynqusp/xczu3eg-sfvc784-1-e/tilegrid.json)

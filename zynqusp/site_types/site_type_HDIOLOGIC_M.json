@@ -1,0 +1,57 @@
+{
+    "site_pins": {
+        "IPFFM_BYPASS": {
+            "direction": "OUT"
+        },
+        "IPFFM_CE": {
+            "direction": "IN"
+        },
+        "IPFFM_CK": {
+            "direction": "IN"
+        },
+        "IPFFM_CK_C": {
+            "direction": "IN"
+        },
+        "IPFFM_D": {
+            "direction": "IN"
+        },
+        "IPFFM_Q1": {
+            "direction": "OUT"
+        },
+        "IPFFM_Q2": {
+            "direction": "OUT"
+        },
+        "IPFFM_RST": {
+            "direction": "IN"
+        },
+        "OPFFM_CE": {
+            "direction": "IN"
+        },
+        "OPFFM_CK": {
+            "direction": "IN"
+        },
+        "OPFFM_D1": {
+            "direction": "IN"
+        },
+        "OPFFM_D2": {
+            "direction": "IN"
+        },
+        "OPFFM_Q": {
+            "direction": "OUT"
+        },
+        "OPFFM_RST": {
+            "direction": "IN"
+        },
+        "TFFM_D1": {
+            "direction": "IN"
+        },
+        "TFFM_D2": {
+            "direction": "IN"
+        },
+        "TFFM_Q": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "HDIOLOGIC_M"
+}

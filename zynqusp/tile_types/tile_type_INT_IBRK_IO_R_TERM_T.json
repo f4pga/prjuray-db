@@ -1,0 +1,10 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "INT_IBRK_IO_R_TERM_T",
+    "wires": {
+        "CLOCK_DR_FT0": null,
+        "RESET_TAP_B_FT0": null,
+        "SHIFT_DR_FT0": null
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "XIPHY_RIGHT_TERM_T_FT",
+    "wires": {
+        "CLK_FROM_EXT_LOW_SOUTH": null,
+        "CLK_FROM_EXT_UPP_SOUTH": null,
+        "CLOCK_DR_FT0": null,
+        "GCLK_FT1_0": null,
+        "GCLK_FT1_1": null,
+        "GCLK_FT1_2": null,
+        "GCLK_FT1_3": null,
+        "GCLK_FT1_4": null,
+        "GCLK_FT1_5": null,
+        "GND_WIRE0": null,
+        "GND_WIRE1": null,
+        "PLL0_CLK_O_FT1": null,
+        "PLL1_CLK_O_FT1": null,
+        "RCLK2PHY_CLKDR_FT0": null,
+        "RCLK2PHY_SHIFTDR_FT0": null,
+        "RESET_TAP_B_FT0": null,
+        "SHIFT_DR_FT0": null
+    }
+}

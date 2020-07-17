@@ -1,0 +1,24 @@
+{
+    "site_pins": {
+        "CE_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "CLK_IN": {
+            "direction": "IN"
+        },
+        "CLK_OUT": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "CEINV:CE_PREINV": {
+            "from_pin": "CE_PREINV",
+            "to_pin": "CE"
+        },
+        "IINV:I_PREINV": {
+            "from_pin": "I_PREINV",
+            "to_pin": "I"
+        }
+    },
+    "type": "BUFGCE"
+}

@@ -1,0 +1,30 @@
+{
+    "site_pins": {
+        "AOUT": {
+            "direction": "OUT"
+        },
+        "BOUT": {
+            "direction": "OUT"
+        },
+        "LPTX_I_N": {
+            "direction": "IN"
+        },
+        "LPTX_I_P": {
+            "direction": "IN"
+        },
+        "LPTX_T": {
+            "direction": "IN"
+        },
+        "O_B": {
+            "direction": "IN"
+        },
+        "TERM_EN": {
+            "direction": "IN"
+        },
+        "TSTATEB": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {},
+    "type": "HPIOBDIFFOUTBUF"
+}

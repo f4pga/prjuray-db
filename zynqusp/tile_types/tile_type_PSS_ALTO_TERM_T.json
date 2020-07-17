@@ -1,0 +1,12 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "PSS_ALTO_TERM_T",
+    "wires": {
+        "CLOCK_DR_R": null,
+        "GND_WIRE0": null,
+        "GND_WIRE1": null,
+        "RESET_TAP_B_R": null,
+        "SHIFT_DR_R": null
+    }
+}

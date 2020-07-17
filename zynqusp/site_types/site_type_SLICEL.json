@@ -1,0 +1,1077 @@
+{
+    "site_pins": {
+        "A1": {
+            "direction": "IN"
+        },
+        "A2": {
+            "direction": "IN"
+        },
+        "A3": {
+            "direction": "IN"
+        },
+        "A4": {
+            "direction": "IN"
+        },
+        "A5": {
+            "direction": "IN"
+        },
+        "A6": {
+            "direction": "IN"
+        },
+        "AMUX": {
+            "direction": "OUT"
+        },
+        "AQ": {
+            "direction": "OUT"
+        },
+        "AQ2": {
+            "direction": "OUT"
+        },
+        "AX": {
+            "direction": "IN"
+        },
+        "A_I": {
+            "direction": "IN"
+        },
+        "A_O": {
+            "direction": "OUT"
+        },
+        "B1": {
+            "direction": "IN"
+        },
+        "B2": {
+            "direction": "IN"
+        },
+        "B3": {
+            "direction": "IN"
+        },
+        "B4": {
+            "direction": "IN"
+        },
+        "B5": {
+            "direction": "IN"
+        },
+        "B6": {
+            "direction": "IN"
+        },
+        "BMUX": {
+            "direction": "OUT"
+        },
+        "BQ": {
+            "direction": "OUT"
+        },
+        "BQ2": {
+            "direction": "OUT"
+        },
+        "BX": {
+            "direction": "IN"
+        },
+        "B_I": {
+            "direction": "IN"
+        },
+        "B_O": {
+            "direction": "OUT"
+        },
+        "C1": {
+            "direction": "IN"
+        },
+        "C2": {
+            "direction": "IN"
+        },
+        "C3": {
+            "direction": "IN"
+        },
+        "C4": {
+            "direction": "IN"
+        },
+        "C5": {
+            "direction": "IN"
+        },
+        "C6": {
+            "direction": "IN"
+        },
+        "CIN": {
+            "direction": "IN"
+        },
+        "CKEN1": {
+            "direction": "IN"
+        },
+        "CKEN2": {
+            "direction": "IN"
+        },
+        "CKEN3": {
+            "direction": "IN"
+        },
+        "CKEN4": {
+            "direction": "IN"
+        },
+        "CLK1": {
+            "direction": "IN"
+        },
+        "CLK2": {
+            "direction": "IN"
+        },
+        "CMUX": {
+            "direction": "OUT"
+        },
+        "COUT": {
+            "direction": "OUT"
+        },
+        "CQ": {
+            "direction": "OUT"
+        },
+        "CQ2": {
+            "direction": "OUT"
+        },
+        "CX": {
+            "direction": "IN"
+        },
+        "C_I": {
+            "direction": "IN"
+        },
+        "C_O": {
+            "direction": "OUT"
+        },
+        "D1": {
+            "direction": "IN"
+        },
+        "D2": {
+            "direction": "IN"
+        },
+        "D3": {
+            "direction": "IN"
+        },
+        "D4": {
+            "direction": "IN"
+        },
+        "D5": {
+            "direction": "IN"
+        },
+        "D6": {
+            "direction": "IN"
+        },
+        "DMUX": {
+            "direction": "OUT"
+        },
+        "DQ": {
+            "direction": "OUT"
+        },
+        "DQ2": {
+            "direction": "OUT"
+        },
+        "DX": {
+            "direction": "IN"
+        },
+        "D_I": {
+            "direction": "IN"
+        },
+        "D_O": {
+            "direction": "OUT"
+        },
+        "E1": {
+            "direction": "IN"
+        },
+        "E2": {
+            "direction": "IN"
+        },
+        "E3": {
+            "direction": "IN"
+        },
+        "E4": {
+            "direction": "IN"
+        },
+        "E5": {
+            "direction": "IN"
+        },
+        "E6": {
+            "direction": "IN"
+        },
+        "EMUX": {
+            "direction": "OUT"
+        },
+        "EQ": {
+            "direction": "OUT"
+        },
+        "EQ2": {
+            "direction": "OUT"
+        },
+        "EX": {
+            "direction": "IN"
+        },
+        "E_I": {
+            "direction": "IN"
+        },
+        "E_O": {
+            "direction": "OUT"
+        },
+        "F1": {
+            "direction": "IN"
+        },
+        "F2": {
+            "direction": "IN"
+        },
+        "F3": {
+            "direction": "IN"
+        },
+        "F4": {
+            "direction": "IN"
+        },
+        "F5": {
+            "direction": "IN"
+        },
+        "F6": {
+            "direction": "IN"
+        },
+        "FMUX": {
+            "direction": "OUT"
+        },
+        "FQ": {
+            "direction": "OUT"
+        },
+        "FQ2": {
+            "direction": "OUT"
+        },
+        "FX": {
+            "direction": "IN"
+        },
+        "F_I": {
+            "direction": "IN"
+        },
+        "F_O": {
+            "direction": "OUT"
+        },
+        "G1": {
+            "direction": "IN"
+        },
+        "G2": {
+            "direction": "IN"
+        },
+        "G3": {
+            "direction": "IN"
+        },
+        "G4": {
+            "direction": "IN"
+        },
+        "G5": {
+            "direction": "IN"
+        },
+        "G6": {
+            "direction": "IN"
+        },
+        "GMUX": {
+            "direction": "OUT"
+        },
+        "GQ": {
+            "direction": "OUT"
+        },
+        "GQ2": {
+            "direction": "OUT"
+        },
+        "GX": {
+            "direction": "IN"
+        },
+        "G_I": {
+            "direction": "IN"
+        },
+        "G_O": {
+            "direction": "OUT"
+        },
+        "H1": {
+            "direction": "IN"
+        },
+        "H2": {
+            "direction": "IN"
+        },
+        "H3": {
+            "direction": "IN"
+        },
+        "H4": {
+            "direction": "IN"
+        },
+        "H5": {
+            "direction": "IN"
+        },
+        "H6": {
+            "direction": "IN"
+        },
+        "HMUX": {
+            "direction": "OUT"
+        },
+        "HQ": {
+            "direction": "OUT"
+        },
+        "HQ2": {
+            "direction": "OUT"
+        },
+        "HX": {
+            "direction": "IN"
+        },
+        "H_I": {
+            "direction": "IN"
+        },
+        "H_O": {
+            "direction": "OUT"
+        },
+        "SRST1": {
+            "direction": "IN"
+        },
+        "SRST2": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "A6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "A6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "A6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "A6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "A6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "A6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "B6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "B6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "B6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "B6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "B6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "B6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "C6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "C6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "C6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "C6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "C6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "C6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "CLK1INV:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "OUT"
+        },
+        "CLK2INV:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "OUT"
+        },
+        "D6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "D6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "D6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "D6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "D6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "D6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "E6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "E6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "E6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "E6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "E6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "E6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "F6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "F6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "F6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "F6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "F6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "F6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "FFMUXA1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXA2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXA2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXA2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXA2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXA2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXA2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXB2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXB2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXC2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXC2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXD2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXD2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXE2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXE2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXF2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXF2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXG2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXG2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH1:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH1:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH1:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH1:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH1:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH1:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT1"
+        },
+        "FFMUXH2:BYP": {
+            "from_pin": "BYP",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH2:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH2:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH2:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH2:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT2"
+        },
+        "FFMUXH2:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT2"
+        },
+        "G6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "G6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "G6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "G6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "G6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "G6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "H6LUT:A1": {
+            "from_pin": "A1",
+            "to_pin": "O6"
+        },
+        "H6LUT:A2": {
+            "from_pin": "A2",
+            "to_pin": "O6"
+        },
+        "H6LUT:A3": {
+            "from_pin": "A3",
+            "to_pin": "O6"
+        },
+        "H6LUT:A4": {
+            "from_pin": "A4",
+            "to_pin": "O6"
+        },
+        "H6LUT:A5": {
+            "from_pin": "A5",
+            "to_pin": "O6"
+        },
+        "H6LUT:A6": {
+            "from_pin": "A6",
+            "to_pin": "O6"
+        },
+        "OUTMUXA:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXA:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXA:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXA:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXA:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXB:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXB:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXB:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXB:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXB:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXC:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXC:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXC:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXC:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXC:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXD:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXD:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXD:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXD:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXD:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXE:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXE:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXE:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXE:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXE:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXF:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXF:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXF:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXF:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXF:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXG:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXG:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXG:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXG:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXG:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "OUTMUXH:CY": {
+            "from_pin": "CY",
+            "to_pin": "OUT"
+        },
+        "OUTMUXH:D5": {
+            "from_pin": "D5",
+            "to_pin": "OUT"
+        },
+        "OUTMUXH:D6": {
+            "from_pin": "D6",
+            "to_pin": "OUT"
+        },
+        "OUTMUXH:F7F8": {
+            "from_pin": "F7F8",
+            "to_pin": "OUT"
+        },
+        "OUTMUXH:XORIN": {
+            "from_pin": "XORIN",
+            "to_pin": "OUT"
+        },
+        "RST_ABCDINV:RST": {
+            "from_pin": "RST",
+            "to_pin": "OUT"
+        },
+        "RST_EFGHINV:RST": {
+            "from_pin": "RST",
+            "to_pin": "OUT"
+        }
+    },
+    "type": "SLICEL"
+}

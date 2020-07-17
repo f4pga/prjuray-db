@@ -1,0 +1,350 @@
+{
+    "site_pins": {
+        "CLKFBIN": {
+            "direction": "IN"
+        },
+        "CLKFBOUT": {
+            "direction": "OUT"
+        },
+        "CLKIN": {
+            "direction": "IN"
+        },
+        "CLKOUT0": {
+            "direction": "OUT"
+        },
+        "CLKOUT0B": {
+            "direction": "OUT"
+        },
+        "CLKOUT1": {
+            "direction": "OUT"
+        },
+        "CLKOUT1B": {
+            "direction": "OUT"
+        },
+        "CLKOUTPHY_EN": {
+            "direction": "IN"
+        },
+        "CLKOUTPHY_P": {
+            "direction": "OUT"
+        },
+        "DADDR0": {
+            "direction": "IN"
+        },
+        "DADDR1": {
+            "direction": "IN"
+        },
+        "DADDR2": {
+            "direction": "IN"
+        },
+        "DADDR3": {
+            "direction": "IN"
+        },
+        "DADDR4": {
+            "direction": "IN"
+        },
+        "DADDR5": {
+            "direction": "IN"
+        },
+        "DADDR6": {
+            "direction": "IN"
+        },
+        "DCLK": {
+            "direction": "IN"
+        },
+        "DEN": {
+            "direction": "IN"
+        },
+        "DI0": {
+            "direction": "IN"
+        },
+        "DI1": {
+            "direction": "IN"
+        },
+        "DI2": {
+            "direction": "IN"
+        },
+        "DI3": {
+            "direction": "IN"
+        },
+        "DI4": {
+            "direction": "IN"
+        },
+        "DI5": {
+            "direction": "IN"
+        },
+        "DI6": {
+            "direction": "IN"
+        },
+        "DI7": {
+            "direction": "IN"
+        },
+        "DI8": {
+            "direction": "IN"
+        },
+        "DI9": {
+            "direction": "IN"
+        },
+        "DI10": {
+            "direction": "IN"
+        },
+        "DI11": {
+            "direction": "IN"
+        },
+        "DI12": {
+            "direction": "IN"
+        },
+        "DI13": {
+            "direction": "IN"
+        },
+        "DI14": {
+            "direction": "IN"
+        },
+        "DI15": {
+            "direction": "IN"
+        },
+        "DOUT0": {
+            "direction": "OUT"
+        },
+        "DOUT1": {
+            "direction": "OUT"
+        },
+        "DOUT2": {
+            "direction": "OUT"
+        },
+        "DOUT3": {
+            "direction": "OUT"
+        },
+        "DOUT4": {
+            "direction": "OUT"
+        },
+        "DOUT5": {
+            "direction": "OUT"
+        },
+        "DOUT6": {
+            "direction": "OUT"
+        },
+        "DOUT7": {
+            "direction": "OUT"
+        },
+        "DOUT8": {
+            "direction": "OUT"
+        },
+        "DOUT9": {
+            "direction": "OUT"
+        },
+        "DOUT10": {
+            "direction": "OUT"
+        },
+        "DOUT11": {
+            "direction": "OUT"
+        },
+        "DOUT12": {
+            "direction": "OUT"
+        },
+        "DOUT13": {
+            "direction": "OUT"
+        },
+        "DOUT14": {
+            "direction": "OUT"
+        },
+        "DOUT15": {
+            "direction": "OUT"
+        },
+        "DRDY": {
+            "direction": "OUT"
+        },
+        "DWE": {
+            "direction": "IN"
+        },
+        "LOCKED": {
+            "direction": "OUT"
+        },
+        "PWRDWN": {
+            "direction": "IN"
+        },
+        "RST": {
+            "direction": "IN"
+        },
+        "SCANCLK": {
+            "direction": "IN"
+        },
+        "SCANENB": {
+            "direction": "IN"
+        },
+        "SCANIN": {
+            "direction": "IN"
+        },
+        "SCANMODEB": {
+            "direction": "IN"
+        },
+        "SCANOUT": {
+            "direction": "OUT"
+        },
+        "TESTIN0": {
+            "direction": "IN"
+        },
+        "TESTIN1": {
+            "direction": "IN"
+        },
+        "TESTIN2": {
+            "direction": "IN"
+        },
+        "TESTIN3": {
+            "direction": "IN"
+        },
+        "TESTIN4": {
+            "direction": "IN"
+        },
+        "TESTIN5": {
+            "direction": "IN"
+        },
+        "TESTIN6": {
+            "direction": "IN"
+        },
+        "TESTIN7": {
+            "direction": "IN"
+        },
+        "TESTIN8": {
+            "direction": "IN"
+        },
+        "TESTIN9": {
+            "direction": "IN"
+        },
+        "TESTIN10": {
+            "direction": "IN"
+        },
+        "TESTIN11": {
+            "direction": "IN"
+        },
+        "TESTIN12": {
+            "direction": "IN"
+        },
+        "TESTIN13": {
+            "direction": "IN"
+        },
+        "TESTIN14": {
+            "direction": "IN"
+        },
+        "TESTIN15": {
+            "direction": "IN"
+        },
+        "TESTIN16": {
+            "direction": "IN"
+        },
+        "TESTIN17": {
+            "direction": "IN"
+        },
+        "TESTIN18": {
+            "direction": "IN"
+        },
+        "TESTIN19": {
+            "direction": "IN"
+        },
+        "TESTIN20": {
+            "direction": "IN"
+        },
+        "TESTIN21": {
+            "direction": "IN"
+        },
+        "TESTIN22": {
+            "direction": "IN"
+        },
+        "TESTIN23": {
+            "direction": "IN"
+        },
+        "TESTIN24": {
+            "direction": "IN"
+        },
+        "TESTIN25": {
+            "direction": "IN"
+        },
+        "TESTIN26": {
+            "direction": "IN"
+        },
+        "TESTIN27": {
+            "direction": "IN"
+        },
+        "TESTIN28": {
+            "direction": "IN"
+        },
+        "TESTIN29": {
+            "direction": "IN"
+        },
+        "TESTIN30": {
+            "direction": "IN"
+        },
+        "TESTIN31": {
+            "direction": "IN"
+        },
+        "TESTOUT0": {
+            "direction": "OUT"
+        },
+        "TESTOUT1": {
+            "direction": "OUT"
+        },
+        "TESTOUT2": {
+            "direction": "OUT"
+        },
+        "TESTOUT3": {
+            "direction": "OUT"
+        },
+        "TESTOUT4": {
+            "direction": "OUT"
+        },
+        "TESTOUT5": {
+            "direction": "OUT"
+        },
+        "TESTOUT6": {
+            "direction": "OUT"
+        },
+        "TESTOUT7": {
+            "direction": "OUT"
+        },
+        "TESTOUT8": {
+            "direction": "OUT"
+        },
+        "TESTOUT9": {
+            "direction": "OUT"
+        },
+        "TESTOUT10": {
+            "direction": "OUT"
+        },
+        "TESTOUT11": {
+            "direction": "OUT"
+        },
+        "TESTOUT12": {
+            "direction": "OUT"
+        },
+        "TESTOUT13": {
+            "direction": "OUT"
+        },
+        "TESTOUT14": {
+            "direction": "OUT"
+        },
+        "TESTOUT15": {
+            "direction": "OUT"
+        },
+        "TMUXOUT": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "CLKFBININV:CLKFBIN_PREINV": {
+            "from_pin": "CLKFBIN_PREINV",
+            "to_pin": "CLKFBIN"
+        },
+        "CLKININV:CLKIN_PREINV": {
+            "from_pin": "CLKIN_PREINV",
+            "to_pin": "CLKIN"
+        },
+        "PWRDWNINV:PWRDWN_PREINV": {
+            "from_pin": "PWRDWN_PREINV",
+            "to_pin": "PWRDWN"
+        },
+        "RSTINV:RST_PREINV": {
+            "from_pin": "RST_PREINV",
+            "to_pin": "RST"
+        }
+    },
+    "type": "PLL"
+}

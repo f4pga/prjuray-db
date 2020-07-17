@@ -1,0 +1,8 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CLEL_R_TERM_B",
+    "wires": {
+        "VCC_WIRE": null
+    }
+}

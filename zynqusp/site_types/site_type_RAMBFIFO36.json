@@ -1,0 +1,1674 @@
+{
+    "site_pins": {
+        "ADDRAL0": {
+            "direction": "IN"
+        },
+        "ADDRAL1": {
+            "direction": "IN"
+        },
+        "ADDRAL2": {
+            "direction": "IN"
+        },
+        "ADDRAL3": {
+            "direction": "IN"
+        },
+        "ADDRAL4": {
+            "direction": "IN"
+        },
+        "ADDRAL5": {
+            "direction": "IN"
+        },
+        "ADDRAL6": {
+            "direction": "IN"
+        },
+        "ADDRAL7": {
+            "direction": "IN"
+        },
+        "ADDRAL8": {
+            "direction": "IN"
+        },
+        "ADDRAL9": {
+            "direction": "IN"
+        },
+        "ADDRAL10": {
+            "direction": "IN"
+        },
+        "ADDRAL11": {
+            "direction": "IN"
+        },
+        "ADDRAL12": {
+            "direction": "IN"
+        },
+        "ADDRAL13": {
+            "direction": "IN"
+        },
+        "ADDRAL14": {
+            "direction": "IN"
+        },
+        "ADDRAU0": {
+            "direction": "IN"
+        },
+        "ADDRAU1": {
+            "direction": "IN"
+        },
+        "ADDRAU2": {
+            "direction": "IN"
+        },
+        "ADDRAU3": {
+            "direction": "IN"
+        },
+        "ADDRAU4": {
+            "direction": "IN"
+        },
+        "ADDRAU5": {
+            "direction": "IN"
+        },
+        "ADDRAU6": {
+            "direction": "IN"
+        },
+        "ADDRAU7": {
+            "direction": "IN"
+        },
+        "ADDRAU8": {
+            "direction": "IN"
+        },
+        "ADDRAU9": {
+            "direction": "IN"
+        },
+        "ADDRAU10": {
+            "direction": "IN"
+        },
+        "ADDRAU11": {
+            "direction": "IN"
+        },
+        "ADDRAU12": {
+            "direction": "IN"
+        },
+        "ADDRAU13": {
+            "direction": "IN"
+        },
+        "ADDRAU14": {
+            "direction": "IN"
+        },
+        "ADDRBL0": {
+            "direction": "IN"
+        },
+        "ADDRBL1": {
+            "direction": "IN"
+        },
+        "ADDRBL2": {
+            "direction": "IN"
+        },
+        "ADDRBL3": {
+            "direction": "IN"
+        },
+        "ADDRBL4": {
+            "direction": "IN"
+        },
+        "ADDRBL5": {
+            "direction": "IN"
+        },
+        "ADDRBL6": {
+            "direction": "IN"
+        },
+        "ADDRBL7": {
+            "direction": "IN"
+        },
+        "ADDRBL8": {
+            "direction": "IN"
+        },
+        "ADDRBL9": {
+            "direction": "IN"
+        },
+        "ADDRBL10": {
+            "direction": "IN"
+        },
+        "ADDRBL11": {
+            "direction": "IN"
+        },
+        "ADDRBL12": {
+            "direction": "IN"
+        },
+        "ADDRBL13": {
+            "direction": "IN"
+        },
+        "ADDRBL14": {
+            "direction": "IN"
+        },
+        "ADDRBU0": {
+            "direction": "IN"
+        },
+        "ADDRBU1": {
+            "direction": "IN"
+        },
+        "ADDRBU2": {
+            "direction": "IN"
+        },
+        "ADDRBU3": {
+            "direction": "IN"
+        },
+        "ADDRBU4": {
+            "direction": "IN"
+        },
+        "ADDRBU5": {
+            "direction": "IN"
+        },
+        "ADDRBU6": {
+            "direction": "IN"
+        },
+        "ADDRBU7": {
+            "direction": "IN"
+        },
+        "ADDRBU8": {
+            "direction": "IN"
+        },
+        "ADDRBU9": {
+            "direction": "IN"
+        },
+        "ADDRBU10": {
+            "direction": "IN"
+        },
+        "ADDRBU11": {
+            "direction": "IN"
+        },
+        "ADDRBU12": {
+            "direction": "IN"
+        },
+        "ADDRBU13": {
+            "direction": "IN"
+        },
+        "ADDRBU14": {
+            "direction": "IN"
+        },
+        "ADDRENAL": {
+            "direction": "IN"
+        },
+        "ADDRENAU": {
+            "direction": "IN"
+        },
+        "ADDRENBL": {
+            "direction": "IN"
+        },
+        "ADDRENBU": {
+            "direction": "IN"
+        },
+        "CASDIAL0": {
+            "direction": "IN"
+        },
+        "CASDIAL1": {
+            "direction": "IN"
+        },
+        "CASDIAL2": {
+            "direction": "IN"
+        },
+        "CASDIAL3": {
+            "direction": "IN"
+        },
+        "CASDIAL4": {
+            "direction": "IN"
+        },
+        "CASDIAL5": {
+            "direction": "IN"
+        },
+        "CASDIAL6": {
+            "direction": "IN"
+        },
+        "CASDIAL7": {
+            "direction": "IN"
+        },
+        "CASDIAL8": {
+            "direction": "IN"
+        },
+        "CASDIAL9": {
+            "direction": "IN"
+        },
+        "CASDIAL10": {
+            "direction": "IN"
+        },
+        "CASDIAL11": {
+            "direction": "IN"
+        },
+        "CASDIAL12": {
+            "direction": "IN"
+        },
+        "CASDIAL13": {
+            "direction": "IN"
+        },
+        "CASDIAL14": {
+            "direction": "IN"
+        },
+        "CASDIAL15": {
+            "direction": "IN"
+        },
+        "CASDIAU0": {
+            "direction": "IN"
+        },
+        "CASDIAU1": {
+            "direction": "IN"
+        },
+        "CASDIAU2": {
+            "direction": "IN"
+        },
+        "CASDIAU3": {
+            "direction": "IN"
+        },
+        "CASDIAU4": {
+            "direction": "IN"
+        },
+        "CASDIAU5": {
+            "direction": "IN"
+        },
+        "CASDIAU6": {
+            "direction": "IN"
+        },
+        "CASDIAU7": {
+            "direction": "IN"
+        },
+        "CASDIAU8": {
+            "direction": "IN"
+        },
+        "CASDIAU9": {
+            "direction": "IN"
+        },
+        "CASDIAU10": {
+            "direction": "IN"
+        },
+        "CASDIAU11": {
+            "direction": "IN"
+        },
+        "CASDIAU12": {
+            "direction": "IN"
+        },
+        "CASDIAU13": {
+            "direction": "IN"
+        },
+        "CASDIAU14": {
+            "direction": "IN"
+        },
+        "CASDIAU15": {
+            "direction": "IN"
+        },
+        "CASDIBL0": {
+            "direction": "IN"
+        },
+        "CASDIBL1": {
+            "direction": "IN"
+        },
+        "CASDIBL2": {
+            "direction": "IN"
+        },
+        "CASDIBL3": {
+            "direction": "IN"
+        },
+        "CASDIBL4": {
+            "direction": "IN"
+        },
+        "CASDIBL5": {
+            "direction": "IN"
+        },
+        "CASDIBL6": {
+            "direction": "IN"
+        },
+        "CASDIBL7": {
+            "direction": "IN"
+        },
+        "CASDIBL8": {
+            "direction": "IN"
+        },
+        "CASDIBL9": {
+            "direction": "IN"
+        },
+        "CASDIBL10": {
+            "direction": "IN"
+        },
+        "CASDIBL11": {
+            "direction": "IN"
+        },
+        "CASDIBL12": {
+            "direction": "IN"
+        },
+        "CASDIBL13": {
+            "direction": "IN"
+        },
+        "CASDIBL14": {
+            "direction": "IN"
+        },
+        "CASDIBL15": {
+            "direction": "IN"
+        },
+        "CASDIBU0": {
+            "direction": "IN"
+        },
+        "CASDIBU1": {
+            "direction": "IN"
+        },
+        "CASDIBU2": {
+            "direction": "IN"
+        },
+        "CASDIBU3": {
+            "direction": "IN"
+        },
+        "CASDIBU4": {
+            "direction": "IN"
+        },
+        "CASDIBU5": {
+            "direction": "IN"
+        },
+        "CASDIBU6": {
+            "direction": "IN"
+        },
+        "CASDIBU7": {
+            "direction": "IN"
+        },
+        "CASDIBU8": {
+            "direction": "IN"
+        },
+        "CASDIBU9": {
+            "direction": "IN"
+        },
+        "CASDIBU10": {
+            "direction": "IN"
+        },
+        "CASDIBU11": {
+            "direction": "IN"
+        },
+        "CASDIBU12": {
+            "direction": "IN"
+        },
+        "CASDIBU13": {
+            "direction": "IN"
+        },
+        "CASDIBU14": {
+            "direction": "IN"
+        },
+        "CASDIBU15": {
+            "direction": "IN"
+        },
+        "CASDIMUXAL": {
+            "direction": "IN"
+        },
+        "CASDIMUXAU": {
+            "direction": "IN"
+        },
+        "CASDIMUXBL": {
+            "direction": "IN"
+        },
+        "CASDIMUXBU": {
+            "direction": "IN"
+        },
+        "CASDIPAL0": {
+            "direction": "IN"
+        },
+        "CASDIPAL1": {
+            "direction": "IN"
+        },
+        "CASDIPAU0": {
+            "direction": "IN"
+        },
+        "CASDIPAU1": {
+            "direction": "IN"
+        },
+        "CASDIPBL0": {
+            "direction": "IN"
+        },
+        "CASDIPBL1": {
+            "direction": "IN"
+        },
+        "CASDIPBU0": {
+            "direction": "IN"
+        },
+        "CASDIPBU1": {
+            "direction": "IN"
+        },
+        "CASDOAL0": {
+            "direction": "OUT"
+        },
+        "CASDOAL1": {
+            "direction": "OUT"
+        },
+        "CASDOAL2": {
+            "direction": "OUT"
+        },
+        "CASDOAL3": {
+            "direction": "OUT"
+        },
+        "CASDOAL4": {
+            "direction": "OUT"
+        },
+        "CASDOAL5": {
+            "direction": "OUT"
+        },
+        "CASDOAL6": {
+            "direction": "OUT"
+        },
+        "CASDOAL7": {
+            "direction": "OUT"
+        },
+        "CASDOAL8": {
+            "direction": "OUT"
+        },
+        "CASDOAL9": {
+            "direction": "OUT"
+        },
+        "CASDOAL10": {
+            "direction": "OUT"
+        },
+        "CASDOAL11": {
+            "direction": "OUT"
+        },
+        "CASDOAL12": {
+            "direction": "OUT"
+        },
+        "CASDOAL13": {
+            "direction": "OUT"
+        },
+        "CASDOAL14": {
+            "direction": "OUT"
+        },
+        "CASDOAL15": {
+            "direction": "OUT"
+        },
+        "CASDOAU0": {
+            "direction": "OUT"
+        },
+        "CASDOAU1": {
+            "direction": "OUT"
+        },
+        "CASDOAU2": {
+            "direction": "OUT"
+        },
+        "CASDOAU3": {
+            "direction": "OUT"
+        },
+        "CASDOAU4": {
+            "direction": "OUT"
+        },
+        "CASDOAU5": {
+            "direction": "OUT"
+        },
+        "CASDOAU6": {
+            "direction": "OUT"
+        },
+        "CASDOAU7": {
+            "direction": "OUT"
+        },
+        "CASDOAU8": {
+            "direction": "OUT"
+        },
+        "CASDOAU9": {
+            "direction": "OUT"
+        },
+        "CASDOAU10": {
+            "direction": "OUT"
+        },
+        "CASDOAU11": {
+            "direction": "OUT"
+        },
+        "CASDOAU12": {
+            "direction": "OUT"
+        },
+        "CASDOAU13": {
+            "direction": "OUT"
+        },
+        "CASDOAU14": {
+            "direction": "OUT"
+        },
+        "CASDOAU15": {
+            "direction": "OUT"
+        },
+        "CASDOBL0": {
+            "direction": "OUT"
+        },
+        "CASDOBL1": {
+            "direction": "OUT"
+        },
+        "CASDOBL2": {
+            "direction": "OUT"
+        },
+        "CASDOBL3": {
+            "direction": "OUT"
+        },
+        "CASDOBL4": {
+            "direction": "OUT"
+        },
+        "CASDOBL5": {
+            "direction": "OUT"
+        },
+        "CASDOBL6": {
+            "direction": "OUT"
+        },
+        "CASDOBL7": {
+            "direction": "OUT"
+        },
+        "CASDOBL8": {
+            "direction": "OUT"
+        },
+        "CASDOBL9": {
+            "direction": "OUT"
+        },
+        "CASDOBL10": {
+            "direction": "OUT"
+        },
+        "CASDOBL11": {
+            "direction": "OUT"
+        },
+        "CASDOBL12": {
+            "direction": "OUT"
+        },
+        "CASDOBL13": {
+            "direction": "OUT"
+        },
+        "CASDOBL14": {
+            "direction": "OUT"
+        },
+        "CASDOBL15": {
+            "direction": "OUT"
+        },
+        "CASDOBU0": {
+            "direction": "OUT"
+        },
+        "CASDOBU1": {
+            "direction": "OUT"
+        },
+        "CASDOBU2": {
+            "direction": "OUT"
+        },
+        "CASDOBU3": {
+            "direction": "OUT"
+        },
+        "CASDOBU4": {
+            "direction": "OUT"
+        },
+        "CASDOBU5": {
+            "direction": "OUT"
+        },
+        "CASDOBU6": {
+            "direction": "OUT"
+        },
+        "CASDOBU7": {
+            "direction": "OUT"
+        },
+        "CASDOBU8": {
+            "direction": "OUT"
+        },
+        "CASDOBU9": {
+            "direction": "OUT"
+        },
+        "CASDOBU10": {
+            "direction": "OUT"
+        },
+        "CASDOBU11": {
+            "direction": "OUT"
+        },
+        "CASDOBU12": {
+            "direction": "OUT"
+        },
+        "CASDOBU13": {
+            "direction": "OUT"
+        },
+        "CASDOBU14": {
+            "direction": "OUT"
+        },
+        "CASDOBU15": {
+            "direction": "OUT"
+        },
+        "CASDOMUXAL": {
+            "direction": "IN"
+        },
+        "CASDOMUXAU": {
+            "direction": "IN"
+        },
+        "CASDOMUXBL": {
+            "direction": "IN"
+        },
+        "CASDOMUXBU": {
+            "direction": "IN"
+        },
+        "CASDOMUXENAL": {
+            "direction": "IN"
+        },
+        "CASDOMUXENAU": {
+            "direction": "IN"
+        },
+        "CASDOMUXENBL": {
+            "direction": "IN"
+        },
+        "CASDOMUXENBU": {
+            "direction": "IN"
+        },
+        "CASDOPAL0": {
+            "direction": "OUT"
+        },
+        "CASDOPAL1": {
+            "direction": "OUT"
+        },
+        "CASDOPAU0": {
+            "direction": "OUT"
+        },
+        "CASDOPAU1": {
+            "direction": "OUT"
+        },
+        "CASDOPBL0": {
+            "direction": "OUT"
+        },
+        "CASDOPBL1": {
+            "direction": "OUT"
+        },
+        "CASDOPBU0": {
+            "direction": "OUT"
+        },
+        "CASDOPBU1": {
+            "direction": "OUT"
+        },
+        "CASINDBITERR": {
+            "direction": "IN"
+        },
+        "CASINSBITERR": {
+            "direction": "IN"
+        },
+        "CASMBIST12OUT": {
+            "direction": "OUT"
+        },
+        "CASNXTEMPTY": {
+            "direction": "OUT"
+        },
+        "CASNXTRDEN": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXAL": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXAU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXBL": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXBU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENAL": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENAU": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENBL": {
+            "direction": "IN"
+        },
+        "CASOREGIMUXENBU": {
+            "direction": "IN"
+        },
+        "CASOUTDBITERR": {
+            "direction": "OUT"
+        },
+        "CASOUTSBITERR": {
+            "direction": "OUT"
+        },
+        "CASPRVEMPTY": {
+            "direction": "IN"
+        },
+        "CASPRVRDEN": {
+            "direction": "OUT"
+        },
+        "CLKAL": {
+            "direction": "IN"
+        },
+        "CLKAU": {
+            "direction": "IN"
+        },
+        "CLKBL": {
+            "direction": "IN"
+        },
+        "CLKBU": {
+            "direction": "IN"
+        },
+        "DBITERR": {
+            "direction": "OUT"
+        },
+        "DIAL0": {
+            "direction": "IN"
+        },
+        "DIAL1": {
+            "direction": "IN"
+        },
+        "DIAL2": {
+            "direction": "IN"
+        },
+        "DIAL3": {
+            "direction": "IN"
+        },
+        "DIAL4": {
+            "direction": "IN"
+        },
+        "DIAL5": {
+            "direction": "IN"
+        },
+        "DIAL6": {
+            "direction": "IN"
+        },
+        "DIAL7": {
+            "direction": "IN"
+        },
+        "DIAL8": {
+            "direction": "IN"
+        },
+        "DIAL9": {
+            "direction": "IN"
+        },
+        "DIAL10": {
+            "direction": "IN"
+        },
+        "DIAL11": {
+            "direction": "IN"
+        },
+        "DIAL12": {
+            "direction": "IN"
+        },
+        "DIAL13": {
+            "direction": "IN"
+        },
+        "DIAL14": {
+            "direction": "IN"
+        },
+        "DIAL15": {
+            "direction": "IN"
+        },
+        "DIAU0": {
+            "direction": "IN"
+        },
+        "DIAU1": {
+            "direction": "IN"
+        },
+        "DIAU2": {
+            "direction": "IN"
+        },
+        "DIAU3": {
+            "direction": "IN"
+        },
+        "DIAU4": {
+            "direction": "IN"
+        },
+        "DIAU5": {
+            "direction": "IN"
+        },
+        "DIAU6": {
+            "direction": "IN"
+        },
+        "DIAU7": {
+            "direction": "IN"
+        },
+        "DIAU8": {
+            "direction": "IN"
+        },
+        "DIAU9": {
+            "direction": "IN"
+        },
+        "DIAU10": {
+            "direction": "IN"
+        },
+        "DIAU11": {
+            "direction": "IN"
+        },
+        "DIAU12": {
+            "direction": "IN"
+        },
+        "DIAU13": {
+            "direction": "IN"
+        },
+        "DIAU14": {
+            "direction": "IN"
+        },
+        "DIAU15": {
+            "direction": "IN"
+        },
+        "DIBL0": {
+            "direction": "IN"
+        },
+        "DIBL1": {
+            "direction": "IN"
+        },
+        "DIBL2": {
+            "direction": "IN"
+        },
+        "DIBL3": {
+            "direction": "IN"
+        },
+        "DIBL4": {
+            "direction": "IN"
+        },
+        "DIBL5": {
+            "direction": "IN"
+        },
+        "DIBL6": {
+            "direction": "IN"
+        },
+        "DIBL7": {
+            "direction": "IN"
+        },
+        "DIBL8": {
+            "direction": "IN"
+        },
+        "DIBL9": {
+            "direction": "IN"
+        },
+        "DIBL10": {
+            "direction": "IN"
+        },
+        "DIBL11": {
+            "direction": "IN"
+        },
+        "DIBL12": {
+            "direction": "IN"
+        },
+        "DIBL13": {
+            "direction": "IN"
+        },
+        "DIBL14": {
+            "direction": "IN"
+        },
+        "DIBL15": {
+            "direction": "IN"
+        },
+        "DIBU0": {
+            "direction": "IN"
+        },
+        "DIBU1": {
+            "direction": "IN"
+        },
+        "DIBU2": {
+            "direction": "IN"
+        },
+        "DIBU3": {
+            "direction": "IN"
+        },
+        "DIBU4": {
+            "direction": "IN"
+        },
+        "DIBU5": {
+            "direction": "IN"
+        },
+        "DIBU6": {
+            "direction": "IN"
+        },
+        "DIBU7": {
+            "direction": "IN"
+        },
+        "DIBU8": {
+            "direction": "IN"
+        },
+        "DIBU9": {
+            "direction": "IN"
+        },
+        "DIBU10": {
+            "direction": "IN"
+        },
+        "DIBU11": {
+            "direction": "IN"
+        },
+        "DIBU12": {
+            "direction": "IN"
+        },
+        "DIBU13": {
+            "direction": "IN"
+        },
+        "DIBU14": {
+            "direction": "IN"
+        },
+        "DIBU15": {
+            "direction": "IN"
+        },
+        "DIPAL0": {
+            "direction": "IN"
+        },
+        "DIPAL1": {
+            "direction": "IN"
+        },
+        "DIPAU0": {
+            "direction": "IN"
+        },
+        "DIPAU1": {
+            "direction": "IN"
+        },
+        "DIPBL0": {
+            "direction": "IN"
+        },
+        "DIPBL1": {
+            "direction": "IN"
+        },
+        "DIPBU0": {
+            "direction": "IN"
+        },
+        "DIPBU1": {
+            "direction": "IN"
+        },
+        "DOAL0": {
+            "direction": "OUT"
+        },
+        "DOAL1": {
+            "direction": "OUT"
+        },
+        "DOAL2": {
+            "direction": "OUT"
+        },
+        "DOAL3": {
+            "direction": "OUT"
+        },
+        "DOAL4": {
+            "direction": "OUT"
+        },
+        "DOAL5": {
+            "direction": "OUT"
+        },
+        "DOAL6": {
+            "direction": "OUT"
+        },
+        "DOAL7": {
+            "direction": "OUT"
+        },
+        "DOAL8": {
+            "direction": "OUT"
+        },
+        "DOAL9": {
+            "direction": "OUT"
+        },
+        "DOAL10": {
+            "direction": "OUT"
+        },
+        "DOAL11": {
+            "direction": "OUT"
+        },
+        "DOAL12": {
+            "direction": "OUT"
+        },
+        "DOAL13": {
+            "direction": "OUT"
+        },
+        "DOAL14": {
+            "direction": "OUT"
+        },
+        "DOAL15": {
+            "direction": "OUT"
+        },
+        "DOAU0": {
+            "direction": "OUT"
+        },
+        "DOAU1": {
+            "direction": "OUT"
+        },
+        "DOAU2": {
+            "direction": "OUT"
+        },
+        "DOAU3": {
+            "direction": "OUT"
+        },
+        "DOAU4": {
+            "direction": "OUT"
+        },
+        "DOAU5": {
+            "direction": "OUT"
+        },
+        "DOAU6": {
+            "direction": "OUT"
+        },
+        "DOAU7": {
+            "direction": "OUT"
+        },
+        "DOAU8": {
+            "direction": "OUT"
+        },
+        "DOAU9": {
+            "direction": "OUT"
+        },
+        "DOAU10": {
+            "direction": "OUT"
+        },
+        "DOAU11": {
+            "direction": "OUT"
+        },
+        "DOAU12": {
+            "direction": "OUT"
+        },
+        "DOAU13": {
+            "direction": "OUT"
+        },
+        "DOAU14": {
+            "direction": "OUT"
+        },
+        "DOAU15": {
+            "direction": "OUT"
+        },
+        "DOBL0": {
+            "direction": "OUT"
+        },
+        "DOBL1": {
+            "direction": "OUT"
+        },
+        "DOBL2": {
+            "direction": "OUT"
+        },
+        "DOBL3": {
+            "direction": "OUT"
+        },
+        "DOBL4": {
+            "direction": "OUT"
+        },
+        "DOBL5": {
+            "direction": "OUT"
+        },
+        "DOBL6": {
+            "direction": "OUT"
+        },
+        "DOBL7": {
+            "direction": "OUT"
+        },
+        "DOBL8": {
+            "direction": "OUT"
+        },
+        "DOBL9": {
+            "direction": "OUT"
+        },
+        "DOBL10": {
+            "direction": "OUT"
+        },
+        "DOBL11": {
+            "direction": "OUT"
+        },
+        "DOBL12": {
+            "direction": "OUT"
+        },
+        "DOBL13": {
+            "direction": "OUT"
+        },
+        "DOBL14": {
+            "direction": "OUT"
+        },
+        "DOBL15": {
+            "direction": "OUT"
+        },
+        "DOBU0": {
+            "direction": "OUT"
+        },
+        "DOBU1": {
+            "direction": "OUT"
+        },
+        "DOBU2": {
+            "direction": "OUT"
+        },
+        "DOBU3": {
+            "direction": "OUT"
+        },
+        "DOBU4": {
+            "direction": "OUT"
+        },
+        "DOBU5": {
+            "direction": "OUT"
+        },
+        "DOBU6": {
+            "direction": "OUT"
+        },
+        "DOBU7": {
+            "direction": "OUT"
+        },
+        "DOBU8": {
+            "direction": "OUT"
+        },
+        "DOBU9": {
+            "direction": "OUT"
+        },
+        "DOBU10": {
+            "direction": "OUT"
+        },
+        "DOBU11": {
+            "direction": "OUT"
+        },
+        "DOBU12": {
+            "direction": "OUT"
+        },
+        "DOBU13": {
+            "direction": "OUT"
+        },
+        "DOBU14": {
+            "direction": "OUT"
+        },
+        "DOBU15": {
+            "direction": "OUT"
+        },
+        "DOPAL0": {
+            "direction": "OUT"
+        },
+        "DOPAL1": {
+            "direction": "OUT"
+        },
+        "DOPAU0": {
+            "direction": "OUT"
+        },
+        "DOPAU1": {
+            "direction": "OUT"
+        },
+        "DOPBL0": {
+            "direction": "OUT"
+        },
+        "DOPBL1": {
+            "direction": "OUT"
+        },
+        "DOPBU0": {
+            "direction": "OUT"
+        },
+        "DOPBU1": {
+            "direction": "OUT"
+        },
+        "ECCPARITY0": {
+            "direction": "OUT"
+        },
+        "ECCPARITY1": {
+            "direction": "OUT"
+        },
+        "ECCPARITY2": {
+            "direction": "OUT"
+        },
+        "ECCPARITY3": {
+            "direction": "OUT"
+        },
+        "ECCPARITY4": {
+            "direction": "OUT"
+        },
+        "ECCPARITY5": {
+            "direction": "OUT"
+        },
+        "ECCPARITY6": {
+            "direction": "OUT"
+        },
+        "ECCPARITY7": {
+            "direction": "OUT"
+        },
+        "ECCPIPECE": {
+            "direction": "IN"
+        },
+        "EMPTY": {
+            "direction": "OUT"
+        },
+        "ENABLE_BIST": {
+            "direction": "IN"
+        },
+        "ENAL": {
+            "direction": "IN"
+        },
+        "ENAU": {
+            "direction": "IN"
+        },
+        "ENBL": {
+            "direction": "IN"
+        },
+        "ENBU": {
+            "direction": "IN"
+        },
+        "FULL": {
+            "direction": "OUT"
+        },
+        "INJECTDBITERR": {
+            "direction": "IN"
+        },
+        "INJECTSBITERR": {
+            "direction": "IN"
+        },
+        "PROGEMPTY": {
+            "direction": "OUT"
+        },
+        "PROGFULL": {
+            "direction": "OUT"
+        },
+        "RDADDRECC0": {
+            "direction": "OUT"
+        },
+        "RDADDRECC1": {
+            "direction": "OUT"
+        },
+        "RDADDRECC2": {
+            "direction": "OUT"
+        },
+        "RDADDRECC3": {
+            "direction": "OUT"
+        },
+        "RDADDRECC4": {
+            "direction": "OUT"
+        },
+        "RDADDRECC5": {
+            "direction": "OUT"
+        },
+        "RDADDRECC6": {
+            "direction": "OUT"
+        },
+        "RDADDRECC7": {
+            "direction": "OUT"
+        },
+        "RDADDRECC8": {
+            "direction": "OUT"
+        },
+        "RDCOUNT0": {
+            "direction": "OUT"
+        },
+        "RDCOUNT1": {
+            "direction": "OUT"
+        },
+        "RDCOUNT2": {
+            "direction": "OUT"
+        },
+        "RDCOUNT3": {
+            "direction": "OUT"
+        },
+        "RDCOUNT4": {
+            "direction": "OUT"
+        },
+        "RDCOUNT5": {
+            "direction": "OUT"
+        },
+        "RDCOUNT6": {
+            "direction": "OUT"
+        },
+        "RDCOUNT7": {
+            "direction": "OUT"
+        },
+        "RDCOUNT8": {
+            "direction": "OUT"
+        },
+        "RDCOUNT9": {
+            "direction": "OUT"
+        },
+        "RDCOUNT10": {
+            "direction": "OUT"
+        },
+        "RDCOUNT11": {
+            "direction": "OUT"
+        },
+        "RDCOUNT12": {
+            "direction": "OUT"
+        },
+        "RDCOUNT13": {
+            "direction": "OUT"
+        },
+        "RDERR": {
+            "direction": "OUT"
+        },
+        "RDRSTBUSY": {
+            "direction": "OUT"
+        },
+        "REGCEAL": {
+            "direction": "IN"
+        },
+        "REGCEAU": {
+            "direction": "IN"
+        },
+        "REGCEBL": {
+            "direction": "IN"
+        },
+        "REGCEBU": {
+            "direction": "IN"
+        },
+        "RSTFIFO": {
+            "direction": "IN"
+        },
+        "RSTRAMAL": {
+            "direction": "IN"
+        },
+        "RSTRAMAU": {
+            "direction": "IN"
+        },
+        "RSTRAMBL": {
+            "direction": "IN"
+        },
+        "RSTRAMBU": {
+            "direction": "IN"
+        },
+        "RSTREGAL": {
+            "direction": "IN"
+        },
+        "RSTREGAU": {
+            "direction": "IN"
+        },
+        "RSTREGBL": {
+            "direction": "IN"
+        },
+        "RSTREGBU": {
+            "direction": "IN"
+        },
+        "SBITERR": {
+            "direction": "OUT"
+        },
+        "SLEEPL": {
+            "direction": "IN"
+        },
+        "SLEEPU": {
+            "direction": "IN"
+        },
+        "START_RSR_NEXT": {
+            "direction": "OUT"
+        },
+        "TSTBRAMRST": {
+            "direction": "IN"
+        },
+        "TSTCNT0": {
+            "direction": "IN"
+        },
+        "TSTCNT1": {
+            "direction": "IN"
+        },
+        "TSTCNT2": {
+            "direction": "IN"
+        },
+        "TSTCNT3": {
+            "direction": "IN"
+        },
+        "TSTCNT4": {
+            "direction": "IN"
+        },
+        "TSTCNT5": {
+            "direction": "IN"
+        },
+        "TSTCNT6": {
+            "direction": "IN"
+        },
+        "TSTCNT7": {
+            "direction": "IN"
+        },
+        "TSTCNT8": {
+            "direction": "IN"
+        },
+        "TSTCNT9": {
+            "direction": "IN"
+        },
+        "TSTCNT10": {
+            "direction": "IN"
+        },
+        "TSTCNT11": {
+            "direction": "IN"
+        },
+        "TSTCNT12": {
+            "direction": "IN"
+        },
+        "TSTFLAGIN": {
+            "direction": "IN"
+        },
+        "TSTOFF": {
+            "direction": "IN"
+        },
+        "TSTRDCNTOFF": {
+            "direction": "IN"
+        },
+        "TSTRDOS0": {
+            "direction": "IN"
+        },
+        "TSTRDOS1": {
+            "direction": "IN"
+        },
+        "TSTRDOS2": {
+            "direction": "IN"
+        },
+        "TSTRDOS3": {
+            "direction": "IN"
+        },
+        "TSTRDOS4": {
+            "direction": "IN"
+        },
+        "TSTRDOS5": {
+            "direction": "IN"
+        },
+        "TSTRDOS6": {
+            "direction": "IN"
+        },
+        "TSTRDOS7": {
+            "direction": "IN"
+        },
+        "TSTRDOS8": {
+            "direction": "IN"
+        },
+        "TSTRDOS9": {
+            "direction": "IN"
+        },
+        "TSTRDOS10": {
+            "direction": "IN"
+        },
+        "TSTRDOS11": {
+            "direction": "IN"
+        },
+        "TSTRDOS12": {
+            "direction": "IN"
+        },
+        "TSTRINGEN_X": {
+            "direction": "IN"
+        },
+        "TSTRINGOUTDIV4": {
+            "direction": "OUT"
+        },
+        "TSTRINGSTART_X": {
+            "direction": "IN"
+        },
+        "TSTSTAGEVALID": {
+            "direction": "OUT"
+        },
+        "TSTWRCNTOFF": {
+            "direction": "IN"
+        },
+        "TSTWROS0": {
+            "direction": "IN"
+        },
+        "TSTWROS1": {
+            "direction": "IN"
+        },
+        "TSTWROS2": {
+            "direction": "IN"
+        },
+        "TSTWROS3": {
+            "direction": "IN"
+        },
+        "TSTWROS4": {
+            "direction": "IN"
+        },
+        "TSTWROS5": {
+            "direction": "IN"
+        },
+        "TSTWROS6": {
+            "direction": "IN"
+        },
+        "TSTWROS7": {
+            "direction": "IN"
+        },
+        "TSTWROS8": {
+            "direction": "IN"
+        },
+        "TSTWROS9": {
+            "direction": "IN"
+        },
+        "TSTWROS10": {
+            "direction": "IN"
+        },
+        "TSTWROS11": {
+            "direction": "IN"
+        },
+        "TSTWROS12": {
+            "direction": "IN"
+        },
+        "TST_QUIETENAL": {
+            "direction": "OUT"
+        },
+        "TST_QUIETENAU": {
+            "direction": "OUT"
+        },
+        "TST_QUIETENBL": {
+            "direction": "OUT"
+        },
+        "TST_QUIETENBU": {
+            "direction": "OUT"
+        },
+        "TST_SLEEP_CNTL": {
+            "direction": "OUT"
+        },
+        "WEAL0": {
+            "direction": "IN"
+        },
+        "WEAL1": {
+            "direction": "IN"
+        },
+        "WEAL2": {
+            "direction": "IN"
+        },
+        "WEAL3": {
+            "direction": "IN"
+        },
+        "WEAU0": {
+            "direction": "IN"
+        },
+        "WEAU1": {
+            "direction": "IN"
+        },
+        "WEAU2": {
+            "direction": "IN"
+        },
+        "WEAU3": {
+            "direction": "IN"
+        },
+        "WEBL0": {
+            "direction": "IN"
+        },
+        "WEBL1": {
+            "direction": "IN"
+        },
+        "WEBL2": {
+            "direction": "IN"
+        },
+        "WEBL3": {
+            "direction": "IN"
+        },
+        "WEBU0": {
+            "direction": "IN"
+        },
+        "WEBU1": {
+            "direction": "IN"
+        },
+        "WEBU2": {
+            "direction": "IN"
+        },
+        "WEBU3": {
+            "direction": "IN"
+        },
+        "WRCOUNT0": {
+            "direction": "OUT"
+        },
+        "WRCOUNT1": {
+            "direction": "OUT"
+        },
+        "WRCOUNT2": {
+            "direction": "OUT"
+        },
+        "WRCOUNT3": {
+            "direction": "OUT"
+        },
+        "WRCOUNT4": {
+            "direction": "OUT"
+        },
+        "WRCOUNT5": {
+            "direction": "OUT"
+        },
+        "WRCOUNT6": {
+            "direction": "OUT"
+        },
+        "WRCOUNT7": {
+            "direction": "OUT"
+        },
+        "WRCOUNT8": {
+            "direction": "OUT"
+        },
+        "WRCOUNT9": {
+            "direction": "OUT"
+        },
+        "WRCOUNT10": {
+            "direction": "OUT"
+        },
+        "WRCOUNT11": {
+            "direction": "OUT"
+        },
+        "WRCOUNT12": {
+            "direction": "OUT"
+        },
+        "WRCOUNT13": {
+            "direction": "OUT"
+        },
+        "WRERR": {
+            "direction": "OUT"
+        },
+        "WRRSTBUSY": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {
+        "CLK_OPTINV_CLKA_L:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "CLK_OPTINV_CLKA_U:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "CLK_OPTINV_CLKB_L:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "CLK_OPTINV_CLKB_U:CLK": {
+            "from_pin": "CLK",
+            "to_pin": "CLK_OUT"
+        },
+        "OPTINV_ENARDEN_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_ENARDEN_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_ENBWREN_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_ENBWREN_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_FIFORST:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMA_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMA_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMB_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTRAMB_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGA_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGA_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGB_L:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        },
+        "OPTINV_RSTREGB_U:I": {
+            "from_pin": "I",
+            "to_pin": "O"
+        }
+    },
+    "type": "RAMBFIFO36"
+}

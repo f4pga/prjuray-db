@@ -1,0 +1,1950 @@
+{
+    "pips": {
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R0->>BYPASS_L0": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R0"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R0->>DELAYWIRE_XIPHY": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R0"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R1->>BYPASS_L1": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R1->>DELAYWIRE_XIPHY_11": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R2->>BYPASS_L2": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R2->>DELAYWIRE_XIPHY_22": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R3->>BYPASS_L3": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R3->>DELAYWIRE_XIPHY_33": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R4->>BYPASS_L4": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R4->>DELAYWIRE_XIPHY_44": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R5->>BYPASS_L5": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R5->>DELAYWIRE_XIPHY_55": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_55",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R6->>BYPASS_L6": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R6->>DELAYWIRE_XIPHY_60": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_60",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R7->>BYPASS_L7": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R7->>DELAYWIRE_XIPHY_61": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_61",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R8->>BYPASS_L8": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R8->>DELAYWIRE_XIPHY_62": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_62",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R9->>BYPASS_L9": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R9->>DELAYWIRE_XIPHY_63": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_63",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R10->>BYPASS_L10": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R10->>DELAYWIRE_XIPHY_1": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R11->>BYPASS_L11": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R11->>DELAYWIRE_XIPHY_2": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R12->>BYPASS_L12": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R12->>DELAYWIRE_XIPHY_3": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R13->>BYPASS_L13": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R13->>DELAYWIRE_XIPHY_4": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R14->>BYPASS_L14": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R14->>DELAYWIRE_XIPHY_5": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R15->>BYPASS_L15": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.BYPASS_R15->>DELAYWIRE_XIPHY_6": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "BYPASS_R15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY->BYPASS_L0": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_1->BYPASS_L10": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_2->BYPASS_L11": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_3->BYPASS_L12": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_4->BYPASS_L13": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_5->BYPASS_L14": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_6->BYPASS_L15": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_7->IMUX_FT1_0": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_8->IMUX_FT1_1": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_9->IMUX_FT1_2": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_10->IMUX_FT1_3": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_11->BYPASS_L1": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_12->IMUX_FT1_4": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_13->IMUX_FT1_5": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_14->IMUX_FT1_6": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_15->IMUX_FT1_7": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_16->IMUX_FT1_8": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_16"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_17->IMUX_FT1_9": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_17"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_18->IMUX_FT1_10": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_18"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_19->IMUX_FT1_11": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_19"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_20->IMUX_FT1_12": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_20"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_21->IMUX_FT1_13": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_21"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_22->BYPASS_L2": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_22"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_23->IMUX_FT1_14": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_23"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_24->IMUX_FT1_15": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_24"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_25->IMUX_FT1_16": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_25"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_26->IMUX_FT1_17": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_26"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_27->IMUX_FT1_18": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_27"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_28->IMUX_FT1_19": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_28"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_29->IMUX_FT1_20": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_29"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_30->IMUX_FT1_21": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_30"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_31->IMUX_FT1_22": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_31"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_32->IMUX_FT1_23": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_32"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_33->BYPASS_L3": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_33"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_34->IMUX_FT1_24": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_34"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_35->IMUX_FT1_25": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_35"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_36->IMUX_FT1_26": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_36"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_37->IMUX_FT1_27": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_37"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_38->IMUX_FT1_28": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_38"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_39->IMUX_FT1_29": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_39"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_40->IMUX_FT1_30": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_40"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_41->IMUX_FT1_31": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_41"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_42->IMUX_FT1_32": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_42"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_43->IMUX_FT1_33": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_43"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_44->BYPASS_L4": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_44"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_45->IMUX_FT1_34": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_45"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_46->IMUX_FT1_35": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_46"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_47->IMUX_FT1_36": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_47"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_48->IMUX_FT1_37": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_48"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_49->IMUX_FT1_38": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_49"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_50->IMUX_FT1_39": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_50"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_51->IMUX_FT1_40": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_51"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_52->IMUX_FT1_41": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_52"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_53->IMUX_FT1_42": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_53"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_54->IMUX_FT1_43": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_54"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_55->BYPASS_L5": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_55"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_56->IMUX_FT1_44": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_56"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_57->IMUX_FT1_45": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_57"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_58->IMUX_FT1_46": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_58"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_59->IMUX_FT1_47": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_59"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_60->BYPASS_L6": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_60"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_61->BYPASS_L7": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_61"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_62->BYPASS_L8": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_62"
+        },
+        "INT_INTF_LEFT_TERM_PSS.DELAYWIRE_XIPHY_63->BYPASS_L9": {
+            "can_invert": "0",
+            "dst_wire": "BYPASS_L9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "DELAYWIRE_XIPHY_63"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_0->>DELAYWIRE_XIPHY_7": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_0"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_0->>IMUX_FT1_0": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_0"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_1->>DELAYWIRE_XIPHY_8": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_1->>IMUX_FT1_1": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_2->>DELAYWIRE_XIPHY_9": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_2->>IMUX_FT1_2": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_3->>DELAYWIRE_XIPHY_10": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_3->>IMUX_FT1_3": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_4->>DELAYWIRE_XIPHY_12": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_4->>IMUX_FT1_4": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_5->>DELAYWIRE_XIPHY_13": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_5->>IMUX_FT1_5": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_6->>DELAYWIRE_XIPHY_14": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_6->>IMUX_FT1_6": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_7->>DELAYWIRE_XIPHY_15": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_7->>IMUX_FT1_7": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_8->>DELAYWIRE_XIPHY_16": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_8->>IMUX_FT1_8": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_9->>DELAYWIRE_XIPHY_17": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_9->>IMUX_FT1_9": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_10->>DELAYWIRE_XIPHY_18": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_10->>IMUX_FT1_10": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_11->>DELAYWIRE_XIPHY_19": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_11->>IMUX_FT1_11": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_12->>DELAYWIRE_XIPHY_20": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_12->>IMUX_FT1_12": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_13->>DELAYWIRE_XIPHY_21": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_13->>IMUX_FT1_13": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_14->>DELAYWIRE_XIPHY_23": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_14->>IMUX_FT1_14": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_15->>DELAYWIRE_XIPHY_24": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_15->>IMUX_FT1_15": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_16->>DELAYWIRE_XIPHY_25": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_16"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_16->>IMUX_FT1_16": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_16"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_17->>DELAYWIRE_XIPHY_26": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_17"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_17->>IMUX_FT1_17": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_17"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_18->>DELAYWIRE_XIPHY_27": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_18"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_18->>IMUX_FT1_18": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_18"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_19->>DELAYWIRE_XIPHY_28": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_19"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_19->>IMUX_FT1_19": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_19"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_20->>DELAYWIRE_XIPHY_29": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_20"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_20->>IMUX_FT1_20": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_20"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_21->>DELAYWIRE_XIPHY_30": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_21"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_21->>IMUX_FT1_21": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_21"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_22->>DELAYWIRE_XIPHY_31": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_22"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_22->>IMUX_FT1_22": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_22"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_23->>DELAYWIRE_XIPHY_32": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_23"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_23->>IMUX_FT1_23": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_23"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_24->>DELAYWIRE_XIPHY_34": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_24"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_24->>IMUX_FT1_24": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_24"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_25->>DELAYWIRE_XIPHY_35": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_25"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_25->>IMUX_FT1_25": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_25"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_26->>DELAYWIRE_XIPHY_36": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_26"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_26->>IMUX_FT1_26": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_26"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_27->>DELAYWIRE_XIPHY_37": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_27"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_27->>IMUX_FT1_27": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_27"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_28->>DELAYWIRE_XIPHY_38": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_28"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_28->>IMUX_FT1_28": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_28"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_29->>DELAYWIRE_XIPHY_39": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_29"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_29->>IMUX_FT1_29": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_29"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_30->>DELAYWIRE_XIPHY_40": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_30"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_30->>IMUX_FT1_30": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_30"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_31->>DELAYWIRE_XIPHY_41": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_31"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_31->>IMUX_FT1_31": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_31"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_32->>DELAYWIRE_XIPHY_42": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_32"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_32->>IMUX_FT1_32": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_32",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_32"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_33->>DELAYWIRE_XIPHY_43": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_33"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_33->>IMUX_FT1_33": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_33",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_33"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_34->>DELAYWIRE_XIPHY_45": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_34"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_34->>IMUX_FT1_34": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_34",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_34"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_35->>DELAYWIRE_XIPHY_46": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_35"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_35->>IMUX_FT1_35": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_35",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_35"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_36->>DELAYWIRE_XIPHY_47": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_36"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_36->>IMUX_FT1_36": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_36",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_36"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_37->>DELAYWIRE_XIPHY_48": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_48",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_37"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_37->>IMUX_FT1_37": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_37",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_37"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_38->>DELAYWIRE_XIPHY_49": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_49",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_38"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_38->>IMUX_FT1_38": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_38",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_38"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_39->>DELAYWIRE_XIPHY_50": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_50",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_39"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_39->>IMUX_FT1_39": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_39",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_39"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_40->>DELAYWIRE_XIPHY_51": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_51",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_40"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_40->>IMUX_FT1_40": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_40",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_40"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_41->>DELAYWIRE_XIPHY_52": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_52",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_41"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_41->>IMUX_FT1_41": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_41",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_41"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_42->>DELAYWIRE_XIPHY_53": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_53",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_42"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_42->>IMUX_FT1_42": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_42",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_42"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_43->>DELAYWIRE_XIPHY_54": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_54",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_43"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_43->>IMUX_FT1_43": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_43",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_43"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_44->>DELAYWIRE_XIPHY_56": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_56",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_44"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_44->>IMUX_FT1_44": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_44",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_44"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_45->>DELAYWIRE_XIPHY_57": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_57",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_45"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_45->>IMUX_FT1_45": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_45",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_45"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_46->>DELAYWIRE_XIPHY_58": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_58",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_46"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_46->>IMUX_FT1_46": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_46",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_46"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_47->>DELAYWIRE_XIPHY_59": {
+            "can_invert": "0",
+            "dst_wire": "DELAYWIRE_XIPHY_59",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_47"
+        },
+        "INT_INTF_LEFT_TERM_PSS.IMUX_FT0_47->>IMUX_FT1_47": {
+            "can_invert": "0",
+            "dst_wire": "IMUX_FT1_47",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "IMUX_FT0_47"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L0->>LOGIC_OUTS_R0": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R0",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L0"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L1->>LOGIC_OUTS_R1": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R1",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L1"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L2->>LOGIC_OUTS_R2": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R2",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L2"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L3->>LOGIC_OUTS_R3": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R3",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L3"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L4->>LOGIC_OUTS_R4": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R4",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L4"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L5->>LOGIC_OUTS_R5": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R5",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L5"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L6->>LOGIC_OUTS_R6": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R6",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L6"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L7->>LOGIC_OUTS_R7": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R7",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L7"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L8->>LOGIC_OUTS_R8": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R8",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L8"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L9->>LOGIC_OUTS_R9": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R9",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L9"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L10->>LOGIC_OUTS_R10": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R10",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L10"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L11->>LOGIC_OUTS_R11": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R11",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L11"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L12->>LOGIC_OUTS_R12": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R12",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L12"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L13->>LOGIC_OUTS_R13": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R13",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L13"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L14->>LOGIC_OUTS_R14": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R14",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L14"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L15->>LOGIC_OUTS_R15": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R15",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L15"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L16->>LOGIC_OUTS_R16": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R16",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L16"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L17->>LOGIC_OUTS_R17": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R17",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L17"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L18->>LOGIC_OUTS_R18": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R18",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L18"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L19->>LOGIC_OUTS_R19": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R19",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L19"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L20->>LOGIC_OUTS_R20": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R20",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L20"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L21->>LOGIC_OUTS_R21": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R21",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L21"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L22->>LOGIC_OUTS_R22": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R22",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L22"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L23->>LOGIC_OUTS_R23": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R23",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L23"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L24->>LOGIC_OUTS_R24": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R24",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L24"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L25->>LOGIC_OUTS_R25": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R25",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L25"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L26->>LOGIC_OUTS_R26": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R26",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L26"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L27->>LOGIC_OUTS_R27": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R27",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L27"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L28->>LOGIC_OUTS_R28": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R28",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L28"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L29->>LOGIC_OUTS_R29": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R29",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L29"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L30->>LOGIC_OUTS_R30": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R30",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L30"
+        },
+        "INT_INTF_LEFT_TERM_PSS.LOGIC_OUTS_L31->>LOGIC_OUTS_R31": {
+            "can_invert": "0",
+            "dst_wire": "LOGIC_OUTS_R31",
+            "is_directional": "1",
+            "is_pseudo": "0",
+            "src_wire": "LOGIC_OUTS_L31"
+        }
+    },
+    "sites": [],
+    "tile_type": "INT_INTF_LEFT_TERM_PSS",
+    "wires": {
+        "BYPASS_L0": null,
+        "BYPASS_L1": null,
+        "BYPASS_L2": null,
+        "BYPASS_L3": null,
+        "BYPASS_L4": null,
+        "BYPASS_L5": null,
+        "BYPASS_L6": null,
+        "BYPASS_L7": null,
+        "BYPASS_L8": null,
+        "BYPASS_L9": null,
+        "BYPASS_L10": null,
+        "BYPASS_L11": null,
+        "BYPASS_L12": null,
+        "BYPASS_L13": null,
+        "BYPASS_L14": null,
+        "BYPASS_L15": null,
+        "BYPASS_R0": null,
+        "BYPASS_R1": null,
+        "BYPASS_R2": null,
+        "BYPASS_R3": null,
+        "BYPASS_R4": null,
+        "BYPASS_R5": null,
+        "BYPASS_R6": null,
+        "BYPASS_R7": null,
+        "BYPASS_R8": null,
+        "BYPASS_R9": null,
+        "BYPASS_R10": null,
+        "BYPASS_R11": null,
+        "BYPASS_R12": null,
+        "BYPASS_R13": null,
+        "BYPASS_R14": null,
+        "BYPASS_R15": null,
+        "CTRL_R0": null,
+        "CTRL_R1": null,
+        "CTRL_R2": null,
+        "CTRL_R3": null,
+        "CTRL_R4": null,
+        "CTRL_R5": null,
+        "CTRL_R6": null,
+        "CTRL_R7": null,
+        "DELAYWIRE_XIPHY": null,
+        "DELAYWIRE_XIPHY_1": null,
+        "DELAYWIRE_XIPHY_2": null,
+        "DELAYWIRE_XIPHY_3": null,
+        "DELAYWIRE_XIPHY_4": null,
+        "DELAYWIRE_XIPHY_5": null,
+        "DELAYWIRE_XIPHY_6": null,
+        "DELAYWIRE_XIPHY_7": null,
+        "DELAYWIRE_XIPHY_8": null,
+        "DELAYWIRE_XIPHY_9": null,
+        "DELAYWIRE_XIPHY_10": null,
+        "DELAYWIRE_XIPHY_11": null,
+        "DELAYWIRE_XIPHY_12": null,
+        "DELAYWIRE_XIPHY_13": null,
+        "DELAYWIRE_XIPHY_14": null,
+        "DELAYWIRE_XIPHY_15": null,
+        "DELAYWIRE_XIPHY_16": null,
+        "DELAYWIRE_XIPHY_17": null,
+        "DELAYWIRE_XIPHY_18": null,
+        "DELAYWIRE_XIPHY_19": null,
+        "DELAYWIRE_XIPHY_20": null,
+        "DELAYWIRE_XIPHY_21": null,
+        "DELAYWIRE_XIPHY_22": null,
+        "DELAYWIRE_XIPHY_23": null,
+        "DELAYWIRE_XIPHY_24": null,
+        "DELAYWIRE_XIPHY_25": null,
+        "DELAYWIRE_XIPHY_26": null,
+        "DELAYWIRE_XIPHY_27": null,
+        "DELAYWIRE_XIPHY_28": null,
+        "DELAYWIRE_XIPHY_29": null,
+        "DELAYWIRE_XIPHY_30": null,
+        "DELAYWIRE_XIPHY_31": null,
+        "DELAYWIRE_XIPHY_32": null,
+        "DELAYWIRE_XIPHY_33": null,
+        "DELAYWIRE_XIPHY_34": null,
+        "DELAYWIRE_XIPHY_35": null,
+        "DELAYWIRE_XIPHY_36": null,
+        "DELAYWIRE_XIPHY_37": null,
+        "DELAYWIRE_XIPHY_38": null,
+        "DELAYWIRE_XIPHY_39": null,
+        "DELAYWIRE_XIPHY_40": null,
+        "DELAYWIRE_XIPHY_41": null,
+        "DELAYWIRE_XIPHY_42": null,
+        "DELAYWIRE_XIPHY_43": null,
+        "DELAYWIRE_XIPHY_44": null,
+        "DELAYWIRE_XIPHY_45": null,
+        "DELAYWIRE_XIPHY_46": null,
+        "DELAYWIRE_XIPHY_47": null,
+        "DELAYWIRE_XIPHY_48": null,
+        "DELAYWIRE_XIPHY_49": null,
+        "DELAYWIRE_XIPHY_50": null,
+        "DELAYWIRE_XIPHY_51": null,
+        "DELAYWIRE_XIPHY_52": null,
+        "DELAYWIRE_XIPHY_53": null,
+        "DELAYWIRE_XIPHY_54": null,
+        "DELAYWIRE_XIPHY_55": null,
+        "DELAYWIRE_XIPHY_56": null,
+        "DELAYWIRE_XIPHY_57": null,
+        "DELAYWIRE_XIPHY_58": null,
+        "DELAYWIRE_XIPHY_59": null,
+        "DELAYWIRE_XIPHY_60": null,
+        "DELAYWIRE_XIPHY_61": null,
+        "DELAYWIRE_XIPHY_62": null,
+        "DELAYWIRE_XIPHY_63": null,
+        "IMUX_FT0_0": null,
+        "IMUX_FT0_1": null,
+        "IMUX_FT0_2": null,
+        "IMUX_FT0_3": null,
+        "IMUX_FT0_4": null,
+        "IMUX_FT0_5": null,
+        "IMUX_FT0_6": null,
+        "IMUX_FT0_7": null,
+        "IMUX_FT0_8": null,
+        "IMUX_FT0_9": null,
+        "IMUX_FT0_10": null,
+        "IMUX_FT0_11": null,
+        "IMUX_FT0_12": null,
+        "IMUX_FT0_13": null,
+        "IMUX_FT0_14": null,
+        "IMUX_FT0_15": null,
+        "IMUX_FT0_16": null,
+        "IMUX_FT0_17": null,
+        "IMUX_FT0_18": null,
+        "IMUX_FT0_19": null,
+        "IMUX_FT0_20": null,
+        "IMUX_FT0_21": null,
+        "IMUX_FT0_22": null,
+        "IMUX_FT0_23": null,
+        "IMUX_FT0_24": null,
+        "IMUX_FT0_25": null,
+        "IMUX_FT0_26": null,
+        "IMUX_FT0_27": null,
+        "IMUX_FT0_28": null,
+        "IMUX_FT0_29": null,
+        "IMUX_FT0_30": null,
+        "IMUX_FT0_31": null,
+        "IMUX_FT0_32": null,
+        "IMUX_FT0_33": null,
+        "IMUX_FT0_34": null,
+        "IMUX_FT0_35": null,
+        "IMUX_FT0_36": null,
+        "IMUX_FT0_37": null,
+        "IMUX_FT0_38": null,
+        "IMUX_FT0_39": null,
+        "IMUX_FT0_40": null,
+        "IMUX_FT0_41": null,
+        "IMUX_FT0_42": null,
+        "IMUX_FT0_43": null,
+        "IMUX_FT0_44": null,
+        "IMUX_FT0_45": null,
+        "IMUX_FT0_46": null,
+        "IMUX_FT0_47": null,
+        "IMUX_FT1_0": null,
+        "IMUX_FT1_1": null,
+        "IMUX_FT1_2": null,
+        "IMUX_FT1_3": null,
+        "IMUX_FT1_4": null,
+        "IMUX_FT1_5": null,
+        "IMUX_FT1_6": null,
+        "IMUX_FT1_7": null,
+        "IMUX_FT1_8": null,
+        "IMUX_FT1_9": null,
+        "IMUX_FT1_10": null,
+        "IMUX_FT1_11": null,
+        "IMUX_FT1_12": null,
+        "IMUX_FT1_13": null,
+        "IMUX_FT1_14": null,
+        "IMUX_FT1_15": null,
+        "IMUX_FT1_16": null,
+        "IMUX_FT1_17": null,
+        "IMUX_FT1_18": null,
+        "IMUX_FT1_19": null,
+        "IMUX_FT1_20": null,
+        "IMUX_FT1_21": null,
+        "IMUX_FT1_22": null,
+        "IMUX_FT1_23": null,
+        "IMUX_FT1_24": null,
+        "IMUX_FT1_25": null,
+        "IMUX_FT1_26": null,
+        "IMUX_FT1_27": null,
+        "IMUX_FT1_28": null,
+        "IMUX_FT1_29": null,
+        "IMUX_FT1_30": null,
+        "IMUX_FT1_31": null,
+        "IMUX_FT1_32": null,
+        "IMUX_FT1_33": null,
+        "IMUX_FT1_34": null,
+        "IMUX_FT1_35": null,
+        "IMUX_FT1_36": null,
+        "IMUX_FT1_37": null,
+        "IMUX_FT1_38": null,
+        "IMUX_FT1_39": null,
+        "IMUX_FT1_40": null,
+        "IMUX_FT1_41": null,
+        "IMUX_FT1_42": null,
+        "IMUX_FT1_43": null,
+        "IMUX_FT1_44": null,
+        "IMUX_FT1_45": null,
+        "IMUX_FT1_46": null,
+        "IMUX_FT1_47": null,
+        "IO_TO_CTR_FT0_0": null,
+        "IO_TO_CTR_FT0_1": null,
+        "IO_TO_CTR_FT0_2": null,
+        "IO_TO_CTR_FT0_3": null,
+        "LOGIC_OUTS_L0": null,
+        "LOGIC_OUTS_L1": null,
+        "LOGIC_OUTS_L2": null,
+        "LOGIC_OUTS_L3": null,
+        "LOGIC_OUTS_L4": null,
+        "LOGIC_OUTS_L5": null,
+        "LOGIC_OUTS_L6": null,
+        "LOGIC_OUTS_L7": null,
+        "LOGIC_OUTS_L8": null,
+        "LOGIC_OUTS_L9": null,
+        "LOGIC_OUTS_L10": null,
+        "LOGIC_OUTS_L11": null,
+        "LOGIC_OUTS_L12": null,
+        "LOGIC_OUTS_L13": null,
+        "LOGIC_OUTS_L14": null,
+        "LOGIC_OUTS_L15": null,
+        "LOGIC_OUTS_L16": null,
+        "LOGIC_OUTS_L17": null,
+        "LOGIC_OUTS_L18": null,
+        "LOGIC_OUTS_L19": null,
+        "LOGIC_OUTS_L20": null,
+        "LOGIC_OUTS_L21": null,
+        "LOGIC_OUTS_L22": null,
+        "LOGIC_OUTS_L23": null,
+        "LOGIC_OUTS_L24": null,
+        "LOGIC_OUTS_L25": null,
+        "LOGIC_OUTS_L26": null,
+        "LOGIC_OUTS_L27": null,
+        "LOGIC_OUTS_L28": null,
+        "LOGIC_OUTS_L29": null,
+        "LOGIC_OUTS_L30": null,
+        "LOGIC_OUTS_L31": null,
+        "LOGIC_OUTS_R0": null,
+        "LOGIC_OUTS_R1": null,
+        "LOGIC_OUTS_R2": null,
+        "LOGIC_OUTS_R3": null,
+        "LOGIC_OUTS_R4": null,
+        "LOGIC_OUTS_R5": null,
+        "LOGIC_OUTS_R6": null,
+        "LOGIC_OUTS_R7": null,
+        "LOGIC_OUTS_R8": null,
+        "LOGIC_OUTS_R9": null,
+        "LOGIC_OUTS_R10": null,
+        "LOGIC_OUTS_R11": null,
+        "LOGIC_OUTS_R12": null,
+        "LOGIC_OUTS_R13": null,
+        "LOGIC_OUTS_R14": null,
+        "LOGIC_OUTS_R15": null,
+        "LOGIC_OUTS_R16": null,
+        "LOGIC_OUTS_R17": null,
+        "LOGIC_OUTS_R18": null,
+        "LOGIC_OUTS_R19": null,
+        "LOGIC_OUTS_R20": null,
+        "LOGIC_OUTS_R21": null,
+        "LOGIC_OUTS_R22": null,
+        "LOGIC_OUTS_R23": null,
+        "LOGIC_OUTS_R24": null,
+        "LOGIC_OUTS_R25": null,
+        "LOGIC_OUTS_R26": null,
+        "LOGIC_OUTS_R27": null,
+        "LOGIC_OUTS_R28": null,
+        "LOGIC_OUTS_R29": null,
+        "LOGIC_OUTS_R30": null,
+        "LOGIC_OUTS_R31": null,
+        "WESTBUSOUT_FT1_0": null,
+        "WESTBUSOUT_FT1_1": null,
+        "WESTBUSOUT_FT1_2": null,
+        "WESTBUSOUT_FT1_3": null,
+        "WESTBUSOUT_FT1_4": null,
+        "WESTBUSOUT_FT1_5": null,
+        "WESTBUSOUT_FT1_6": null,
+        "WESTBUSOUT_FT1_7": null,
+        "WESTBUSOUT_FT1_8": null,
+        "WESTBUSOUT_FT1_9": null,
+        "WESTBUSOUT_FT1_10": null,
+        "WESTBUSOUT_FT1_11": null,
+        "WESTBUSOUT_FT1_12": null,
+        "WESTBUSOUT_FT1_13": null,
+        "WESTBUSOUT_FT1_14": null,
+        "WESTBUSOUT_FT1_15": null,
+        "WESTBUSOUT_FT1_16": null,
+        "WESTBUSOUT_FT1_17": null,
+        "WESTBUSOUT_FT1_18": null,
+        "WESTBUSOUT_FT1_19": null,
+        "WESTBUSOUT_FT1_20": null,
+        "WESTBUSOUT_FT1_21": null,
+        "WESTBUSOUT_FT1_22": null,
+        "WESTBUSOUT_FT1_23": null,
+        "WESTBUSOUT_FT1_24": null,
+        "WESTBUSOUT_FT1_25": null,
+        "WESTBUSOUT_FT1_26": null,
+        "WESTBUSOUT_FT1_27": null,
+        "WESTBUSOUT_FT1_28": null,
+        "WESTBUSOUT_FT1_29": null,
+        "WESTBUSOUT_FT1_30": null,
+        "WESTBUSOUT_FT1_31": null,
+        "WESTBUSOUT_FT1_32": null,
+        "WESTBUSOUT_FT1_33": null,
+        "WESTBUSOUT_FT1_34": null,
+        "WESTBUSOUT_FT1_35": null,
+        "WESTBUSOUT_FT1_36": null,
+        "WESTBUSOUT_FT1_37": null,
+        "WESTBUSOUT_FT1_38": null,
+        "WESTBUSOUT_FT1_39": null,
+        "WESTBUSOUT_FT1_40": null,
+        "WESTBUSOUT_FT1_41": null,
+        "WESTBUSOUT_FT1_42": null,
+        "WESTBUSOUT_FT1_43": null,
+        "WESTBUSOUT_FT1_44": null,
+        "WESTBUSOUT_FT1_45": null,
+        "WESTBUSOUT_FT1_46": null,
+        "WESTBUSOUT_FT1_47": null,
+        "WESTBUSOUT_FT1_48": null,
+        "WESTBUSOUT_FT1_49": null,
+        "WESTBUSOUT_FT1_50": null,
+        "WESTBUSOUT_FT1_51": null,
+        "WESTBUSOUT_FT1_52": null,
+        "WESTBUSOUT_FT1_53": null,
+        "WESTBUSOUT_FT1_54": null,
+        "WESTBUSOUT_FT1_55": null,
+        "WESTBUSOUT_FT1_56": null,
+        "WESTBUSOUT_FT1_57": null,
+        "WESTBUSOUT_FT1_58": null,
+        "WESTBUSOUT_FT1_59": null,
+        "WESTBUSOUT_FT1_60": null,
+        "WESTBUSOUT_FT1_61": null,
+        "WESTBUSOUT_FT1_62": null,
+        "WESTBUSOUT_FT1_63": null,
+        "WESTBUSOUT_FT1_64": null,
+        "WESTBUSOUT_FT1_65": null,
+        "WESTBUSOUT_FT1_66": null,
+        "WESTBUSOUT_FT1_67": null,
+        "WESTBUSOUT_FT1_68": null,
+        "WESTBUSOUT_FT1_69": null,
+        "WESTBUSOUT_FT1_70": null,
+        "WESTBUSOUT_FT1_71": null,
+        "WESTBUSOUT_FT1_72": null,
+        "WESTBUSOUT_FT1_73": null,
+        "WESTBUSOUT_FT1_74": null,
+        "WESTBUSOUT_FT1_75": null,
+        "WESTBUSOUT_FT1_76": null,
+        "WESTBUSOUT_FT1_77": null,
+        "WESTBUSOUT_FT1_78": null,
+        "WESTBUSOUT_FT1_79": null,
+        "WESTBUSOUT_FT1_80": null,
+        "WESTBUSOUT_FT1_81": null,
+        "WESTBUSOUT_FT1_82": null,
+        "WESTBUSOUT_FT1_83": null,
+        "WESTBUSOUT_FT1_84": null,
+        "WESTBUSOUT_FT1_85": null,
+        "WESTBUSOUT_FT1_86": null,
+        "WESTBUSOUT_FT1_87": null,
+        "WESTBUSOUT_FT1_88": null,
+        "WESTBUSOUT_FT1_89": null,
+        "WESTBUSOUT_FT1_90": null,
+        "WESTBUSOUT_FT1_91": null,
+        "WESTBUSOUT_FT1_92": null,
+        "WESTBUSOUT_FT1_93": null,
+        "WESTBUSOUT_FT1_94": null,
+        "WESTBUSOUT_FT1_95": null,
+        "WESTBUSOUT_FT1_96": null,
+        "WESTBUSOUT_FT1_97": null,
+        "WESTBUSOUT_FT1_98": null,
+        "WESTBUSOUT_FT1_99": null,
+        "WESTBUSOUT_FT1_100": null,
+        "WESTBUSOUT_FT1_101": null,
+        "WESTBUSOUT_FT1_102": null,
+        "WESTBUSOUT_FT1_103": null,
+        "XIL_UCONN_IN0": null,
+        "XIL_UCONN_IN1": null
+    }
+}

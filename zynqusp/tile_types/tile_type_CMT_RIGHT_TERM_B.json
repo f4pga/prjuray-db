@@ -1,0 +1,31 @@
+{
+    "pips": {},
+    "sites": [],
+    "tile_type": "CMT_RIGHT_TERM_B",
+    "wires": {
+        "CLK_VDISTR_BOT0": null,
+        "CLK_VDISTR_BOT1": null,
+        "CLK_VDISTR_BOT2": null,
+        "CLK_VDISTR_BOT3": null,
+        "CLK_VDISTR_BOT4": null,
+        "CLK_VDISTR_BOT5": null,
+        "CLK_VDISTR_BOT6": null,
+        "CLK_VDISTR_BOT7": null,
+        "CLK_VDISTR_BOT8": null,
+        "CLK_VDISTR_BOT9": null,
+        "CLK_VDISTR_BOT10": null,
+        "CLK_VDISTR_BOT11": null,
+        "CLK_VDISTR_BOT12": null,
+        "CLK_VDISTR_BOT13": null,
+        "CLK_VDISTR_BOT14": null,
+        "CLK_VDISTR_BOT15": null,
+        "CLK_VDISTR_BOT16": null,
+        "CLK_VDISTR_BOT17": null,
+        "CLK_VDISTR_BOT18": null,
+        "CLK_VDISTR_BOT19": null,
+        "CLK_VDISTR_BOT20": null,
+        "CLK_VDISTR_BOT21": null,
+        "CLK_VDISTR_BOT22": null,
+        "CLK_VDISTR_BOT23": null
+    }
+}

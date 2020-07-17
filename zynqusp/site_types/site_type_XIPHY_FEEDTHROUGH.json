@@ -1,0 +1,648 @@
+{
+    "site_pins": {
+        "CLB2PHY_CTRL_CLK_LOW": {
+            "direction": "IN"
+        },
+        "CLB2PHY_CTRL_CLK_UPP": {
+            "direction": "IN"
+        },
+        "CLB2PHY_CTRL_RST_LOW_SMX": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_CTRL_RST_UPP_SMX": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_DBG_CLK_STOP_FLG_DLY_OUT": {
+            "direction": "IN"
+        },
+        "CLB2PHY_DBG_CLK_STOP_FLG_OUT": {
+            "direction": "IN"
+        },
+        "CLB2PHY_DBG_CT_START_EN": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK4": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK5": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK6": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK7": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK8": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK9": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK10": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK11": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK12": {
+            "direction": "IN"
+        },
+        "CLB2PHY_FIFO_CLK_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX2": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX3": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX4": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX5": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX6": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX7": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX8": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX9": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX10": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX11": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_FIFO_CLK_SMX12": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX2": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX3": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX4": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX5": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX6": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX7": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX8": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX9": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX10": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX11": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_IDELAY_RST_SMX12": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX2": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX3": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX4": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX5": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX6": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX7": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX8": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX9": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX10": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX11": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_ODELAY_RST_SMX12": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX2": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX3": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX4": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX5": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX6": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX7": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX8": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX9": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX10": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX11": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_RXBIT_RST_SMX12": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_SCAN_CLK_DIV2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_CLK_DIV4": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_CLK_SDR": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_EN_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN4": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN5": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN6": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_IN7": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_MODE_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_SCAN_RST_MASK_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_DIV2_CLK_SEL_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_DIV4_CLK_SEL_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_SDR_CLK_SEL_B": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_SPARE_B0": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_SPARE_B1": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_SPARE_B2": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TEST_SPARE_B3": {
+            "direction": "IN"
+        },
+        "CLB2PHY_TRISTATE_ODELAY_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TRISTATE_ODELAY_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX2": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX3": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX4": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX5": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX6": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX7": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX8": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX9": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX10": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX11": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_RST_SMX12": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_TRI_RST_SMX0": {
+            "direction": "OUT"
+        },
+        "CLB2PHY_TXBIT_TRI_RST_SMX1": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW0": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW1": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW2": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW3": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW4": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW5": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW6": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX0": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX1": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX2": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX3": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX4": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_LOW_SMX5": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP0": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP1": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP2": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP3": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP4": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP5": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP6": {
+            "direction": "IN"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX0": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX1": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX2": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX3": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX4": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX5": {
+            "direction": "OUT"
+        },
+        "CTL2BS_REFCLK_EN_UPP_SMX6": {
+            "direction": "OUT"
+        },
+        "CTRL_RST_LOW": {
+            "direction": "IN"
+        },
+        "CTRL_RST_UPP": {
+            "direction": "IN"
+        },
+        "DIV_CLK_OUT_LOW": {
+            "direction": "IN"
+        },
+        "DIV_CLK_OUT_UPP": {
+            "direction": "IN"
+        },
+        "IDELAY_RST0": {
+            "direction": "IN"
+        },
+        "IDELAY_RST1": {
+            "direction": "IN"
+        },
+        "IDELAY_RST2": {
+            "direction": "IN"
+        },
+        "IDELAY_RST3": {
+            "direction": "IN"
+        },
+        "IDELAY_RST4": {
+            "direction": "IN"
+        },
+        "IDELAY_RST5": {
+            "direction": "IN"
+        },
+        "IDELAY_RST6": {
+            "direction": "IN"
+        },
+        "IDELAY_RST7": {
+            "direction": "IN"
+        },
+        "IDELAY_RST8": {
+            "direction": "IN"
+        },
+        "IDELAY_RST9": {
+            "direction": "IN"
+        },
+        "IDELAY_RST10": {
+            "direction": "IN"
+        },
+        "IDELAY_RST11": {
+            "direction": "IN"
+        },
+        "IDELAY_RST12": {
+            "direction": "IN"
+        },
+        "ODELAY_RST0": {
+            "direction": "IN"
+        },
+        "ODELAY_RST1": {
+            "direction": "IN"
+        },
+        "ODELAY_RST2": {
+            "direction": "IN"
+        },
+        "ODELAY_RST3": {
+            "direction": "IN"
+        },
+        "ODELAY_RST4": {
+            "direction": "IN"
+        },
+        "ODELAY_RST5": {
+            "direction": "IN"
+        },
+        "ODELAY_RST6": {
+            "direction": "IN"
+        },
+        "ODELAY_RST7": {
+            "direction": "IN"
+        },
+        "ODELAY_RST8": {
+            "direction": "IN"
+        },
+        "ODELAY_RST9": {
+            "direction": "IN"
+        },
+        "ODELAY_RST10": {
+            "direction": "IN"
+        },
+        "ODELAY_RST11": {
+            "direction": "IN"
+        },
+        "ODELAY_RST12": {
+            "direction": "IN"
+        },
+        "PHY2CLB_DBG_CLK_STOP_FLG_DLY_OUT": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_DBG_CLK_STOP_FLG_OUT": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_DBG_CLK_STOP_OUT": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT0": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT1": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT2": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT3": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT4": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT5": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT6": {
+            "direction": "OUT"
+        },
+        "PHY2CLB_SCAN_OUT7": {
+            "direction": "OUT"
+        },
+        "RCLK2PHY_CLKDR": {
+            "direction": "IN"
+        },
+        "RCLK2PHY_SHIFTDR": {
+            "direction": "IN"
+        },
+        "RXBIT_RST0": {
+            "direction": "IN"
+        },
+        "RXBIT_RST1": {
+            "direction": "IN"
+        },
+        "RXBIT_RST2": {
+            "direction": "IN"
+        },
+        "RXBIT_RST3": {
+            "direction": "IN"
+        },
+        "RXBIT_RST4": {
+            "direction": "IN"
+        },
+        "RXBIT_RST5": {
+            "direction": "IN"
+        },
+        "RXBIT_RST6": {
+            "direction": "IN"
+        },
+        "RXBIT_RST7": {
+            "direction": "IN"
+        },
+        "RXBIT_RST8": {
+            "direction": "IN"
+        },
+        "RXBIT_RST9": {
+            "direction": "IN"
+        },
+        "RXBIT_RST10": {
+            "direction": "IN"
+        },
+        "RXBIT_RST11": {
+            "direction": "IN"
+        },
+        "RXBIT_RST12": {
+            "direction": "IN"
+        },
+        "SCAN_INT_LOWER": {
+            "direction": "OUT"
+        },
+        "SCAN_INT_UPPER": {
+            "direction": "OUT"
+        },
+        "TRISTATE_ODELAY_RST0": {
+            "direction": "IN"
+        },
+        "TRISTATE_ODELAY_RST1": {
+            "direction": "IN"
+        },
+        "TXBIT_RST0": {
+            "direction": "IN"
+        },
+        "TXBIT_RST1": {
+            "direction": "IN"
+        },
+        "TXBIT_RST2": {
+            "direction": "IN"
+        },
+        "TXBIT_RST3": {
+            "direction": "IN"
+        },
+        "TXBIT_RST4": {
+            "direction": "IN"
+        },
+        "TXBIT_RST5": {
+            "direction": "IN"
+        },
+        "TXBIT_RST6": {
+            "direction": "IN"
+        },
+        "TXBIT_RST7": {
+            "direction": "IN"
+        },
+        "TXBIT_RST8": {
+            "direction": "IN"
+        },
+        "TXBIT_RST9": {
+            "direction": "IN"
+        },
+        "TXBIT_RST10": {
+            "direction": "IN"
+        },
+        "TXBIT_RST11": {
+            "direction": "IN"
+        },
+        "TXBIT_RST12": {
+            "direction": "IN"
+        },
+        "TXBIT_TRI_RST0": {
+            "direction": "IN"
+        },
+        "TXBIT_TRI_RST1": {
+            "direction": "IN"
+        },
+        "XIPHY_CLK_STOP_CTRL_LOW": {
+            "direction": "OUT"
+        },
+        "XIPHY_CLK_STOP_CTRL_UPP": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "XIPHY_FEEDTHROUGH"
+}

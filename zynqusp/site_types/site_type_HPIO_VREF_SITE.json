@@ -1,0 +1,54 @@
+{
+    "site_pins": {
+        "FABRIC_VREF1_TUNE0": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE1": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE2": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE3": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE4": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE5": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF1_TUNE6": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE0": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE1": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE2": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE3": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE4": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE5": {
+            "direction": "IN"
+        },
+        "FABRIC_VREF2_TUNE6": {
+            "direction": "IN"
+        },
+        "VREF1": {
+            "direction": "OUT"
+        },
+        "VREF2": {
+            "direction": "OUT"
+        }
+    },
+    "site_pips": {},
+    "type": "HPIO_VREF_SITE"
+}

@@ -1,0 +1,66 @@
+{
+    "site_pins": {
+        "CE0_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "CE1_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "CLK_I0": {
+            "direction": "IN"
+        },
+        "CLK_I1": {
+            "direction": "IN"
+        },
+        "CLK_OUT": {
+            "direction": "OUT"
+        },
+        "IGNORE0_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "IGNORE1_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "SEL0_PRE_OPTINV": {
+            "direction": "IN"
+        },
+        "SEL1_PRE_OPTINV": {
+            "direction": "IN"
+        }
+    },
+    "site_pips": {
+        "CE0INV:CE0_PREINV": {
+            "from_pin": "CE0_PREINV",
+            "to_pin": "CE0"
+        },
+        "CE1INV:CE1_PREINV": {
+            "from_pin": "CE1_PREINV",
+            "to_pin": "CE1"
+        },
+        "I0INV:I0_PREINV": {
+            "from_pin": "I0_PREINV",
+            "to_pin": "I0"
+        },
+        "I1INV:I0_PREINV": {
+            "from_pin": "I0_PREINV",
+            "to_pin": "I0"
+        },
+        "IGNORE0INV:IGNORE0_PREINV": {
+            "from_pin": "IGNORE0_PREINV",
+            "to_pin": "IGNORE0"
+        },
+        "IGNORE1NV:CKING1_PREINV": {
+            "from_pin": "CKING1_PREINV",
+            "to_pin": "CKING1"
+        },
+        "SEL0INV:SEL0_PREINV": {
+            "from_pin": "SEL0_PREINV",
+            "to_pin": "SEL0"
+        },
+        "SEL1INV:SEL1_PREINV": {
+            "from_pin": "SEL1_PREINV",
+            "to_pin": "SEL1"
+        }
+    },
+    "type": "BUFGCTRL"
+}
