@@ -661,12 +661,12 @@ CLEM_R.OUTMUXH.D5 origin:014-cle-spec !13_42 !13_43 !14_42 !15_42 12_42
 CLEM_R.OUTMUXH.D6 origin:014-cle-spec !12_42 !13_42 !13_43 !15_42 14_42
 CLEM_R.OUTMUXH.F7F8 origin:014-cle-spec !12_42 !13_42 !14_42 !15_42 13_43
 CLEM_R.PIP.CLE_CLE_M_SITE_0_CIN_PIN.CLE_CLE_M_SITE_0_CIN origin:014-cle-spec 08_16
-CLEM_R.WA7USED.0 origin:014-cle-spec !08_23
-CLEM_R.WA7USED.1 origin:014-cle-spec 08_23
-CLEM_R.WA8USED.0 origin:014-cle-spec !11_22
-CLEM_R.WA8USED.1 origin:014-cle-spec 11_22
-CLEM_R.WA9USED.0 origin:014-cle-spec !09_22
-CLEM_R.WA9USED.1 origin:014-cle-spec 09_22
+CLEM_R.WA7USED.V0 origin:014-cle-spec !08_23
+CLEM_R.WA7USED.V1 origin:014-cle-spec 08_23
+CLEM_R.WA8USED.V0 origin:014-cle-spec !11_22
+CLEM_R.WA8USED.V1 origin:014-cle-spec 11_22
+CLEM_R.WA9USED.V0 origin:014-cle-spec !09_22
+CLEM_R.WA9USED.V1 origin:014-cle-spec 09_22
 CLEM_R.ABCDFF2.CEUSED.V0 origin:014-cle-spec !14_19
 CLEM_R.ABCDFF2.CEUSED.V1 origin:014-cle-spec 14_19
 CLEM_R.ABCDFF2.SRUSED.V0 origin:014-cle-spec !15_17

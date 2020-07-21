@@ -37,24 +37,20 @@ These files are released under the very permissive [CC0 1.0 Universal](COPYING).
 
 # Details
 
-Last updated on Fri Jul 17 01:49:50 UTC 2020 (2020-07-17T01:49:50+00:00).
+Last updated on Tue Jul 21 04:12:10 UTC 2020 (2020-07-21T04:12:10+00:00).
 
-Created using [Project U-Ray](https://github.com/SymbiFlow/prjuray) version [3f57362](https://github.com/SymbiFlow/prjuray/commit/3f5736237309e0670b4351f39fad8b4bd9cb6dd0).
+Created using [Project U-Ray](https://github.com/SymbiFlow/prjuray) version [fa205c0](https://github.com/SymbiFlow/prjuray/commit/fa205c0d5bcebb4a123ce99cfb7b1cfca719af91).
 
 Latest commit was;
 ```
-commit 3f5736237309e0670b4351f39fad8b4bd9cb6dd0
-Author: Tim 'mithro' Ansell <me@mith.ro>
-Date:   Tue Jan 7 10:18:37 2020 -0700
+commit fa205c0d5bcebb4a123ce99cfb7b1cfca719af91
+Merge: 4844162 0191d01
+Author: litghost <537074+litghost@users.noreply.github.com>
+Date:   Mon Jul 20 13:01:33 2020 -0700
 
-    Initial Project U-Ray code.
+    Merge pull request #18 from SymbiFlow/add_part_package_pins
     
-    Signed-off-by: Tomasz Michalak <tmichalak@antmicro.com>
-    Signed-off-by: Piotr Binkowski <pbinkowski@antmicro.com>
-    Signed-off-by: Alessandro Comodi <acomodi@antmicro.com>
-    Signed-off-by: Keith Rothman <537074+litghost@users.noreply.github.com>
-    Signed-off-by: Maciej Kurc <mkurc@antmicro.com>
-    Signed-off-by: Tim 'mithro' Ansell <tansell@google.com>
+    Add package pins when getting extra part data.
 ```
 
 
@@ -63,7 +59,7 @@ Date:   Tue Jan 7 10:18:37 2020 -0700
 
 ### Settings
 
-Created using following [settings/zynqusp.sh (sha256: 2d664c78b8cd565ce92615ea02ec0cfd0e7e115f918f4347b3d684204c622ac2)](https://github.com/SymbiFlow/prjuray/blob/3f5736237309e0670b4351f39fad8b4bd9cb6dd0/settings/zynqusp.sh)
+Created using following [settings/zynqusp.sh (sha256: 2d664c78b8cd565ce92615ea02ec0cfd0e7e115f918f4347b3d684204c622ac2)](https://github.com/SymbiFlow/prjuray/blob/fa205c0d5bcebb4a123ce99cfb7b1cfca719af91/settings/zynqusp.sh)
 ```shell
 #!/bin/bash
 #
@@ -90,18 +86,18 @@ Results have checksums;
  * [`a9c04251d7d78827e7ed1dfae2b7be1edcf5302b923b5a224043cf8cd7f8459f  ./zynqusp/segbits_clel_l.origin_info.db`](./zynqusp/segbits_clel_l.origin_info.db)
  * [`f6564ea5b04f25dd77c22d41d45348af407243d84894689ecb4204df2ae52fa1  ./zynqusp/segbits_clel_r.db`](./zynqusp/segbits_clel_r.db)
  * [`1571cef21927800cddc70100ab08e61209145736b619d7692001a3304d7be754  ./zynqusp/segbits_clel_r.origin_info.db`](./zynqusp/segbits_clel_r.origin_info.db)
- * [`97b825a2005c221e2fdfdabb2a656dccef159291343dab979f888176ab068b81  ./zynqusp/segbits_clem.db`](./zynqusp/segbits_clem.db)
- * [`844daabe0fb08530b3a32115a35345f1c87f9fcb4e075355632b53c11ab9c479  ./zynqusp/segbits_clem.origin_info.db`](./zynqusp/segbits_clem.origin_info.db)
- * [`f93a90ec73ca93adcbe6896cefdf7d8d180abea8a840794fcb080549237590e8  ./zynqusp/segbits_clem_r.db`](./zynqusp/segbits_clem_r.db)
- * [`67e28edbc89b154d755a8b7d4f43758d8dd494189a9ce8efbebb0113fdbb1c37  ./zynqusp/segbits_clem_r.origin_info.db`](./zynqusp/segbits_clem_r.origin_info.db)
+ * [`c1d4c6c156df25d6dad6f2b62610e5733933222d7d046e935db90ed57bea2bb2  ./zynqusp/segbits_clem.db`](./zynqusp/segbits_clem.db)
+ * [`27a0ccaa65895a667104e8ecb0efab7d91987a14a9af78880766276eeba4a3dc  ./zynqusp/segbits_clem.origin_info.db`](./zynqusp/segbits_clem.origin_info.db)
+ * [`b8b40c13498ffe89c9c79d27cb64200fa3e4db1e789ded8b0709dd4400468bc7  ./zynqusp/segbits_clem_r.db`](./zynqusp/segbits_clem_r.db)
+ * [`41e75c70b73fa609aea24bed5e8778adb7aacf9a79a08cefcbe3583d058e054f  ./zynqusp/segbits_clem_r.origin_info.db`](./zynqusp/segbits_clem_r.origin_info.db)
  * [`01d806d0f55ba62ed2af2deafa5c2160f00477bc76ff7df2a5c69cac40ca4459  ./zynqusp/segbits_cmt_right.db`](./zynqusp/segbits_cmt_right.db)
  * [`f0eb87f07a05fe69addc5ba51e2715d1b967f13a6446a6e7f0be4a909285bdb8  ./zynqusp/segbits_cmt_right.origin_info.db`](./zynqusp/segbits_cmt_right.origin_info.db)
- * [`04ee8cc79eaa8a8aa70a5ddf40a93035343965aa722f07489574a5caa400f8fd  ./zynqusp/segbits_hdio_bot_right.db`](./zynqusp/segbits_hdio_bot_right.db)
- * [`b68ab78b6a693f3dd0a94e1dc2e9cea30cb3209bf583b91d78471f10e6cedc9e  ./zynqusp/segbits_hdio_bot_right.origin_info.db`](./zynqusp/segbits_hdio_bot_right.origin_info.db)
- * [`fa3acb03cf60ee22ef745d371d640944ef9a59631a5af14ee1e9b4a099e1d933  ./zynqusp/segbits_hdio_top_right.db`](./zynqusp/segbits_hdio_top_right.db)
- * [`924956c4b4e3c6a36bf53fa066e602efa98d366d4748f408a9470d0a49bbf769  ./zynqusp/segbits_hdio_top_right.origin_info.db`](./zynqusp/segbits_hdio_top_right.origin_info.db)
- * [`86f791f535914621301cfb7b8641ce5077a60fb7384c7eb73bf27941e3f38de1  ./zynqusp/segbits_hpio_right.db`](./zynqusp/segbits_hpio_right.db)
- * [`059e5ee0aac1ccaffea6617ae67ab8d72090172a2b8d495efef63899dc5c62cc  ./zynqusp/segbits_hpio_right.origin_info.db`](./zynqusp/segbits_hpio_right.origin_info.db)
+ * [`7dccae1fdba384c2ba39baf883ab61579857b5dc02e578bd65eb259d401654ba  ./zynqusp/segbits_hdio_bot_right.db`](./zynqusp/segbits_hdio_bot_right.db)
+ * [`57019d0dd3630949824becd7b92b2d3fb83738ba3e16d751e21f8739340a4d7f  ./zynqusp/segbits_hdio_bot_right.origin_info.db`](./zynqusp/segbits_hdio_bot_right.origin_info.db)
+ * [`447d033863858ec0d712625bbd8370f8b0243f8a96ea80d7979b89eba9cff28b  ./zynqusp/segbits_hdio_top_right.db`](./zynqusp/segbits_hdio_top_right.db)
+ * [`ae96512ab0b1744a2ed629d6512693b7f5b8c611f7cb10b2cb9df50d51edb950  ./zynqusp/segbits_hdio_top_right.origin_info.db`](./zynqusp/segbits_hdio_top_right.origin_info.db)
+ * [`e710286cf9f2abefef1dcae2414de65955bd5fe2dacf36eed72137e1128f9e84  ./zynqusp/segbits_hpio_right.db`](./zynqusp/segbits_hpio_right.db)
+ * [`6fc22620c37d7518453a56b4e29a901a1a1b2475434cafaa7e0d24e344d0c9c4  ./zynqusp/segbits_hpio_right.origin_info.db`](./zynqusp/segbits_hpio_right.origin_info.db)
  * [`f53f8d60b18d4f0d5902decd09aa11b4c2f4f32affe4561cc018f2c2fac0143f  ./zynqusp/segbits_int.db`](./zynqusp/segbits_int.db)
  * [`dfd5fd737f9a6afb092a5ec4bebc8012cc6a3310137164a8b02044a5eed39179  ./zynqusp/segbits_int.origin_info.db`](./zynqusp/segbits_int.origin_info.db)
  * [`612f1f1aa05aeecffb6181079bb41cc2c9e451a719ef75aa649acb3c2d24f2dd  ./zynqusp/segbits_int_intf_left_term_pss.db`](./zynqusp/segbits_int_intf_left_term_pss.db)
@@ -136,8 +132,8 @@ Results have checksums;
  * [`394972d5a3dea429c2b654912d9f27d874f070e2bc63f7bdfbd7acb227d7a3dd  ./zynqusp/segbits_rclk_intf_left_term_alto.origin_info.db`](./zynqusp/segbits_rclk_intf_left_term_alto.origin_info.db)
  * [`ee9156d2939e5e1a0b21defa58b8e53520738d19de26f0a82489a4a0c4b5432d  ./zynqusp/segbits_rclk_xiphy_outer_right.db`](./zynqusp/segbits_rclk_xiphy_outer_right.db)
  * [`5e17e3b76d1c9fd6a25a8a062051c396fe7867a46d697ab919479dcc145188b4  ./zynqusp/segbits_rclk_xiphy_outer_right.origin_info.db`](./zynqusp/segbits_rclk_xiphy_outer_right.origin_info.db)
- * [`e95cd8323f08248fec263686005ade0bcd7c846b2f37abe2c3c718f60bcff041  ./zynqusp/segbits_xiphy_byte_right.db`](./zynqusp/segbits_xiphy_byte_right.db)
- * [`0a2e51718306d8871a3d882458c41ef243d0b96c6143354c328a0ce5246996bc  ./zynqusp/segbits_xiphy_byte_right.origin_info.db`](./zynqusp/segbits_xiphy_byte_right.origin_info.db)
+ * [`a96c967556bd500d83161b8c043f4471dd27d41de54c73e07896996bcfc18572  ./zynqusp/segbits_xiphy_byte_right.db`](./zynqusp/segbits_xiphy_byte_right.db)
+ * [`a62eec460ac233fcd3c1a016e73a985deca0f5c33130793e6e71736d4d4a459d  ./zynqusp/segbits_xiphy_byte_right.origin_info.db`](./zynqusp/segbits_xiphy_byte_right.origin_info.db)
  * [`9790b6d0f981ad2ada9eede51aaac4d2cb8f2452556ad7c4272ea00c0b990863  ./zynqusp/site_types/site_type_BIAS.json`](./zynqusp/site_types/site_type_BIAS.json)
  * [`ed4e4a673acf63f067253efd64499e11449f535d8077aeea46a5acd71d6e2143  ./zynqusp/site_types/site_type_BITSLICE_CONTROL.json`](./zynqusp/site_types/site_type_BITSLICE_CONTROL.json)
  * [`43936af17425f2b3ddc11164ef31dd9f91373da1e992edd2ac9f550d674b17a9  ./zynqusp/site_types/site_type_BITSLICE_RX_TX.json`](./zynqusp/site_types/site_type_BITSLICE_RX_TX.json)
@@ -341,6 +337,7 @@ Results have checksums;
  * [`66e7353e3eb35b8deaf6fb77d1f2fcc767355120090c168afe0f602fca59af10  ./zynqusp/timings/RAMBFIFO36.sdf`](./zynqusp/timings/RAMBFIFO36.sdf)
  * [`6dd2b50ef212c7496607df7bcd58f5d42ea1fbcb39b44fba3326f1d3209372aa  ./zynqusp/timings/SLICEL.sdf`](./zynqusp/timings/SLICEL.sdf)
  * [`9b48d390bed0e71dc1a067a99b49c70d4c5ef99ab260e9b827b63c8b38119501  ./zynqusp/timings/SLICEM.sdf`](./zynqusp/timings/SLICEM.sdf)
+ * [`a50c6be62a51c0133e2a46add59534eeb596b58fb9e9a2cb1f8827cf8966c4bf  ./zynqusp/xczu3eg-sbva484-1-e/package_pins.csv`](./zynqusp/xczu3eg-sbva484-1-e/package_pins.csv)
  * [`edde4eee712ea316720897419ddf55a4323060af5d60122898bea8ce049270b8  ./zynqusp/xczu3eg-sbva484-1-e/part.json`](./zynqusp/xczu3eg-sbva484-1-e/part.json)
  * [`caf6cabed06ec63335ce4b403d0cd1ba840cfd2b3689102df44f4b09fb3853ef  ./zynqusp/xczu3eg-sbva484-1-e/part.yaml`](./zynqusp/xczu3eg-sbva484-1-e/part.yaml)
  * [`d9ba779ca3c3486f598c69fc6dd06ca1aac96e15b8da24eec3c82aca76e499ea  ./zynqusp/xczu3eg-sbva484-1-e/tileconn.json`](./zynqusp/xczu3eg-sbva484-1-e/tileconn.json)
